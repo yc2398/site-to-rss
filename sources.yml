@@ -43,3 +43,26 @@ sources:
       type: markdown
       fetch_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs/issue-{n}.md"
       base_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs"
+  # ──────────────────────────────────────────────────────────────
+  # Language teaching research
+  # ──────────────────────────────────────────────────────────────
+
+  - id: ltr-journal
+    name: Language Teaching Research
+    type: webpage
+    url: "https://journals.sagepub.com/rss/ltr.xml"
+    max_items: 20
+    item:
+      xpath: "//item"
+    title:
+      xpath: "./title/text()"
+    link:
+      xpath: "./link/text()"
+      attr: ""
+    date:
+      xpath: "./pubDate/text()"
+      format: "%a, %d %b %Y %H:%M:%S %z"
+    content:
+      xpath: "./description/text()"
+      type: html
+    tags: ["linguistics", "journal"]
