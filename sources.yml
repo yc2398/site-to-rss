@@ -3,8 +3,8 @@ feed:
   subtitle: "Monitor website changes, delivered as RSS · Updated daily"
   author: "RSS Bot"
   # CHANGE THIS to your GitHub Pages URL:
-  base_url: "https://mc-marcocheng.github.io/site-to-rss"
-  repo_url: "https://github.com/mc-marcocheng/site-to-rss"
+  base_url: "https://yc2398.github.io/site-to-rss"
+  repo_url: "https://github.com/yc2398/site-to-rss"
 
 sources:
   # ──────────────────────────────────────────────────────────────
