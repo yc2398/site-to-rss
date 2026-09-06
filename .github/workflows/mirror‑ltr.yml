@@ -1,0 +1,30 @@
+name: Mirror Language Teaching Research RSS
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC 时间，每天 08:00 执行（北京时间 16:00）
+    - cron: '0 8 * * *'
+
+jobs:
+  fetch‑rss:
+    runs‑on: ubuntu‑latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Prepare feeds folder
+        run: mkdir -p docs/feeds
+
+      - name: Download original RSS
+        run: |
+          curl -L "https://journals.sagepub.com/rss/ltr.xml" -o docs/feeds/ltr‑mirror.xml
+
+      - name: Commit & Push updated feed
+        run: |
+          git config --global user.name "RSS Bot"
+          git config --global user.email "noreply@github.com"
+          git add docs/feeds/ltr‑mirror.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto‑update LTR RSS mirror"
+          git push
