@@ -4,7 +4,6 @@ on:
   schedule:
     # UTC 时间，每天 08:00 执行（北京时间 16:00）
     - cron: '0 8 * * *'
-
 jobs:
   fetch‑rss:
   runs-on: ubuntu-latest
