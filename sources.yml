@@ -47,22 +47,26 @@ sources:
   # Language teaching research
   # ──────────────────────────────────────────────────────────────
 
-  - id: ltr-journal
-    name: Language Teaching Research
-    type: webpage
-    url: "https://sage.cnpereading.com/toc/LTR"
-    max_items: 20
-    item:
-      xpath: "//item"
+  - id: ltr
+  name: Language Teaching Research
+  type: webpage_items
+  url: "https://sage.cnpereading.com/toc/LTR"
+
+  items:
+    selector: "article"
+
     title:
-      xpath: "./title/text()"
+      selector: "h3 a"
+
     link:
-      xpath: "./link/text()"
-      attr: ""
+      selector: "h3 a"
+      attribute: "href"
+
+    author:
+      selector: ".author"
+
     date:
-      xpath: "./pubDate/text()"
-      format: "%a, %d %b %Y %H:%M:%S %z"
-    content:
-      xpath: "./description/text()"
-      type: html
-    tags: ["linguistics", "journal"]
+      selector: "time"
+
+    description:
+      selector: ".abstract"
