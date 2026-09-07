@@ -50,7 +50,7 @@ sources:
   - id: ltr-journal
     name: Language Teaching Research
     type: webpage
-    url: "https://journals.sagepub.com/rss/ltr.xml"
+    url: "https://sage.cnpereading.com/toc/LTR"
     max_items: 20
     item:
       xpath: "//item"
