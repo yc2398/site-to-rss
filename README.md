@@ -1,11 +1,12 @@
 # Site to RSS Monitor
 
-A powerful, lightweight, and extensible tool powered by GitHub Actions that monitors website changes and converts them into high-quality RSS (Atom) feeds. Perfect for sites that don't provide their own feeds.
+A powerful, lightweight, and extensible tool powered by GitHub Actions that monitors website changes and converts them into high-quality RSS 2.0 / Atom feeds. Perfect for sites that don't provide their own feeds.
 
 ## Key Features
 
 - **Multi-Source Aggregation**: Subscribe to a single feed that combines all your monitored sources.
-- **Individual Feeds**: Every source gets its own dedicated Atom feed, allowing you to subscribe only to what you care about.
+- **Dual Format Output**: Every feed is published as **RSS 2.0** *and* Atom, so any reader shows the abstract — not just the headline.
+- **Individual Feeds**: Every source gets its own dedicated feed, in both formats.
 - **Full Content Extraction**: Supports HTML (XPath/CSS), Markdown, and GitHub Release bodies.
 - **Dynamic Index Page**: Automatically generates a clean landing page listing all available sources and their feed links.
 - **Zero Maintenance**: Runs entirely on GitHub Actions; no server or database required.
@@ -16,9 +17,16 @@ A powerful, lightweight, and extensible tool powered by GitHub Actions that moni
 
 ### 1. Subscribe
 The main aggregated feed is available at:
-`https://yc2398.github.io/site-to-rss/feed.xml`
+`https://yc2398.github.io/site-to-rss/feed.xml` (RSS 2.0)
+
+The same content as Atom:
+`https://yc2398.github.io/site-to-rss/feed.atom.xml`
 
 Or visit the [Landing Page](https://yc2398.github.io/site-to-rss/) to find individual feed links.
+
+> **Which one should I use?** `.xml` (RSS 2.0) if your reader shows no abstract —
+> a fair number of readers only render RSS 2.0's `<description>`. `.atom.xml` if
+> you prefer Atom. Both carry identical content.
 
 ### 2. Host Your Own
 1. **Fork this repository**.
@@ -126,8 +134,8 @@ Listing pages often carry only a title, a link and an author — the abstract
 lives on the detail page, which some publishers put behind a bot challenge
 (`sage.cnpereading.com`, for example, serves a WAF slider captcha on its
 `/doi/...` pages). Instead of fighting the WAF, `enrich` resolves each item
-through its DOI in a scholarly metadata API and writes the abstract into
-`<summary>`:
+through its DOI in a scholarly metadata API and writes the abstract into the
+entry (RSS 2.0 `<description>`, Atom `<summary>`):
 
 ```yaml
 - id: my-journal
@@ -156,6 +164,29 @@ Notes:
   calls.
 - Both providers are public and need no API key. Be reasonable with
   `max_items`; Crossref asks heavy users to join its [polite pool](https://github.com/CrossRef/rest-api-doc#good-manners).
+
+### Feed formats (`feed.formats`)
+
+Every source is published in two flavours:
+
+| Setting | File | Where the abstract lands |
+| --- | --- | --- |
+| `rss` | `<name>.xml` | `<description>` — a CDATA-wrapped `<p>` block |
+| `atom` | `<name>.atom.xml` | `<summary>` |
+
+RSS 2.0 items also carry `<pubDate>` (RFC 822), `<guid>`, the author in
+`<dc:creator>`, tags in `<category>` and the scraped HTML in
+`<content:encoded>`.
+
+```yaml
+feed:
+  formats: [rss, atom]   # default — use [rss] or [atom] to publish just one
+  language: "en-us"      # RSS 2.0 <language>
+  ttl: 60                # RSS 2.0 <ttl>, in minutes
+```
+
+Existing entries are restored from whichever file was written last, so
+switching formats (or dropping one) never loses items or abstracts.
 
 ### Reusing config with YAML anchors
 
@@ -191,6 +222,7 @@ A source that needs one different field can still merge and override:
 2. **Fetch & Extract**: The Python script (`scripts/check_updates.py`) reads `sources.yml`, fetches the target pages, and extracts content using `lxml` and `cssselect`.
 3. **State Management**: It tracks the last seen issue or content hash in `state.json`.
 4. **Deploy**: New entries are committed to the repo, and GitHub Pages is updated with the latest XML feeds and `index.html`.
+5. **Format Coverage**: Each feed is written twice — RSS 2.0 (`.xml`) and Atom (`.atom.xml`) — because readers differ in which one they actually render.
 
 ## Contributing
 
