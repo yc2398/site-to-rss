@@ -843,20 +843,30 @@ class WebpageItemsChecker(SourceChecker):
         ).hexdigest()[:20]
         
         last_hash = self.state.get(state_key, "")
+        # A brand-new source normally only seeds the hash, so adding one to
+        # sources.yml does not dump the whole page into the feed at once.
+        # For listings that only ever carry a handful of items (a journal TOC,
+        # for example) that caution is unnecessary — `emit_on_init: true`
+        # publishes the current items on the very first run.
+        emit_on_init = bool(self.source.get("emit_on_init"))
+
         if not last_hash:
             self.state[state_key] = items_hash
+            if emit_on_init:
+                print(
+                    f"    ✅ Initialized and emitting {len(new_items)} item(s) "
+                    f"(hash: {items_hash})"
+                )
+                return new_items
             print(f"    Initialized (hash: {items_hash})")
             return []
-        
+
         if items_hash != last_hash:
             print(f"    ✅ Content changed! (old: {last_hash}, new: {items_hash})")
             self.state[state_key] = items_hash
-            # Return items only on first detection (first run returns empty to avoid spam)
-            if last_hash:  # Not first run
-                return new_items
-        else:
-            print(f"    No changes (hash: {items_hash})")
-        
+            return new_items
+
+        print(f"    No changes (hash: {items_hash})")
         return []
     
     def _resolve_url(self, url: str, base_url: str) -> str:
@@ -904,6 +914,7 @@ def load_existing_items() -> list:
                 "updated": "",
                 "summary": "",
                 "content": "",
+                "author": "",
                 "source": "",
                 "source_id": "",
                 "tags": [],
@@ -932,6 +943,13 @@ def load_existing_items() -> list:
             el = entry.find("atom:content", ns)
             if el is not None and el.text:
                 item["content"] = el.text
+
+            # Read the author back too. Every feed is rebuilt from scratch on
+            # each run, so skipping this field silently dropped the author of
+            # every older entry once it was reloaded from feed.xml.
+            el = entry.find("atom:author/atom:name", ns)
+            if el is not None and el.text:
+                item["author"] = el.text
 
             for cat in entry.findall("atom:category", ns):
                 term = cat.get("term", "")
