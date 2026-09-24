@@ -6,33 +6,89 @@ feed:
   base_url: "https://yc2398.github.io/site-to-rss"
   repo_url: "https://github.com/yc2398/site-to-rss"
 
+# ─────────────────────────────────────────────────────────────────────────
+# Shared building blocks
+#
+# All four journals below live on the same Sage platform
+# (sage.cnpereading.com), so they share one set of CSS selectors and one
+# abstract-enrichment recipe. YAML anchors keep that in a single place; a
+# journal that ever drifts can still override a single field with a merge key:
+#
+#     items:
+#       <<: *sage_items           # start from the shared block
+#       title: {selector: "h2 a"} # then replace just this one field
+# ─────────────────────────────────────────────────────────────────────────
+.sage_items: &sage_items
+  selector: "article"
+  title:
+    selector: "h3 a"
+  link:
+    selector: "h3 a"
+    attribute: "href"
+  author:
+    selector: ".journal-detail__author > span:first-child"
+    multiple: true
+  date:
+    selector: ".journal-detail__tag[aria-label*='Publication date']"
+    attribute: "aria-label"
+    regex: 'Publication date:\s*(.+)'
+
+# Listing pages carry only title / authors / date — no abstract. The article
+# pages (/doi/...) sit behind a SafeLine slider captcha, so the script cannot
+# read them. Instead the DOI is resolved through a scholarly metadata API,
+# which returns the same abstract as clean text.
+.sage_enrich: &sage_enrich
+  provider: crossref
+  fallback: openalex
+  key: link
+  doi_regex: '10\.\d{4,9}/[^/?#]+'
+
 sources:
-  # ──────────────────────────────────────────────────────────────
-  # Big Data & Society - Sage Journals
-  # ──────────────────────────────────────────────────────────────
+  # ────────────────────────────────────────────────────────────────────────
+  # Big Data & Society
+  # ────────────────────────────────────────────────────────────────────────
   - id: bds
     name: Big Data & Society
     type: webpage_items
     url: "https://sage.cnpereading.com/home/BDS"
-    items:
-      selector: "article"
-      title:
-        selector: "h3 a"
-      link:
-        selector: "h3 a"
-        attribute: "href"
-      author:
-        selector: ".journal-detail__author > span:first-child"
-        multiple: true
-      date:
-        selector: ".journal-detail__tag[aria-label*='Publication date']"
-        attribute: "aria-label"
-        regex: 'Publication date:\s*(.+)'
-    # 列表页只有标题/作者/日期，没有摘要；该站文章页 (/doi/...) 有 WAF 滑块
-    # 验证，脚本取不到。改为按 DOI 从文献元数据 API 取摘要（内容与文章页一致）。
-    enrich:
-      provider: crossref
-      fallback: openalex
-      key: link
-      doi_regex: '10\.\d{4,9}/[^/?#]+'
+    items: *sage_items
+    enrich: *sage_enrich
     tags: [big-data, society, open-access]
+
+  # ────────────────────────────────────────────────────────────────────────
+  # Journal of Information Technology
+  # ────────────────────────────────────────────────────────────────────────
+  - id: jin
+    name: Journal of Information Technology
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/JIN"
+    items: *sage_items
+    enrich: *sage_enrich
+    # Publish the current issue on the first run instead of waiting for the
+    # page to change, otherwise the feed would start out empty.
+    emit_on_init: true
+    tags: [information-technology, journal]
+
+  # ────────────────────────────────────────────────────────────────────────
+  # Education for Information
+  # ────────────────────────────────────────────────────────────────────────
+  - id: efi
+    name: Education for Information
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/EFI"
+    items: *sage_items
+    enrich: *sage_enrich
+    emit_on_init: true
+    tags: [education, information-science, journal]
+
+  # ────────────────────────────────────────────────────────────────────────
+  # Information Services and Use
+  # ────────────────────────────────────────────────────────────────────────
+  - id: isu
+    name: Information Services and Use
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/ISU"
+    items: *sage_items
+    enrich: *sage_enrich
+    emit_on_init: true
+    tags: [information-science, journal]
