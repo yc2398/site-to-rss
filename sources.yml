@@ -27,5 +27,5 @@ sources:
       date:
         selector: ".journal-detail__tag[aria-label*='Publication date']"
         attribute: "aria-label"
-        regex: "Publication date:\s*(.+)"
+        regex: 'Publication date:\s*(.+)'
     tags: [big-data, society, open-access]
