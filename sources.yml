@@ -28,4 +28,11 @@ sources:
         selector: ".journal-detail__tag[aria-label*='Publication date']"
         attribute: "aria-label"
         regex: 'Publication date:\s*(.+)'
+    # 列表页只有标题/作者/日期，没有摘要；该站文章页 (/doi/...) 有 WAF 滑块
+    # 验证，脚本取不到。改为按 DOI 从文献元数据 API 取摘要（内容与文章页一致）。
+    enrich:
+      provider: crossref
+      fallback: openalex
+      key: link
+      doi_regex: '10\.\d{4,9}/[^/?#]+'
     tags: [big-data, society, open-access]

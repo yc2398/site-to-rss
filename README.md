@@ -10,6 +10,7 @@ A powerful, lightweight, and extensible tool powered by GitHub Actions that moni
 - **Dynamic Index Page**: Automatically generates a clean landing page listing all available sources and their feed links.
 - **Zero Maintenance**: Runs entirely on GitHub Actions; no server or database required.
 - **Change Detection**: Smart hashing to detect when a webpage has actually changed.
+- **Metadata Enrichment**: Pull missing abstracts from Crossref / OpenAlex when a source's detail page is unreachable.
 
 ## Quick Start
 
@@ -87,11 +88,51 @@ Scrapes every item on a listing page (journal TOCs, blog indexes, ...). Each ite
     date:
       selector: ".pub-date"
       attribute: "aria-label"    # read any attribute, not just datetime
-      regex: "Published:\s*(.+)" # strip wrappers around the date
+      regex: 'Published:\s*(.+)' # strip wrappers around the date
     description:
       selector: ".abstract"
   tags: [journal]
 ```
+
+> ⚠️ **Always quote regexes with single quotes.** In YAML double quotes `\s`
+> is an illegal escape and the whole file fails to parse.
+
+### Enrichment (`enrich`)
+
+Listing pages often carry only a title, a link and an author — the abstract
+lives on the detail page, which some publishers put behind a bot challenge
+(`sage.cnpereading.com`, for example, serves a WAF slider captcha on its
+`/doi/...` pages). Instead of fighting the WAF, `enrich` resolves each item
+through its DOI in a scholarly metadata API and writes the abstract into
+`<summary>`:
+
+```yaml
+- id: my-journal
+  name: My Journal
+  type: webpage_items
+  url: "https://example.com/journal"
+  items:
+    selector: "article"
+    title: {selector: "h3 a"}
+    link: {selector: "h3 a", attribute: "href"}
+  enrich:
+    provider: crossref        # crossref | openalex
+    fallback: openalex        # tried if the primary provider has no abstract
+    key: link                 # item field to read the DOI from
+    doi_regex: '10\.\d{4,9}/[^/?#]+'
+    max_items: 20             # optional cap on API calls per run
+    max_chars: 500            # optional summary truncation
+  tags: [journal]
+```
+
+Notes:
+
+- Items that already have a `description`/`summary` are left untouched, so a
+  listing page that does carry an abstract always wins.
+- Enrichment only runs for **new** items — an unchanged source costs zero API
+  calls.
+- Both providers are public and need no API key. Be reasonable with
+  `max_items`; Crossref asks heavy users to join its [polite pool](https://github.com/CrossRef/rest-api-doc#good-manners).
 
 ## How it Works
 
