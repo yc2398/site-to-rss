@@ -5,6 +5,15 @@ feed:
   # CHANGE THIS to your GitHub Pages URL:
   base_url: "https://yc2398.github.io/site-to-rss"
   repo_url: "https://github.com/yc2398/site-to-rss"
+  # Which flavours to publish:
+  #   rss  → <name>.xml       (RSS 2.0 — <description> carries the abstract;
+  #                            this is what most readers actually render)
+  #   atom → <name>.atom.xml  (Atom 1.0, for clients that prefer it)
+  # Both by default. Drop one to publish only the other.
+  formats: [rss, atom]
+  # Optional RSS 2.0 channel extras:
+  language: "en-us"
+  ttl: 60
 
 # ─────────────────────────────────────────────────────────────────────────
 # Shared building blocks
@@ -92,3 +101,4 @@ sources:
     enrich: *sage_enrich
     emit_on_init: true
     tags: [information-science, journal]
+
