@@ -15,9 +15,9 @@ A powerful, lightweight, and extensible tool powered by GitHub Actions that moni
 
 ### 1. Subscribe
 The main aggregated feed is available at:
-`https://mc-marcocheng.github.io/site-to-rss/feed.xml`
+`https://yc2398.github.io/site-to-rss/feed.xml`
 
-Or visit the [Landing Page](https://mc-marcocheng.github.io/site-to-rss/) to find individual feed links.
+Or visit the [Landing Page](https://yc2398.github.io/site-to-rss/) to find individual feed links.
 
 ### 2. Host Your Own
 1. **Fork this repository**.
@@ -65,6 +65,32 @@ Converts GitHub repository releases into RSS entries.
   repo: "owner/repo"
   content:
     type: release_body
+```
+
+#### 4. Webpage Items (Listing Pages)
+Scrapes every item on a listing page (journal TOCs, blog indexes, ...). Each item becomes its own entry.
+```yaml
+- id: my-journal
+  name: My Journal
+  type: webpage_items
+  url: "https://example.com/journal"
+  items:
+    selector: "article"          # one CSS selector per item
+    title:
+      selector: "h3 a"
+    link:
+      selector: "h3 a"
+      attribute: "href"
+    author:
+      selector: ".author"
+      multiple: true             # join every match instead of only the first
+    date:
+      selector: ".pub-date"
+      attribute: "aria-label"    # read any attribute, not just datetime
+      regex: "Published:\s*(.+)" # strip wrappers around the date
+    description:
+      selector: ".abstract"
+  tags: [journal]
 ```
 
 ## How it Works
