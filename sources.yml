@@ -8,44 +8,6 @@ feed:
 
 sources:
   # ──────────────────────────────────────────────────────────────
-  # HelloGitHub - Monthly open source showcase
-  # ──────────────────────────────────────────────────────────────
-  - id: hellogithub
-    name: HelloGitHub
-    type: sequential
-    start: 121
-    url: "https://hellogithub.com/en/periodical/volume/{n}"
-    check_url: "https://hellogithub.com/en/periodical/volume/{n}"
-    title: "HelloGitHub Vol.{n}"
-    summary: "HelloGitHub periodical volume {n} is now available."
-    tags: [open-source, monthly]
-    content:
-      xpath: "/html/body/div[1]/div/div[1]/main/div/div/div[1]/div/div[2]"
-      type: html
-      base_url: "https://hellogithub.com"
-      remove:
-        - xpath: "//script"
-        - xpath: "//style"
-
-  # ──────────────────────────────────────────────────────────────
-  # Ruanyf's Tech Weekly - Chinese tech newsletter
-  # ──────────────────────────────────────────────────────────────
-  - id: ruanyf-weekly
-    name: 科技爱好者周刊
-    type: sequential
-    start: 394
-    url: "https://github.com/ruanyf/weekly/blob/master/docs/issue-{n}.md"
-    check_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs/issue-{n}.md"
-    title: "科技爱好者周刊 Issue {n}"
-    summary: "Ruanyf's Tech Weekly issue {n} is now available."
-    tags: [tech, weekly, chinese]
-    content:
-      type: markdown
-      fetch_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs/issue-{n}.md"
-      base_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs"
-
-  
-  # ──────────────────────────────────────────────────────────────
   # Big Data & Society - Sage Journals
   # ──────────────────────────────────────────────────────────────
   - id: bds
@@ -60,9 +22,10 @@ sources:
         selector: "h3 a"
         attribute: "href"
       author:
-        selector: ".author"
+        selector: ".journal-detail__author > span:first-child"
+        multiple: true
       date:
-        selector: "time"
-      description:
-        selector: ".abstract"
+        selector: ".journal-detail__tag[aria-label*='Publication date']"
+        attribute: "aria-label"
+        regex: 'Publication date:\s*(.+)'
     tags: [big-data, society, open-access]

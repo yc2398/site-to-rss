@@ -41,12 +41,19 @@ DATE_FORMATS = [
     "%d %B %Y",
     "%b %d, %Y",
     "%B %d, %Y",
+    "%B, %Y",
+    "%b, %Y",
 ]
 
 
 def _now() -> str:
     """Current UTC time as an Atom-compatible timestamp."""
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _clean_text(raw: str) -> str:
+    """Collapse whitespace so extracted values read like normal prose."""
+    return " ".join((raw or "").split())
 
 
 def _parse_date(raw: str) -> str:
@@ -611,21 +618,45 @@ class WebpageItemsChecker(SourceChecker):
                 elif not item.get("link"):
                     item["link"] = link_el[0].text_content().strip() if link_el else ""
             
-            # Extract author
+            # Extract author. Set `multiple: true` to join every match
+            # (e.g. all authors of a paper) instead of only the first one.
             author_config = items_config.get("author", {})
             if author_config and "selector" in author_config:
                 author_el = elem.cssselect(author_config["selector"])
                 if author_el:
-                    item["author"] = author_el[0].text_content().strip()
-            
-            # Extract date (prefer the machine-readable datetime attribute)
+                    names = []
+                    picked = author_el if author_config.get("multiple") else author_el[:1]
+                    for el in picked:
+                        name = _clean_text(el.text_content()).rstrip(",")
+                        if name and name not in names:
+                            names.append(name)
+                    if names:
+                        item["author"] = author_config.get("separator", ", ").join(names)
+
+            # Extract date. `attribute` reads any attribute (not just datetime)
+            # and `regex` strips wrappers such as "Publication date: September, 2026".
             date_config = items_config.get("date", {})
             if date_config and "selector" in date_config:
                 date_el = elem.cssselect(date_config["selector"])
                 if date_el:
-                    item["date"] = date_el[0].get("datetime") or date_el[
-                        0
-                    ].text_content().strip()
+                    attr = date_config.get("attribute")
+                    raw_date = date_el[0].get(attr) if attr else ""
+                    if not raw_date:
+                        raw_date = date_el[0].get("datetime") or ""
+                    if not raw_date:
+                        raw_date = date_el[0].text_content()
+                    raw_date = _clean_text(raw_date)
+                    pattern = date_config.get("regex")
+                    if pattern and raw_date:
+                        match = re.search(pattern, raw_date)
+                        if match:
+                            raw_date = (
+                                match.group(1) if match.groups() else match.group(0)
+                            ).strip()
+                        else:
+                            raw_date = ""
+                    if raw_date:
+                        item["date"] = raw_date
             
             # Extract description
             desc_config = items_config.get("description", {})
