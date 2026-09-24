@@ -1,6 +1,6 @@
 """
 Extensible RSS feed generator with full content extraction.
-Reads sources.yml, checks for new content, generates an Atom feed.
+Reads sources.yml, checks for new content, generates RSS 2.0 (and Atom) feeds.
 """
 
 import hashlib
@@ -29,9 +29,20 @@ import markdown
 SOURCES_FILE = "sources.yml"
 STATE_FILE = "state.json"
 FEED_FILE = "docs/feed.xml"
+# The canonical `.xml` file carries RSS 2.0 — that is what most readers
+# actually render (the Atom `<summary>` is ignored by a fair number of them).
+# The Atom flavour is still written alongside it for anyone who prefers it.
+ATOM_FEED_FILE = "docs/feed.atom.xml"
 INDEX_TEMPLATE = "templates/index_template.html"
 MAX_FEED_ITEMS = 100
 REQUEST_TIMEOUT = 30
+
+# Output flavours. `rss` writes <name>.xml, `atom` writes <name>.atom.xml.
+DEFAULT_FORMATS = ["rss", "atom"]
+KNOWN_FORMATS = ("rss", "atom")
+
+DC_NS = "http://purl.org/dc/elements/1.1/"
+CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 
 # Default pattern for locating a DOI inside an arbitrary URL / text.
 DOI_PATTERN = re.compile(r"10\.\d{4,9}/[^/?#\s\"'<>]+")
@@ -72,6 +83,69 @@ def _parse_date(raw: str) -> str:
         except ValueError:
             continue
     return ""
+
+
+# ─── Date conversion between Atom (ISO 8601) and RSS 2.0 (RFC 822) ──────────
+#
+# Both directions are spelled out by hand instead of going through strftime /
+# strptime, because %a and %b follow the process locale: on a machine with a
+# non-English locale the same code would happily emit or choke on localised
+# day/month names. Feed dates have to be English regardless of where the
+# workflow happens to run.
+
+_DAYS = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
+_MONTHS = (
+    "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+    "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+)
+_MONTH_NUM = {name.lower(): i for i, name in enumerate(_MONTHS, start=1)}
+_RFC822_RE = re.compile(
+    r"(\d{1,2})\s+([A-Za-z]{3,})\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})(?::(\d{2}))?)?"
+)
+
+
+def _parse_iso(raw: str):
+    """ISO 8601 -> aware datetime, or None when the value is unusable."""
+    raw = (raw or "").strip()
+    if not raw:
+        return None
+    iso = raw.replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(iso)
+    except ValueError:
+        return None
+    return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+
+
+def _rfc822(raw: str) -> str:
+    """Format a stored timestamp the way RSS 2.0 `<pubDate>` requires."""
+    dt = _parse_iso(raw)
+    if dt is None:
+        return ""
+    dt = dt.astimezone(timezone.utc)
+    return "{}, {:02d} {} {} {:02d}:{:02d}:{:02d} +0000".format(
+        _DAYS[dt.weekday()], dt.day, _MONTHS[dt.month - 1], dt.year,
+        dt.hour, dt.minute, dt.second,
+    )
+
+
+def _iso_from_rfc822(raw: str) -> str:
+    """Parse an RSS 2.0 `<pubDate>` back into the ISO form used internally."""
+    match = _RFC822_RE.search(raw or "")
+    if not match:
+        return ""
+    month = _MONTH_NUM.get(match.group(2)[:3].lower())
+    if not month:
+        return ""
+    try:
+        dt = datetime(
+            int(match.group(3)), month, int(match.group(1)),
+            int(match.group(4) or 0), int(match.group(5) or 0),
+            int(match.group(6) or 0), tzinfo=timezone.utc,
+        )
+    except ValueError:
+        return ""
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def dedupe_items(items: list) -> list:
@@ -901,77 +975,176 @@ CHECKERS = {
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
 
-def load_existing_items() -> list:
-    """Parse existing feed.xml and return items."""
+def _normalise_formats(value) -> list:
+    """Validate the `feed.formats` setting from sources.yml."""
+    if not value:
+        return list(DEFAULT_FORMATS)
+    if isinstance(value, str):
+        value = [value]
+
+    picked, unknown = [], []
+    for raw in value:
+        name = str(raw).strip().lower()
+        if not name:
+            continue
+        (picked if name in KNOWN_FORMATS else unknown).append(name)
+
+    if unknown:
+        print(f"⚠️  Unknown feed format(s) {unknown}; use one of {list(KNOWN_FORMATS)}")
+    if not picked:
+        print(f"⚠️  No usable feed format; falling back to {list(DEFAULT_FORMATS)}")
+        return list(DEFAULT_FORMATS)
+    return picked
+
+
+def _state_feed_path(formats: list) -> str:
+    """Which previously written feed to restore items from.
+
+    Atom carries the richer metadata, so it wins when it is being generated.
+    The other file is the fallback — needed on the very first run after the
+    format was switched, when the preferred file does not exist yet.
+    """
+    preferred = ATOM_FEED_FILE if "atom" in formats else FEED_FILE
+    fallback = FEED_FILE if preferred == ATOM_FEED_FILE else ATOM_FEED_FILE
+    return preferred if Path(preferred).exists() else fallback
+
+
+def _blank_item() -> dict:
+    return {
+        "title": "", "link": "", "id": "", "updated": "", "summary": "",
+        "content": "", "author": "", "source": "", "source_id": "", "tags": [],
+    }
+
+
+def _items_from_atom(root) -> list:
+    """Read entries out of an Atom 1.0 feed."""
+    ns = {"atom": ATOM_NS}
     items = []
-    if not Path(FEED_FILE).exists():
+    for entry in root.findall("atom:entry", ns):
+        item = _blank_item()
+
+        for field, path in (
+            ("title", "atom:title"),
+            ("id", "atom:id"),
+            ("updated", "atom:updated"),
+            ("summary", "atom:summary"),
+            ("content", "atom:content"),
+        ):
+            el = entry.find(path, ns)
+            if el is not None and el.text:
+                item[field] = el.text
+
+        el = entry.find("atom:link", ns)
+        if el is not None:
+            item["link"] = el.get("href", "")
+
+        # Read the author back too. Every feed is rebuilt from scratch on
+        # each run, so skipping this field silently dropped the author of
+        # every older entry once it was reloaded from feed.xml.
+        el = entry.find("atom:author/atom:name", ns)
+        if el is not None and el.text:
+            item["author"] = el.text
+
+        for cat in entry.findall("atom:category", ns):
+            term = cat.get("term", "")
+            scheme = cat.get("scheme", "")
+            if scheme == "source":
+                item["source"] = term
+            elif scheme == "source_id":
+                item["source_id"] = term
+            elif term:
+                item["tags"].append(term)
+
+        items.append(item)
+    return items
+
+
+def _items_from_rss(root) -> list:
+    """Read items out of the RSS 2.0 feed this script writes.
+
+    `<description>` is stored as HTML, so it has to be flattened back to the
+    plain-text `summary` the generator expects — otherwise every rebuild would
+    wrap the previous markup in yet another <p> and accumulate it.
+    """
+    ns = {"dc": DC_NS, "content": CONTENT_NS}
+    channel = root.find("channel")
+    if channel is None:
+        return []
+
+    items = []
+    for entry in channel.findall("item"):
+        item = _blank_item()
+
+        def text(tag):
+            el = entry.find(tag)
+            return el.text or "" if el is not None else ""
+
+        item["title"] = text("title").strip()
+        item["link"] = text("link").strip()
+        item["id"] = text("guid").strip() or item["link"]
+
+        pub = text("pubDate").strip()
+        item["updated"] = _iso_from_rfc822(pub) or _parse_date(pub)
+
+        item["summary"] = _strip_markup(text("description"))
+
+        el = entry.find("content:encoded", ns)
+        if el is not None and el.text:
+            item["content"] = el.text
+
+        el = entry.find("dc:creator", ns)
+        if el is not None and el.text:
+            item["author"] = el.text.strip()
+        elif entry.findtext("author"):
+            item["author"] = entry.findtext("author").strip()
+
+        for cat in entry.findall("category"):
+            term = (cat.text or "").strip()
+            domain = (cat.get("domain") or cat.get("scheme") or "").strip()
+            if not term:
+                continue
+            if domain == "source":
+                item["source"] = term
+            elif domain == "source_id":
+                item["source_id"] = term
+            else:
+                item["tags"].append(term)
+
+        items.append(item)
+    return items
+
+
+def load_existing_items(path: str = None) -> list:
+    """Parse a previously generated feed and return its items.
+
+    Both flavours are accepted: the file is rebuilt from scratch on every run,
+    so whatever we wrote last time has to be readable back regardless of
+    whether it was RSS 2.0 or Atom.
+    """
+    candidates = [path] if path else [ATOM_FEED_FILE, FEED_FILE]
+    for candidate in candidates:
+        if not candidate or not Path(candidate).exists():
+            continue
+        try:
+            root = parse(candidate).getroot()
+        except Exception as e:
+            print(f"⚠️  Could not parse existing feed {candidate}: {e}")
+            continue
+
+        tag = root.tag
+        if tag == "rss":
+            items = _items_from_rss(root)
+        elif tag == f"{{{ATOM_NS}}}feed" or tag == "feed":
+            items = _items_from_atom(root)
+        else:
+            print(f"⚠️  Unrecognised feed root <{tag}> in {candidate}")
+            continue
+
+        print(f"📂 Restored {len(items)} item(s) from {candidate} "
+              f"({'RSS 2.0' if tag == 'rss' else 'Atom'})")
         return items
 
-    try:
-        tree = parse(FEED_FILE)
-        root = tree.getroot()
-        ns = {"atom": ATOM_NS}
-
-        for entry in root.findall("atom:entry", ns):
-            item = {
-                "title": "",
-                "link": "",
-                "id": "",
-                "updated": "",
-                "summary": "",
-                "content": "",
-                "author": "",
-                "source": "",
-                "source_id": "",
-                "tags": [],
-            }
-
-            el = entry.find("atom:title", ns)
-            if el is not None and el.text:
-                item["title"] = el.text
-
-            el = entry.find("atom:link", ns)
-            if el is not None:
-                item["link"] = el.get("href", "")
-
-            el = entry.find("atom:id", ns)
-            if el is not None and el.text:
-                item["id"] = el.text
-
-            el = entry.find("atom:updated", ns)
-            if el is not None and el.text:
-                item["updated"] = el.text
-
-            el = entry.find("atom:summary", ns)
-            if el is not None and el.text:
-                item["summary"] = el.text
-
-            el = entry.find("atom:content", ns)
-            if el is not None and el.text:
-                item["content"] = el.text
-
-            # Read the author back too. Every feed is rebuilt from scratch on
-            # each run, so skipping this field silently dropped the author of
-            # every older entry once it was reloaded from feed.xml.
-            el = entry.find("atom:author/atom:name", ns)
-            if el is not None and el.text:
-                item["author"] = el.text
-
-            for cat in entry.findall("atom:category", ns):
-                term = cat.get("term", "")
-                scheme = cat.get("scheme", "")
-                if scheme == "source":
-                    item["source"] = term
-                elif scheme == "source_id":
-                    item["source_id"] = term
-                elif term:
-                    item["tags"].append(term)
-
-            items.append(item)
-    except Exception as e:
-        print(f"⚠️  Could not parse existing feed: {e}")
-
-    return items
+    return []
 
 
 def generate_feed(items: list, feed_config: dict, file_path: str):
@@ -1078,14 +1251,150 @@ def generate_feed(items: list, feed_config: dict, file_path: str):
     )
 
 
+# ─── RSS 2.0 output ────────────────────────────────────────────────────────
+#
+# The Atom feed was perfectly valid, yet a surprising number of readers show
+# nothing but the headline for it: they only look at RSS 2.0's <description>.
+# So every feed is now written as RSS 2.0 as well, with the abstract wrapped
+# in <p> inside a CDATA section — the shape big publishers (Springer, Elsevier)
+# ship and the shape readers reliably render.
+
+
+def _xml_text(raw) -> str:
+    """Escape a value for use as XML character data."""
+    return html_escape("" if raw is None else str(raw), quote=True)
+
+
+def _cdata(raw) -> str:
+    """Wrap a chunk of HTML so it survives as literal markup."""
+    text = "" if raw is None else str(raw)
+    # A literal ]]> would terminate the section early.
+    text = text.replace("]]>", "]]]]><![CDATA[>")
+    return f"<![CDATA[{text}]]>"
+
+
+def _paragraphs(raw: str) -> str:
+    """Turn plain text into one or more <p> elements."""
+    text = (raw or "").strip()
+    if not text:
+        return ""
+    blocks = [b for b in re.split(r"\n\s*\n", text) if b.strip()]
+    return "".join(f"<p>{_xml_text(_clean_text(b))}</p>" for b in blocks)
+
+
+def _description_html(item: dict) -> str:
+    """Build the <description> body: the abstract, or a fallback if missing."""
+    html = _paragraphs(item.get("summary", ""))
+    if html:
+        return html
+
+    # No abstract resolved (no DOI, API miss...). Fall back to the scraped
+    # snippet so the reader still shows something under the headline.
+    fallback = _strip_markup(item.get("content", ""))
+    if fallback:
+        if len(fallback) > 500:
+            fallback = fallback[:500].rstrip() + "…"
+        return f"<p>{_xml_text(fallback)}</p>"
+    return ""
+
+
+def generate_rss_feed(items: list, feed_config: dict, file_path: str):
+    """Generate an RSS 2.0 feed file."""
+    Path(file_path).parent.mkdir(parents=True, exist_ok=True)
+
+    base_url = feed_config.get("base_url", "https://example.com").rstrip("/")
+    filename = Path(file_path).name
+    feed_url = f"{base_url}/{filename}"
+    now = datetime.now(timezone.utc)
+
+    out = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0"'
+        f' xmlns:dc="{DC_NS}"'
+        f' xmlns:content="{CONTENT_NS}"'
+        ' xmlns:atom="http://www.w3.org/2005/Atom">',
+        "  <channel>",
+        f"    <title>{_xml_text(feed_config.get('title', 'Feed Aggregator'))}</title>",
+        f"    <link>{_xml_text(base_url)}</link>",
+        f"    <description>{_xml_text(feed_config.get('subtitle', ''))}</description>",
+        f"    <language>{_xml_text(feed_config.get('language', 'en-us'))}</language>",
+        f"    <lastBuildDate>{_rfc822(now.strftime('%Y-%m-%dT%H:%M:%SZ'))}</lastBuildDate>",
+        "    <generator>rss-aggregator</generator>",
+        f"    <ttl>{int(feed_config.get('ttl', 60))}</ttl>",
+        "    <docs>https://www.rssboard.org/rss-specification</docs>",
+        f'    <atom:link href="{_xml_text(feed_url)}" rel="self"'
+        ' type="application/rss+xml" />',
+    ]
+
+    for item in items[:MAX_FEED_ITEMS]:
+        out.append("    <item>")
+        out.append(f"      <title>{_xml_text(item.get('title', 'Untitled'))}</title>")
+
+        link = item.get("link", "")
+        out.append(f"      <link>{_xml_text(link)}</link>")
+
+        description = _description_html(item)
+        out.append(f"      <description>{_cdata(description)}</description>")
+
+        pub = _rfc822(item.get("updated") or _now())
+        if pub:
+            out.append(f"      <pubDate>{pub}</pubDate>")
+
+        guid = item.get("id") or link
+        if guid:
+            perma = "true" if str(guid).startswith("http") else "false"
+            out.append(
+                f'      <guid isPermaLink="{perma}">{_xml_text(guid)}</guid>'
+            )
+
+        if item.get("author"):
+            out.append(
+                f"      <dc:creator>{_xml_text(item['author'])}</dc:creator>"
+            )
+
+        if item.get("content"):
+            out.append(
+                f"      <content:encoded>{_cdata(item['content'])}</content:encoded>"
+            )
+
+        if item.get("source"):
+            out.append(
+                '      <category domain="source">'
+                f"{_xml_text(item['source'])}</category>"
+            )
+        if item.get("source_id"):
+            out.append(
+                '      <category domain="source_id">'
+                f"{_xml_text(item['source_id'])}</category>"
+            )
+        for tag in item.get("tags", []):
+            out.append(f"      <category>{_xml_text(tag)}</category>")
+
+        out.append("    </item>")
+
+    out.append("  </channel>")
+    out.append("</rss>")
+
+    xml_str = "\n".join(out) + "\n"
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(xml_str)
+
+    size_kb = Path(file_path).stat().st_size / 1024
+    print(
+        f"📄 Written {file_path} (RSS 2.0, {len(items[:MAX_FEED_ITEMS])} items,"
+        f" {size_kb:.1f} KB)"
+    )
+
+
 # ─── Index Page Generation ─────────────────────────────────────────────────
 
 
-def generate_index_html(sources: list, feed_config: dict):
+def generate_index_html(sources: list, feed_config: dict, formats: list = None):
     """Generate index.html from template and sources.yml data."""
     base_url = feed_config.get("base_url", "https://example.com").rstrip("/")
     repo_url = feed_config.get("repo_url", "#")
     feed_url = f"{base_url}/feed.xml"
+    formats = formats or list(DEFAULT_FORMATS)
 
     # Load template
     template_path = Path(INDEX_TEMPLATE)
@@ -1112,6 +1421,7 @@ def generate_index_html(sources: list, feed_config: dict):
         s_id = source["id"]
         s_name = html_escape(source.get("name", s_id))
         s_feed_url = f"{base_url}/{s_id}.xml"
+        s_atom_url = f"{base_url}/{s_id}.atom.xml"
         s_tags = source.get("tags", [])
 
         # Determine a visit URL (resolve template with start number)
@@ -1124,14 +1434,28 @@ def generate_index_html(sources: list, feed_config: dict):
         for tag in s_tags:
             tags_html += f'          <span class="card-tag">{html_escape(tag)}</span>\n'
 
+        # Both flavours get a copy button; RSS 2.0 is the one most readers
+        # render, Atom is there for clients that prefer it.
+        actions_html = (
+            f'          <button class="card-btn" '
+            f"onclick=\"copyFeed(this, '{html_escape(s_feed_url)}')\">⚡ RSS</button>\n"
+        )
+        if "atom" in formats:
+            actions_html += (
+                f'          <button class="card-btn secondary" '
+                f"onclick=\"copyFeed(this, '{html_escape(s_atom_url)}')\">⚛ ATOM</button>\n"
+            )
+        actions_html += (
+            f'          <a class="card-btn secondary" '
+            f'href="{html_escape(s_url)}" target="_blank" rel="noopener">↗ SITE</a>\n'
+        )
+
         cards_html += f'''      <div class="card">
         <h3 class="card-title">{s_name}</h3>
         <div class="card-tags">
 {tags_html}        </div>
         <div class="card-actions">
-          <button class="card-btn" onclick="copyFeed(this, '{html_escape(s_feed_url)}')">⚡ SUBSCRIBE</button>
-          <a class="card-btn secondary" href="{html_escape(s_url)}" target="_blank" rel="noopener">↗ VISIT</a>
-        </div>
+{actions_html}        </div>
       </div>
 '''
 
@@ -1150,6 +1474,24 @@ def generate_index_html(sources: list, feed_config: dict):
     html_content = html_content.replace("<!-- REPO_URL -->", html_escape(repo_url))
     html_content = html_content.replace("<!-- TOTAL_SOURCES -->", str(len(sources)))
     html_content = html_content.replace("<!-- SOURCE_CARDS -->", cards_html)
+
+    # <link rel="alternate"> tags: the canonical RSS 2.0 feed plus Atom when
+    # it is generated, so feed auto-discovery finds both.
+    alternates = []
+    if "rss" in formats:
+        alternates.append(
+            '  <link rel="alternate" type="application/rss+xml" '
+            f'title="{html_escape(title)} (RSS 2.0)" href="{html_escape(feed_url)}">'
+        )
+    if "atom" in formats:
+        alternates.append(
+            '  <link rel="alternate" type="application/atom+xml" '
+            f'title="{html_escape(title)} (Atom)"'
+            f' href="{html_escape(base_url + "/feed.atom.xml")}">'
+        )
+    html_content = html_content.replace(
+        "<!-- FEED_ALTERNATES -->", "\n".join(alternates)
+    )
 
     # Write output
     Path("docs").mkdir(parents=True, exist_ok=True)
@@ -1196,9 +1538,12 @@ def main():
         print("⚠️  No sources configured.")
         return 0
 
+    formats = _normalise_formats(feed_config.get("formats"))
+    print(f"📄 Feed format(s): {', '.join(formats)}")
+
     # Load state and existing feed
     state = load_state()
-    existing_items = load_existing_items()
+    existing_items = load_existing_items(_state_feed_path(formats))
     print(
         f"📂 Loaded state ({len(state)} keys) and {len(existing_items)} existing items\n"
     )
@@ -1259,8 +1604,11 @@ def main():
     if errors:
         print(f"⚠️  {len(errors)} error(s) occurred.")
 
-    # Generate main feed
-    generate_feed(all_items, feed_config, FEED_FILE)
+    # Generate main feed, in each configured flavour
+    if "rss" in formats:
+        generate_rss_feed(all_items, feed_config, FEED_FILE)
+    if "atom" in formats:
+        generate_feed(all_items, feed_config, ATOM_FEED_FILE)
 
     # Generate individual feeds (use source name as title, no prefix)
     for source in sources:
@@ -1268,10 +1616,13 @@ def main():
         s_items = [item for item in all_items if item.get("source_id") == s_id]
         fc = feed_config.copy()
         fc["title"] = source.get("name", s_id)
-        generate_feed(s_items, fc, f"docs/{s_id}.xml")
+        if "rss" in formats:
+            generate_rss_feed(s_items, fc, f"docs/{s_id}.xml")
+        if "atom" in formats:
+            generate_feed(s_items, fc, f"docs/{s_id}.atom.xml")
 
     # Generate HTML index
-    generate_index_html(sources, feed_config)
+    generate_index_html(sources, feed_config, formats)
 
     save_state(state)
 
@@ -1289,3 +1640,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
