@@ -57,7 +57,8 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "🔄 Feed updated (+${{ steps.check.outputs.new_count }} items) [$(date -u +%Y-%m-%d)]"
-            git pull --rebase origin master
+            # 不要用硬编码的 master：fork 后默认分支可能是 main，写死会直接失败
+            git pull --rebase origin ${{ github.ref_name }}
             git push
           fi
 
@@ -73,7 +74,8 @@ jobs:
       - name: Checkout (latest commit)
         uses: actions/checkout@v4
         with:
-          ref: master
+          # Pages 只发布默认分支的内容
+          ref: ${{ github.event.repository.default_branch }}
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
