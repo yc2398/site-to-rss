@@ -175,8 +175,14 @@ Every source is published in two flavours:
 | `atom` | `<name>.atom.xml` | `<summary>` |
 
 RSS 2.0 items also carry `<pubDate>` (RFC 822), `<guid>`, the author in
-`<dc:creator>`, tags in `<category>` and the scraped HTML in
-`<content:encoded>`.
+`<dc:creator>` and tags in `<category>`.
+
+`<content:encoded>` / Atom `<content>` is written **only when a real article
+body was scraped** — configure `items.content_selector` to get one. A listing
+card is not a body: it is badges and images with relative URLs, and it holds no
+abstract. Since some readers (tt-rss among them) prefer `<content:encoded>`
+over `<description>`, shipping that markup made them display the chrome and
+hide the abstract altogether. With no body, the abstract is what gets shown.
 
 ```yaml
 feed:
