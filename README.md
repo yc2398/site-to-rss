@@ -97,6 +97,29 @@ Scrapes every item on a listing page (journal TOCs, blog indexes, ...). Each ite
 > ⚠️ **Always quote regexes with single quotes.** In YAML double quotes `\s`
 > is an illegal escape and the whole file fails to parse.
 
+#### First run behaviour (`emit_on_init`)
+
+By default a new `webpage_items` source only records a hash on its first run
+and emits nothing — otherwise adding a source would dump the entire page into
+your feed at once. The items appear from the second run onwards, as the page
+changes.
+
+A journal TOC only ever lists a handful of papers, so waiting is pointless.
+Set `emit_on_init: true` to publish the current items immediately:
+
+```yaml
+- id: my-journal
+  name: My Journal
+  type: webpage_items
+  url: "https://example.com/journal"
+  emit_on_init: true      # publish on the first run instead of waiting
+  items:
+    selector: "article"
+    title: {selector: "h3 a"}
+    link: {selector: "h3 a", attribute: "href"}
+  tags: [journal]
+```
+
 ### Enrichment (`enrich`)
 
 Listing pages often carry only a title, a link and an author — the abstract
@@ -133,6 +156,34 @@ Notes:
   calls.
 - Both providers are public and need no API key. Be reasonable with
   `max_items`; Crossref asks heavy users to join its [polite pool](https://github.com/CrossRef/rest-api-doc#good-manners).
+
+### Reusing config with YAML anchors
+
+Several sources often share the same platform and therefore the same
+selectors. Define the block once and reference it, instead of copy-pasting it
+into every source:
+
+```yaml
+.sage_items: &sage_items      # the leading dot keeps it out of the feed
+  selector: "article"
+  title: {selector: "h3 a"}
+  link: {selector: "h3 a", attribute: "href"}
+
+sources:
+  - id: journal-a
+    name: Journal A
+    type: webpage_items
+    url: "https://example.com/a"
+    items: *sage_items
+```
+
+A source that needs one different field can still merge and override:
+
+```yaml
+    items:
+      <<: *sage_items            # start from the shared block
+      title: {selector: "h2 a"}  # replace just this field
+```
 
 ## How it Works
 
