@@ -43,30 +43,46 @@ sources:
       type: markdown
       fetch_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs/issue-{n}.md"
       base_url: "https://raw.githubusercontent.com/ruanyf/weekly/master/docs"
+
   # ──────────────────────────────────────────────────────────────
   # Language teaching research
   # ──────────────────────────────────────────────────────────────
-
   - id: ltr
-  name: Language Teaching Research
-  type: webpage_items
-  url: "https://sage.cnpereading.com/toc/LTR"
+    name: Language Teaching Research
+    type: webpage_items
+    url: "https://sage.cnpereading.com/toc/LTR"
+    items:
+      selector: "article"
+      title:
+        selector: "h3 a"
+      link:
+        selector: "h3 a"
+        attribute: "href"
+      author:
+        selector: ".author"
+      date:
+        selector: "time"
+      description:
+        selector: ".abstract"
 
-  items:
-    selector: "article"
-
-    title:
-      selector: "h3 a"
-
-    link:
-      selector: "h3 a"
-      attribute: "href"
-
-    author:
-      selector: ".author"
-
-    date:
-      selector: "time"
-
-    description:
-      selector: ".abstract"
+  # ──────────────────────────────────────────────────────────────
+  # Big Data & Society - Sage Journals
+  # ──────────────────────────────────────────────────────────────
+  - id: bds
+    name: Big Data & Society
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/BDS"
+    items:
+      selector: "article"
+      title:
+        selector: "h3 a"
+      link:
+        selector: "h3 a"
+        attribute: "href"
+      author:
+        selector: ".author"
+      date:
+        selector: "time"
+      description:
+        selector: ".abstract"
+    tags: [big-data, society, open-access]
