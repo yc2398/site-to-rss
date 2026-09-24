@@ -837,9 +837,15 @@ class WebpageItemsChecker(SourceChecker):
                 }
             )
         
-        # Compute hash for change detection
+        # Hash the items, not the raw page: the page carries timestamps and
+        # other noise that changes on every request. Sort the pairs first —
+        # this listing reshuffles its order between requests, which would
+        # otherwise look like a change every single run and re-trigger
+        # enrichment for items we already have.
         items_hash = hashlib.sha256(
-            str([(i.get("title", ""), i.get("link", "")) for i in new_items]).encode("utf-8")
+            str(sorted((i.get("title", ""), i.get("link", "")) for i in new_items)).encode(
+                "utf-8"
+            )
         ).hexdigest()[:20]
         
         last_hash = self.state.get(state_key, "")
