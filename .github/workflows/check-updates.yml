@@ -28,6 +28,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # 必须取完整历史：默认的 depth=1 浅克隆会切断本地提交的父提交，
+          # 使 git pull --rebase 把 tip 当作根提交重放（patch = 新增全部文件），
+          # 导致任何被改动过的文件都出现 CONFLICT (add/add)
+          fetch-depth: 0
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
