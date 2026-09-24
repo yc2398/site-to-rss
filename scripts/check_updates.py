@@ -11,6 +11,7 @@ import sys
 import traceback
 import urllib.request
 import urllib.error
+import urllib.parse
 from datetime import datetime, timezone
 from html import escape as html_escape
 from pathlib import Path
@@ -31,6 +32,9 @@ FEED_FILE = "docs/feed.xml"
 INDEX_TEMPLATE = "templates/index_template.html"
 MAX_FEED_ITEMS = 100
 REQUEST_TIMEOUT = 30
+
+# Default pattern for locating a DOI inside an arbitrary URL / text.
+DOI_PATTERN = re.compile(r"10\.\d{4,9}/[^/?#\s\"'<>]+")
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 DATE_FORMATS = [
     "%Y-%m-%dT%H:%M:%SZ",
@@ -108,6 +112,139 @@ def http_get(url: str, method: str = "GET") -> tuple:
         return e.code, ""
     except Exception:
         return 0, ""
+
+
+def http_get_json(url: str) -> dict:
+    """GET a JSON document. Returns {} on any failure (never raises)."""
+    status, body = http_get(url)
+    if status != 200 or not body:
+        return {}
+    try:
+        data = json.loads(body)
+    except Exception:
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
+# ─── Abstract / metadata enrichment ────────────────────────────────────────
+#
+# Listing pages (journal TOCs, news indexes) usually carry only a title, a
+# link and maybe an author. The abstract lives on the detail page — which some
+# publishers put behind a bot challenge (sage.cnpereading.com serves a
+# SafeLine slider captcha for its /doi/ pages). Rather than fight the WAF we
+# resolve the item through its DOI in a scholarly metadata API, which returns
+# the very same abstract as clean text.
+
+
+def _strip_markup(raw: str) -> str:
+    """Drop JATS/HTML tags so a Crossref abstract becomes plain prose."""
+    text = raw or ""
+    if "<" not in text:
+        return _clean_text(text)
+    try:
+        return _clean_text(lxml_html.fromstring(text).text_content())
+    except Exception:
+        return _clean_text(re.sub(r"<[^>]+>", " ", text))
+
+
+def _extract_doi(text: str, pattern: str = "") -> str:
+    """Pull the first DOI out of a URL or free text."""
+    if not text:
+        return ""
+    rx = re.compile(pattern) if pattern else DOI_PATTERN
+    match = rx.search(text)
+    return match.group(0).rstrip(".,;") if match else ""
+
+
+def _crossref_abstract(doi: str) -> str:
+    data = http_get_json(
+        "https://api.crossref.org/works/" + urllib.parse.quote(doi, safe="")
+    )
+    message = data.get("message") or {}
+    return _strip_markup(message.get("abstract") or "")
+
+
+def _openalex_abstract(doi: str) -> str:
+    data = http_get_json(
+        "https://api.openalex.org/works/doi:" + urllib.parse.quote(doi, safe="")
+    )
+    index = data.get("abstract_inverted_index")
+    if not isinstance(index, dict) or not index:
+        return ""
+    # OpenAlex ships the abstract as {word: [positions]} to save space.
+    positions = {}
+    for word, places in index.items():
+        for place in places:
+            positions[place] = word
+    return " ".join(positions[i] for i in sorted(positions))
+
+
+ABSTRACT_PROVIDERS = {
+    "crossref": _crossref_abstract,
+    "openalex": _openalex_abstract,
+}
+
+
+def enrich_items(items: list, enrich_config: dict, source_name: str = "") -> int:
+    """
+    Fill missing `summary` values by looking each item up by DOI.
+
+    Items that already have a summary are left alone, so a listing page that
+    does carry an abstract wins over the API. Returns how many were enriched.
+    """
+    if not enrich_config or not items:
+        return 0
+
+    def as_list(value):
+        if not value:
+            return []
+        return [value] if isinstance(value, str) else list(value)
+
+    providers = [
+        name
+        for name in as_list(enrich_config.get("provider"))
+        + as_list(enrich_config.get("fallback"))
+        if name in ABSTRACT_PROVIDERS
+    ]
+    if not providers:
+        print(f"    ⚠️  enrich: unknown provider(s); use one of "
+              f"{sorted(ABSTRACT_PROVIDERS)}")
+        return 0
+
+    key_field = enrich_config.get("key", "link")
+    pattern = enrich_config.get("doi_regex", "")
+    max_items = int(enrich_config.get("max_items", 0) or 0)
+    max_chars = int(enrich_config.get("max_chars", 0) or 0)
+    label = f"  [{source_name}] " if source_name else "    "
+
+    filled = 0
+    for item in items:
+        if max_items and filled >= max_items:
+            break
+        if item.get("summary"):
+            continue
+        doi = _extract_doi(str(item.get(key_field, "")), pattern)
+        if not doi:
+            continue
+
+        for name in providers:
+            try:
+                abstract = ABSTRACT_PROVIDERS[name](doi)
+            except Exception as e:  # never let enrichment kill the run
+                print(f"{label}⚠️  enrich {doi} via {name} failed: {e}")
+                continue
+            if not abstract:
+                continue
+            if max_chars and len(abstract) > max_chars:
+                abstract = abstract[:max_chars].rstrip() + "…"
+            item["summary"] = abstract
+            filled += 1
+            print(f"{label}📄 abstract via {name} ({len(abstract)} chars): {doi}")
+            break
+        else:
+            print(f"{label}⚠️  no abstract available for {doi}")
+
+    return filled
 
 
 def url_exists(url: str) -> bool:
@@ -1061,6 +1198,13 @@ def main():
         checker = checker_cls(source, state)
         try:
             new_items = checker.check()
+            # Only hits the network for genuinely new items, so an unchanged
+            # source costs nothing.
+            filled = enrich_items(
+                new_items, source.get("enrich"), source.get("name", source_id)
+            )
+            if filled:
+                print(f"  ✨ Enriched {filled} item(s) with abstracts")
             all_new_items.extend(new_items)
         except Exception as e:
             msg = f"Error checking '{source_id}': {e}"
