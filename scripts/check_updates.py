@@ -32,6 +32,51 @@ INDEX_TEMPLATE = "templates/index_template.html"
 MAX_FEED_ITEMS = 100
 REQUEST_TIMEOUT = 30
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+DATE_FORMATS = [
+    "%Y-%m-%dT%H:%M:%SZ",
+    "%Y-%m-%d %H:%M:%S",
+    "%Y-%m-%d",
+    "%Y/%m/%d",
+    "%d %b %Y",
+    "%d %B %Y",
+    "%b %d, %Y",
+    "%B %d, %Y",
+]
+
+
+def _now() -> str:
+    """Current UTC time as an Atom-compatible timestamp."""
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _parse_date(raw: str) -> str:
+    """Best-effort date parsing. Returns '' when the value is unusable."""
+    raw = (raw or "").strip()
+    if not raw:
+        return ""
+    for fmt in DATE_FORMATS:
+        try:
+            dt = datetime.strptime(raw, fmt)
+            return dt.replace(tzinfo=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        except ValueError:
+            continue
+    return ""
+
+
+def dedupe_items(items: list) -> list:
+    """Drop repeated entries, keeping the first occurrence of each id."""
+    seen = set()
+    result = []
+    for item in items:
+        key = item.get("id") or item.get("link") or item.get("title")
+        if not key:
+            result.append(item)
+            continue
+        if key in seen:
+            continue
+        seen.add(key)
+        result.append(item)
+    return result
 
 
 # ─── HTTP Helpers ──────────────────────────────────────────────────────────
@@ -446,6 +491,12 @@ class WebpageChecker(SourceChecker):
         if content_config:
             content_html = extract_content(url, content_config)
             hash_source = content_html
+            if not content_html:
+                # An empty extraction means the selector broke (page redesign,
+                # anti-bot page, ...). Do NOT record it as a valid state,
+                # otherwise the next run would treat it as "content changed".
+                print("    ⚠️  Extracted content is empty — state left untouched")
+                return []
         else:
             hash_source = body
 
@@ -532,7 +583,9 @@ class WebpageItemsChecker(SourceChecker):
             return []
         
         print(f"    Found {len(elements)} item(s)")
-        
+
+        now = _now()
+
         # Extract data from each item
         for elem in elements:
             item = {}
@@ -565,12 +618,14 @@ class WebpageItemsChecker(SourceChecker):
                 if author_el:
                     item["author"] = author_el[0].text_content().strip()
             
-            # Extract date
+            # Extract date (prefer the machine-readable datetime attribute)
             date_config = items_config.get("date", {})
             if date_config and "selector" in date_config:
                 date_el = elem.cssselect(date_config["selector"])
                 if date_el:
-                    item["date"] = date_el[0].text_content().strip()
+                    item["date"] = date_el[0].get("datetime") or date_el[
+                        0
+                    ].text_content().strip()
             
             # Extract description
             desc_config = items_config.get("description", {})
@@ -589,7 +644,30 @@ class WebpageItemsChecker(SourceChecker):
             else:
                 item["content"] = etree.tostring(elem, encoding="unicode", method="html")
             
-            new_items.append(item)
+            # Normalize into the shape generate_feed() and main() expect.
+            # Without source_id/updated the entry would be dropped from the
+            # per-source feed and would emit an invalid empty <updated/>.
+            title = item.get("title", "").strip()
+            link = item.get("link", "") or url
+            item_id = link or "{}-{}".format(
+                self.source_id,
+                hashlib.sha256(title.encode("utf-8")).hexdigest()[:12],
+            )
+
+            new_items.append(
+                {
+                    "title": title or "Untitled",
+                    "link": link,
+                    "id": item_id,
+                    "updated": _parse_date(item.get("date", "")) or now,
+                    "summary": item.get("description", ""),
+                    "content": item.get("content", ""),
+                    "author": item.get("author", ""),
+                    "source": self.source["name"],
+                    "source_id": self.source_id,
+                    "tags": tags,
+                }
+            )
         
         # Compute hash for change detection
         items_hash = hashlib.sha256(
@@ -753,7 +831,12 @@ def generate_feed(items: list, feed_config: dict, file_path: str):
         el.text = item.get("id", item.get("link", ""))
 
         el = SubElement(entry, "updated")
-        el.text = item.get("updated", "")
+        el.text = item.get("updated") or _now()
+
+        if item.get("author"):
+            entry_author = SubElement(entry, "author")
+            el = SubElement(entry_author, "name")
+            el.text = item["author"]
 
         # Summary (plain text, shown in list views)
         if item.get("summary"):
@@ -900,11 +983,22 @@ def main():
         print(f"❌ {SOURCES_FILE} not found!")
         return 1
 
-    with open(SOURCES_FILE, "r", encoding="utf-8") as f:
-        config = yaml.safe_load(f)
+    try:
+        with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+            config = yaml.safe_load(f)
+    except yaml.YAMLError as e:
+        # A broken sources.yml used to crash the whole run with a bare
+        # traceback. Report it clearly so the failing line is obvious.
+        print(f"❌ {SOURCES_FILE} is not valid YAML:")
+        print(f"   {e}")
+        return 1
+
+    if not isinstance(config, dict):
+        print(f"❌ {SOURCES_FILE} must contain a YAML mapping at the top level.")
+        return 1
 
     feed_config = config.get("feed", {})
-    sources = config.get("sources", [])
+    sources = config.get("sources", []) or []
 
     if not sources:
         print("⚠️  No sources configured.")
@@ -951,10 +1045,17 @@ def main():
 
     if has_updates:
         print(f"🎉 Found {len(all_new_items)} new item(s)!")
-        all_items = all_new_items + existing_items
+        merged = all_new_items + existing_items
     else:
         print("😴 No new items found.")
-        all_items = existing_items
+        merged = existing_items
+
+    # Newest first, then drop repeats (webpage_items re-emits the whole list
+    # on every change, which used to pile up duplicates).
+    all_items = dedupe_items(merged)
+    dropped = len(merged) - len(all_items)
+    if dropped:
+        print(f"🧹 Removed {dropped} duplicated item(s)")
 
     if errors:
         print(f"⚠️  {len(errors)} error(s) occurred.")
