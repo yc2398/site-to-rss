@@ -876,15 +876,21 @@ class WebpageItemsChecker(SourceChecker):
                 if desc_el:
                     item["description"] = desc_el[0].text_content().strip()
             
-            # Build content HTML from the item element
-            if "content_selector" in items_config:
-                content_el = elem.cssselect(items_config["content_selector"])
+            # Full article HTML. Deliberately NOT the whole <article> block:
+            # a listing card is nearly all chrome — badges, aria labels and
+            # images with relative URLs — and carries no abstract at all.
+            # Readers that prefer <content:encoded> over <description>
+            # (tt-rss among them) end up rendering that chrome and nothing
+            # else. So leave the body empty unless the config points at a
+            # real body selector.
+            content_selector = items_config.get("content_selector")
+            item["content"] = ""
+            if content_selector:
+                content_el = elem.cssselect(content_selector)
                 if content_el:
-                    item["content"] = etree.tostring(content_el[0], encoding="unicode", method="html")
-                else:
-                    item["content"] = ""
-            else:
-                item["content"] = etree.tostring(elem, encoding="unicode", method="html")
+                    item["content"] = etree.tostring(
+                        content_el[0], encoding="unicode", method="html"
+                    )
             
             # Normalize into the shape generate_feed() and main() expect.
             # Without source_id/updated the entry would be dropped from the
@@ -1208,10 +1214,14 @@ def generate_feed(items: list, feed_config: dict, file_path: str):
             el = SubElement(entry, "summary", type="text")
             el.text = item["summary"]
 
-        # Full content (HTML, shown when you open the item)
-        if item.get("content"):
+        # Full content (HTML, shown when you open the item). Skipped when the
+        # stored HTML is listing chrome rather than a body — see
+        # _usable_content: an empty <content> sends the reader back to
+        # <summary>, which is the abstract.
+        body = _usable_content(item.get("content", ""), item.get("summary", ""))
+        if body:
             el = SubElement(entry, "content", type="html")
-            el.text = item["content"]
+            el.text = body
 
         # Source tags
         if item.get("source"):
@@ -1282,6 +1292,29 @@ def _paragraphs(raw: str) -> str:
     return "".join(f"<p>{_xml_text(_clean_text(b))}</p>" for b in blocks)
 
 
+def _usable_content(content: str, summary: str) -> str:
+    """Return the stored body only when it really is one.
+
+    Older runs put the whole listing card in here. That HTML is chrome — no
+    abstract, badges, images with relative URLs — and a reader that prefers
+    <content:encoded> over <description> (tt-rss, for one) then shows that
+    chrome and hides the abstract entirely. A real body contains the
+    abstract, so use that as the test; anything else is dropped and the
+    reader falls back to <description>.
+    """
+    if not content:
+        return ""
+    text = _strip_markup(content)
+    if not text:
+        return ""
+    probe = (summary or "").strip()[:100]
+    if probe and probe in text:
+        return content
+    # No abstract to compare against? Keep it only if there is enough prose
+    # for it to plausibly be an article body.
+    return content if len(text) > 1000 else ""
+
+
 def _description_html(item: dict) -> str:
     """Build the <description> body: the abstract, or a fallback if missing."""
     html = _paragraphs(item.get("summary", ""))
@@ -1290,7 +1323,9 @@ def _description_html(item: dict) -> str:
 
     # No abstract resolved (no DOI, API miss...). Fall back to the scraped
     # snippet so the reader still shows something under the headline.
-    fallback = _strip_markup(item.get("content", ""))
+    fallback = _strip_markup(
+        _usable_content(item.get("content", ""), item.get("summary", ""))
+    )
     if fallback:
         if len(fallback) > 500:
             fallback = fallback[:500].rstrip() + "…"
@@ -1352,9 +1387,13 @@ def generate_rss_feed(items: list, feed_config: dict, file_path: str):
                 f"      <dc:creator>{_xml_text(item['author'])}</dc:creator>"
             )
 
-        if item.get("content"):
+        # Only emit <content:encoded> when there is a genuine body. Both
+        # description and content:encoded present means some readers take the
+        # *last* one — so a junk body would win over the abstract.
+        body = _usable_content(item.get("content", ""), item.get("summary", ""))
+        if body:
             out.append(
-                f"      <content:encoded>{_cdata(item['content'])}</content:encoded>"
+                f"      <content:encoded>{_cdata(body)}</content:encoded>"
             )
 
         if item.get("source"):
