@@ -5,11 +5,107 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 04:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:22:46 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
+      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
+      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
+      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
+      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
+      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
+      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Understanding patients’ doctor choice behavior: Elaboration likelihood perspective</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241259126</link>
+      <description><![CDATA[<p>The rise of health 2.0 technologies has led to an increasing number of patients seeking medical advice in online health communities. This has ignited scholarly interest in exploring patients’ online doctor choice behaviors. While many researchers have examined the various determinants that impact this decision-making process, relatively few have delved into doctors’ functional quality embedded in doctor-patient interactions, and fewer have considered the role of patient health literacy. Thus, this study focuses on doctors’ functional quality, online reputation, and patient health literacy. Grounded in the Elaboration Likelihood Model and service quality theory, this study analyzes 143,895 doctor-patient text interactions involving 764 doctors. Results indicate that both functional quality and online reputation significantly influence patients’ choices of doctors. Additionally, patient health literacy moderates the impact of doctors’ online reputation on patient decisions. The findings contribute theoretical insights for researchers and practical implications for doctors and platform administrators.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241259126</guid>
+      <dc:creator>Junhui Yan, Changyong Liang, Dongxiao Gu</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The current state of institutional repositories in universities of Türkiye: An applied research study</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241282339</link>
+      <description><![CDATA[<p>The purpose of this article is to analyze the current state of institutional repositories owned by Turkish universities, identify the challenges faced by librarians responsible for managing these repositories, and propose solutions to overcome these obstacles. A survey was distributed to 181 institutions in Türkiye. Responses were received from 80 institutions. The findings revealed the difficulties experienced by librarians working in institutional repositories and the areas where they need improvement. Researchers spend too much time uploading their publications, data entry is not mandatory in institutional repository policies, copyright/ownership issues, a lack of understanding of the importance of institutional repositories, legal infrastructure deficiencies, budget constraints, and a lack of technical support are among the main challenges faced by institutions. The first three areas that institutional repositories need are budget, support and attention from university administration and adequate and competent staff. Again, the study revealed that Council of Higher Education did not fulfill its duties and responsibilities regarding institutional repositories. As a result of the study, solutions specific to the problems and needs experienced by institutional repositories have been proposed. The study aims to bridge literature gaps on repository processes in Turkish university libraries, providing insights and practical solutions for enhancing institutional repository performance.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241282339</guid>
+      <dc:creator>Emine Cengiz Mater</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Exploring the use of technology in improving access to education for internally displaced children in Nigeria: A review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241268228</link>
+      <description><![CDATA[<p>The ongoing conflicts and instability in various regions of Nigeria have resulted in a growing number of internally displaced persons (IDPs), including a significant population of children. These displaced children face significant barriers in accessing quality education, which is crucial for their personal development, social integration, and future prospects. This literature review aims to explore the potential of technology in improving access to education for internally displaced children in Nigeria. The review examines the current landscape of access to education for internally displaced children in Nigeria, explores, the role of technology in addressing the educational needs of internally displaced children, analyzes innovative technological interventions implemented in Nigeria to improve access to education for internally displaced children, assesses the effectiveness and sustainability of technology-based educational initiatives targeting internally displaced children. Other objectives include identifying the policy and infrastructure requirements necessary for the successful implementation of technology-based initiatives for internally displaced children, identifying the specific challenges and barriers faced by internally displaced children in accessing quality education in Nigeria and making recommendations for the Nigerian Government. The review synthesizes findings from both academic literature and practical case studies, highlighting successful initiatives and best practices in using technology to improve educational access for internally displaced children. The findings of this literature review are expected to inform policymakers, educational stakeholders, and humanitarian organizations on the role of technology in addressing the educational needs of internally displaced children in Nigeria. The review provides recommendations for the development and implementation of technology-driven educational programs that are tailored to the unique circumstances and requirements of this population, ultimately contributing to the goal of providing equitable access to quality education for all.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241268228</guid>
+      <dc:creator>Christie Bola Elegbede, Kikelomo Oluwayemisi Adedotun, Akolade Olubunmi Lapite</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Evaluation of health records management systems of Lagos State University Teaching Hospital,Nigeria</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264754</link>
+      <description><![CDATA[<p>This study evaluated the health records management systems of Lagos State University Teaching Hospital (LASUTH). A survey research methodology with a quantitative approach was employed using a questionnaire. The study covered the healthcare providers and medical records officers. After the employment of a two-stage sampling technique, a sample size of 394 respondents constituted the study population. Data were collected from August 2022 to June 2023. The analysis of the responses was univariate using frequency, percentage and mean. The major findings detected the successes and failures of the Manual and Electronic Health Records Management Systems, notwithstanding the overall favourable use. Moreover, the study showed a positive agreement with the seven DeLeon and McLean Model variables that measured user experience. The study recommended that the LASUTH authority needs to consciously work on curbing the concerns that are the root causes of records management challenges and the implementation of records management systems.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264754</guid>
+      <dc:creator>Richard Olalekan Arogunjo, Olayinka Babayemi Makinde</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
@@ -111,18 +207,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>The current state of institutional repositories in universities of Türkiye: An applied research study</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241282339</link>
-      <description><![CDATA[<p>The purpose of this article is to analyze the current state of institutional repositories owned by Turkish universities, identify the challenges faced by librarians responsible for managing these repositories, and propose solutions to overcome these obstacles. A survey was distributed to 181 institutions in Türkiye. Responses were received from 80 institutions. The findings revealed the difficulties experienced by librarians working in institutional repositories and the areas where they need improvement. Researchers spend too much time uploading their publications, data entry is not mandatory in institutional repository policies, copyright/ownership issues, a lack of understanding of the importance of institutional repositories, legal infrastructure deficiencies, budget constraints, and a lack of technical support are among the main challenges faced by institutions. The first three areas that institutional repositories need are budget, support and attention from university administration and adequate and competent staff. Again, the study revealed that Council of Higher Education did not fulfill its duties and responsibilities regarding institutional repositories. As a result of the study, solutions specific to the problems and needs experienced by institutional repositories have been proposed. The study aims to bridge literature gaps on repository processes in Turkish university libraries, providing insights and practical solutions for enhancing institutional repository performance.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241282339</guid>
-      <dc:creator>Emine Cengiz Mater</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Research on content analysis and quality evaluation for online reviews of new energy vehicles</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241257186</link>
       <description><![CDATA[<p>The development of China&#x27;s new energy vehicle industry has been gradually transformed from past policy support to the survival of enterprises determined by the market, which forces the new energy vehicle industry to accelerate towards the market-oriented direction. We collected review data from online automotive forums and generated a corpus after pre-processing. Next, we extracted the statistical and topic semantic features of online reviews for new energy vehicles and clarified the quality evaluation indicators for online reviews. Then, the entropy weight-TOPSIS method was used to determine the indicators’ weights and assign values to the quality of online reviews. Finally, the quality scoring rules of online reviews were sorted out from multidimensional perspectives. The research results have shown that the statistical features and topic semantic features of online reviews on new energy vehicles can be used as evaluation indicators to construct a quality evaluation system. It was also found that the quality scores of lower-priced vehicle reviews tend to be consistent in different price groups, while the quality scores of mid-priced vehicle reviews are the most dispersed. The quality of online reviews varies significantly among other groups or models. The study results provide a simple criterion for consumers’ cognition of the value of online reviews. The results will enhance the ability of new energy vehicle companies to carry out online marketing with the help of online reviews and transform the purchase intention of potential consumers into actual purchase behavior.</p>]]></description>
@@ -141,18 +225,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279810</guid>
       <dc:creator>Oarabile Sebubi, Irina Zlotnikova, Hlomani Hlomani</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Evaluation of health records management systems of Lagos State University Teaching Hospital,Nigeria</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264754</link>
-      <description><![CDATA[<p>This study evaluated the health records management systems of Lagos State University Teaching Hospital (LASUTH). A survey research methodology with a quantitative approach was employed using a questionnaire. The study covered the healthcare providers and medical records officers. After the employment of a two-stage sampling technique, a sample size of 394 respondents constituted the study population. Data were collected from August 2022 to June 2023. The analysis of the responses was univariate using frequency, percentage and mean. The major findings detected the successes and failures of the Manual and Electronic Health Records Management Systems, notwithstanding the overall favourable use. Moreover, the study showed a positive agreement with the seven DeLeon and McLean Model variables that measured user experience. The study recommended that the LASUTH authority needs to consciously work on curbing the concerns that are the root causes of records management challenges and the implementation of records management systems.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264754</guid>
-      <dc:creator>Richard Olalekan Arogunjo, Olayinka Babayemi Makinde</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
@@ -209,42 +281,6 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
-    </item>
-    <item>
-      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
-      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
-      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
-      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
-      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
-      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
-      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
     </item>
     <item>
       <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
