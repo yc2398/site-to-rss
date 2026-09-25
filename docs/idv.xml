@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Development</title>
+    <link>https://yc2398.github.io/site-to-rss</link>
+    <description>Monitor website changes, delivered as RSS · Updated daily</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2026 04:23:28 +0000</lastBuildDate>
+    <generator>rss-aggregator</generator>
+    <ttl>60</ttl>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <atom:link href="https://yc2398.github.io/site-to-rss/idv.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The current state of institutional repositories in universities of Türkiye: An applied research study</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241282339</link>
+      <description><![CDATA[<p>The purpose of this article is to analyze the current state of institutional repositories owned by Turkish universities, identify the challenges faced by librarians responsible for managing these repositories, and propose solutions to overcome these obstacles. A survey was distributed to 181 institutions in Türkiye. Responses were received from 80 institutions. The findings revealed the difficulties experienced by librarians working in institutional repositories and the areas where they need improvement. Researchers spend too much time uploading their publications, data entry is not mandatory in institutional repository policies, copyright/ownership issues, a lack of understanding of the importance of institutional repositories, legal infrastructure deficiencies, budget constraints, and a lack of technical support are among the main challenges faced by institutions. The first three areas that institutional repositories need are budget, support and attention from university administration and adequate and competent staff. Again, the study revealed that Council of Higher Education did not fulfill its duties and responsibilities regarding institutional repositories. As a result of the study, solutions specific to the problems and needs experienced by institutional repositories have been proposed. The study aims to bridge literature gaps on repository processes in Turkish university libraries, providing insights and practical solutions for enhancing institutional repository performance.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241282339</guid>
+      <dc:creator>Emine Cengiz Mater</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on content analysis and quality evaluation for online reviews of new energy vehicles</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241257186</link>
+      <description><![CDATA[<p>The development of China&#x27;s new energy vehicle industry has been gradually transformed from past policy support to the survival of enterprises determined by the market, which forces the new energy vehicle industry to accelerate towards the market-oriented direction. We collected review data from online automotive forums and generated a corpus after pre-processing. Next, we extracted the statistical and topic semantic features of online reviews for new energy vehicles and clarified the quality evaluation indicators for online reviews. Then, the entropy weight-TOPSIS method was used to determine the indicators’ weights and assign values to the quality of online reviews. Finally, the quality scoring rules of online reviews were sorted out from multidimensional perspectives. The research results have shown that the statistical features and topic semantic features of online reviews on new energy vehicles can be used as evaluation indicators to construct a quality evaluation system. It was also found that the quality scores of lower-priced vehicle reviews tend to be consistent in different price groups, while the quality scores of mid-priced vehicle reviews are the most dispersed. The quality of online reviews varies significantly among other groups or models. The study results provide a simple criterion for consumers’ cognition of the value of online reviews. The results will enhance the ability of new energy vehicle companies to carry out online marketing with the help of online reviews and transform the purchase intention of potential consumers into actual purchase behavior.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241257186</guid>
+      <dc:creator>Xiaoguang Wang, Tao Lv, Rongjiang Cai</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Implementing national performance indicator ontology: A case study of Botswana&#x27;s development agendas</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279810</link>
+      <description><![CDATA[<p>This paper presents the National Performance Indicator Ontology (NPIOnto), a knowledge model designed for the semantic representation of national performance indicators (NPIs) and related performance variables to enhance the semantic capabilities of open data. The research addresses the lack of semantic representation for NPIs, particularly within Botswana&#x27;s development agendas, which impedes the effective use, accessibility, and integration of performance data essential for monitoring and achieving sustainable development goals. NPIOnto was developed through five steps: discovering the ontology purpose, studying the development agenda knowledge domain, developing the conceptual knowledge model, formalizing the conceptual model, and evaluating the formal model&#x27;s effectiveness in enhancing the semantic capabilities of open data resources. The evaluation, based on practical application in Botswana, demonstrated that NPIOnto significantly improves the accessibility, understandability, interoperability, integrability, and intelligibility of open data. Insights from the Botswana case study indicate that while NPIOnto is tailored to meet Botswana&#x27;s development agenda needs, it can be adapted for use in other developing countries.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279810</guid>
+      <dc:creator>Oarabile Sebubi, Irina Zlotnikova, Hlomani Hlomani</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Evaluation of health records management systems of Lagos State University Teaching Hospital,Nigeria</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264754</link>
+      <description><![CDATA[<p>This study evaluated the health records management systems of Lagos State University Teaching Hospital (LASUTH). A survey research methodology with a quantitative approach was employed using a questionnaire. The study covered the healthcare providers and medical records officers. After the employment of a two-stage sampling technique, a sample size of 394 respondents constituted the study population. Data were collected from August 2022 to June 2023. The analysis of the responses was univariate using frequency, percentage and mean. The major findings detected the successes and failures of the Manual and Electronic Health Records Management Systems, notwithstanding the overall favourable use. Moreover, the study showed a positive agreement with the seven DeLeon and McLean Model variables that measured user experience. The study recommended that the LASUTH authority needs to consciously work on curbing the concerns that are the root causes of records management challenges and the implementation of records management systems.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264754</guid>
+      <dc:creator>Richard Olalekan Arogunjo, Olayinka Babayemi Makinde</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+  </channel>
+</rss>
