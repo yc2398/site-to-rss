@@ -102,3 +102,39 @@ sources:
     emit_on_init: true
     tags: [information-science, journal]
 
+  # ────────────────────────────────────────────────────────────────────────
+  # Journal of Librarianship and Information Science
+  # ────────────────────────────────────────────────────────────────────────
+  - id: lis
+    name: Journal of Librarianship and Information Science
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/LIS"
+    items: *sage_items
+    enrich: *sage_enrich
+    emit_on_init: true
+    tags: [librarianship, information-science, journal]
+
+  # ────────────────────────────────────────────────────────────────────────
+  # Journal of Information Science
+  # ────────────────────────────────────────────────────────────────────────
+  - id: jis
+    name: Journal of Information Science
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/JIS"
+    items: *sage_items
+    enrich: *sage_enrich
+    emit_on_init: true
+    tags: [information-science, journal]
+
+  # ────────────────────────────────────────────────────────────────────────
+  # Information Development
+  # ────────────────────────────────────────────────────────────────────────
+  - id: idv
+    name: Information Development
+    type: webpage_items
+    url: "https://sage.cnpereading.com/home/IDV"
+    items: *sage_items
+    enrich: *sage_enrich
+    emit_on_init: true
+    tags: [information-development, journal]
+
