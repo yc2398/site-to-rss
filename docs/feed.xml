@@ -5,11 +5,111 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 06:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:20:36 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
+      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
+      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
+      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
+      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
+      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
+      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>It must be nice to get paid to read: Librarians on reading at work</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251384357</link>
+      <description><![CDATA[<p>While modern librarians may have knowledge of books, their skillsets and job expectations typically expand into additional areas related to information. Despite this, a common stereotype of librarians and library staff is that they are allowed, or paid, to read at work. This study explores the stereotype through experiences of 280 librarians and library staff in the United States (US) through a mixed-methods survey. Research questions ask if these librarians and library staff are expected to be well read and knowledgeable about trends in the field, and about common practices around reading at their places of work. Findings suggest that librarians and library staff are expected to be well read and current with professional trends, and that they are generally allowed to read for professional development while at work. Responses differed based on format, time on and off of public facing desks, and for reading that blurred the lines between personal and professional work, with book club preparation as a notable example. Participants described attention to patrons as a priority, and concerns with public perception. Results from this study provide insight into policies and norms across the US, with additional questions developed for further exploration.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
+      <dc:creator>Amelia Anderson</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
+      <description><![CDATA[<p>This study examines researchers’ perceptions of the impact of digital repositories on scientific efficiency and productivity in Serbia, a developing research environment with a national Open Science policy that is still in the development phase. Based on a survey conducted among 326 researchers from universities and research institutes across various disciplines, the analysis explores how professional characteristics, including institution type, academic degree, discipline, and years of experience, affect perceived benefits from repository use. Logistic regression analysis shows that researchers affiliated with institutes, those in the humanities, and mid-career researchers are significantly more likely to perceive that repositories enhance efficiency and productivity. Academic degree alone does not significantly influence perception, suggesting that repository use depends more on institutional environment, disciplinary norms, and practical experience than on formal titles. The findings highlight the importance of institutional support, early integration of repositories into research workflows, and tailored training to maximize usage and benefits. These results provide a foundation for aligning national Open Science policies with everyday research practices, supporting targeted interventions to increase repository adoption and enhance research efficiency and productivity across disciplines.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410237</guid>
+      <dc:creator>Jelena Banović, Aleksandra Bradić-Martinović, Aleksandar Zdravković</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Academic reference librarians’ perception of information overload: An exploratory study</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251369125</link>
+      <description><![CDATA[<p>As digital information expands at an unprecedented pace, reference librarians in academic libraries face growing cognitive strain, commonly known as information overload (IO). This study investigates whether personality traits (extraversion, conscientiousness, and openness to experience), professional variables (self-efficacy, empowerment, and cognitive appraisals), and environmental factors (library disciplinary field and institutional type) are associated with academic librarians’ perceptions of IO. The study used a quantitative method, included 146 academic reference librarians and took place in Israel. Findings suggest that academic reference librarians’ perception of IO is mainly shaped by threat appraisal, self-efficacy, and the disciplinary field of their library. These insights improve the understanding academic reference librarians’ perception of IO and support the development of training and education programs that address discipline-specific information needs, helping academic reference librarians manage information overload more effectively.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
+      <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
+      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
+      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
@@ -111,19 +211,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
-      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
-      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Exploring the utilization of generative AI by librarians in higher education across the Gulf Cooperation Council (GCC) countries: Trends in adoption,innovative applications,and emerging challenges</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251372630</link>
       <description><![CDATA[<p>This study explores the adoption, applications, usage, training, challenges, and future perception of generative artificial intelligence tools among university librarians in the GCC region. The research aims to assess and evaluate artificial intelligence integration in various library services and operations, identifying training and institutional gaps and exploring librarians’ future perspectives on impact of GenAI in the libraries and their roles. The research employs a descriptive quantitative approach using an online survey targeting librarians working across higher education in the GCC region. The structured survey included questions related to demography, multiple choice responses for selection of AI tools and the application of these tools, and a Likert scale involving construct on measuring AI adoptions, training requirements, challenges and future perspective on GenAI technologies. A total of 160 participants were included in the study and various statistical analysis such as descriptive analysis, independent sample T-test and one way ANOVA tests were conducted to identify the key trends and group differences. The key finding revealed a widespread adoption of generative AI technologies with ChatGPT, Google, Gemini, and Microsoft Copilot being the most frequently used. The study found that librarians were using GenAI tools for various services including answering research queries, summarizing articles, research writing, information retrieval, and enhancing library services. Regardless of high adoption rates, the study highlights significant gaps in training and institutional support for AI technologies, with many librarians relying on self-based training to upskill themselves due to lack of structure AI training programs and institutional support. A country wise analysis revealed UAE, Saudi Arabia and Qatar have made substantial investments in AI training and infrastructure whereas Oman, Bahrain, and Kuwait are lagging. Key challenges include AI content accuracy, data privacy concerns, ethical risks such as bias and plagiarism. The study also found some gender related significant differences primarily related to their tasks. Despite the concerns related to the changing role of librarians and job loss, librarians in GCC reflected a positive and optimistic attitude despite toward AI applications in library and expected strong support from institutions in terms of investment in training and infrastructure for AI technologies. The study provides deep insights into the current state of GenAI adoption in universities libraries across the GCC region, highlighting the regional disparities in AI training and institutional support. It contributes toward the growing literature on AI literacy in Library &amp; information science and offers practical recommendations for academic institutions, policymakers and library &amp; information science professionals to bridge the gap in artificial intelligence skills and competencies and foster responsible use of AI integration in library services.</p>]]></description>
@@ -137,99 +224,12 @@
       <category>journal</category>
     </item>
     <item>
-      <title>It must be nice to get paid to read: Librarians on reading at work</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251384357</link>
-      <description><![CDATA[<p>While modern librarians may have knowledge of books, their skillsets and job expectations typically expand into additional areas related to information. Despite this, a common stereotype of librarians and library staff is that they are allowed, or paid, to read at work. This study explores the stereotype through experiences of 280 librarians and library staff in the United States (US) through a mixed-methods survey. Research questions ask if these librarians and library staff are expected to be well read and knowledgeable about trends in the field, and about common practices around reading at their places of work. Findings suggest that librarians and library staff are expected to be well read and current with professional trends, and that they are generally allowed to read for professional development while at work. Responses differed based on format, time on and off of public facing desks, and for reading that blurred the lines between personal and professional work, with book club preparation as a notable example. Participants described attention to patrons as a priority, and concerns with public perception. Results from this study provide insight into policies and norms across the US, with additional questions developed for further exploration.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
-      <dc:creator>Amelia Anderson</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
-      <description><![CDATA[<p>This study examines researchers’ perceptions of the impact of digital repositories on scientific efficiency and productivity in Serbia, a developing research environment with a national Open Science policy that is still in the development phase. Based on a survey conducted among 326 researchers from universities and research institutes across various disciplines, the analysis explores how professional characteristics, including institution type, academic degree, discipline, and years of experience, affect perceived benefits from repository use. Logistic regression analysis shows that researchers affiliated with institutes, those in the humanities, and mid-career researchers are significantly more likely to perceive that repositories enhance efficiency and productivity. Academic degree alone does not significantly influence perception, suggesting that repository use depends more on institutional environment, disciplinary norms, and practical experience than on formal titles. The findings highlight the importance of institutional support, early integration of repositories into research workflows, and tailored training to maximize usage and benefits. These results provide a foundation for aligning national Open Science policies with everyday research practices, supporting targeted interventions to increase repository adoption and enhance research efficiency and productivity across disciplines.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410237</guid>
-      <dc:creator>Jelena Banović, Aleksandra Bradić-Martinović, Aleksandar Zdravković</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
       <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
       <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
-      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
-      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
-      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
-      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
-      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
-      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Academic reference librarians’ perception of information overload: An exploratory study</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251369125</link>
-      <description><![CDATA[<p>As digital information expands at an unprecedented pace, reference librarians in academic libraries face growing cognitive strain, commonly known as information overload (IO). This study investigates whether personality traits (extraversion, conscientiousness, and openness to experience), professional variables (self-efficacy, empowerment, and cognitive appraisals), and environmental factors (library disciplinary field and institutional type) are associated with academic librarians’ perceptions of IO. The study used a quantitative method, included 146 academic reference librarians and took place in Israel. Findings suggest that academic reference librarians’ perception of IO is mainly shaped by threat appraisal, self-efficacy, and the disciplinary field of their library. These insights improve the understanding academic reference librarians’ perception of IO and support the development of training and education programs that address discipline-specific information needs, helping academic reference librarians manage information overload more effectively.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
-      <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The future of information systems in the enterprise</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
-      <description><![CDATA[]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
-      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
