@@ -5,24 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:21:54 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/bds.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
     <item>
       <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
@@ -56,6 +43,32 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473353</guid>
       <dc:creator>Mykhaylo Bogachov</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
+      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
+      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>

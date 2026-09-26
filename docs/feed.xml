@@ -5,11 +5,111 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:21:54 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
+      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
+      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261481718</link>
+      <description><![CDATA[<p>Fear of missing out (FOMO) is known to drive engagement. But does this apply to AI FOMO, the fear of falling behind with artificial intelligence (AI)? This commentary argues that it does not. Many people feel this fear intensely yet still do not act. Unlike social media FOMO, where fear is quickly discharged through participation, AI FOMO produces desire without action, a paralysis rooted in the asymmetry between perceiving AI as indispensable (high response efficacy) and feeling incapable of mastering it (low self-efficacy). When this tension goes unresolved, it may be redirected toward human–human relations, appearing as envy of AI-proficient peers and as biased attribution that discounts others’ accomplishments as merely “AI-driven.” These dynamics are not only individual. The asymmetry is also shaped by structural disparities in training, time, resources, and support, and by sociotechnical imaginaries that frame adoption as urgent and inevitable. As AI competence becomes a symbolic marker of merit, non-adoption risks being read solely as individual failure, obscuring the unequal conditions that also shape it. Understanding AI FOMO as a distinct emotional and sociotechnical condition suggests how technological change compounds inequality without requiring widespread adoption, and how FOMO, unaccompanied by the capacity to act, deepens divisions rather than bridges them.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
+      <dc:creator>S Mo Jones-Jang</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Fair synthetic data is not about fairness</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473353</link>
+      <description><![CDATA[<p>Fair synthetic data (FSD) techniques aim to reduce algorithmic bias in AI prediction by generating artificial training datasets with idealised fairness properties. I argue that current FSD approaches fail to substantively improve fairness but increase the social autonomy of model owners, shielding them from accountability. I establish that implementing algorithmic fairness requires following normative commitments and accepting real-world sacrifices beyond technical trade-offs. I reframe synthetic training data sui generis as a domain-agnostic technique for improving model performance and demonstrate that synthetic data researchers treat fairness as a problem with data rather than the normative problem it is. I reconstruct three justifications for the substantive fairness potential of FSD, present in the literature: early bias correction, fair societal representation, and normative artefact construction. The first and the third are conceptually fragile. The second has potential, but only if the techniques it fits are reconceptualised through possible worlds semantics and the selection of protected attributes is grounded in a defensible social ontology. Benchmarking analysis reveals that FSD has no significant statistical fairness advantages over traditional methods while being less trustworthy. At the same time, FSD can reduce implementation costs and limit the exposure of predictors to normative scrutiny. This creates a paradox: techniques proposed as fairness solutions increase organisational autonomy from the obligations that the field of algorithmic fairness puts forward. FSD thus follows broader techno-solutionist trends where innovation helps organisations avoid reciprocal relationships with society. The paper concludes with broad recommendations for the responsible deployment of FSD.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473353</guid>
+      <dc:creator>Mykhaylo Bogachov</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
+      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
+      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
+      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
+      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
+      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
+      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
+      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
+      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Design thinking and rare book repository development</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241293080</link>
+      <description><![CDATA[<p>Electronic rare book repository development provides users with convenient and practical accessibility, and may lead to future frontier research. This study aims to design and develop a rare book repository using the concept of Design Thinking and to assess the rare book repository system of the national library in Thailand. Ratchamangkhalaphisek National Library Chiang Mai was chosen as the case study here because of the uniqueness of its rare book characteristics - palm leaf manuscripts - and because of its lack of an online portal for rare books. The Design Thinking concept of Stanford d.school was applied in this research and development study (R and D research) in order to develop a more effective rare book repository. Interview forms and evaluation were used as the research tools to collect data. The results show that the overall satisfaction level of the users was at a high level in terms of content and at a very high level in terms of system. That is because the menu is well-designed, easy to use, and can be easily viewed. Moreover, the information searching system is accurate according to user needs. The concept of Design Thinking, in the way that it focuses on human-centered design, creates a system that answers the users’ requirements, as well as generates new perspectives. Also, the Design Thinking concept might be applied to other processes in the system development cycle since it could enhance the efficiency of a rare book repository system and be appropriate to the needs of users.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241293080</guid>
+      <dc:creator>Piyapat Jarusawat</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
@@ -275,45 +375,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
       <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
-      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
-      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261481718</link>
-      <description><![CDATA[<p>Fear of missing out (FOMO) is known to drive engagement. But does this apply to AI FOMO, the fear of falling behind with artificial intelligence (AI)? This commentary argues that it does not. Many people feel this fear intensely yet still do not act. Unlike social media FOMO, where fear is quickly discharged through participation, AI FOMO produces desire without action, a paralysis rooted in the asymmetry between perceiving AI as indispensable (high response efficacy) and feeling incapable of mastering it (low self-efficacy). When this tension goes unresolved, it may be redirected toward human–human relations, appearing as envy of AI-proficient peers and as biased attribution that discounts others’ accomplishments as merely “AI-driven.” These dynamics are not only individual. The asymmetry is also shaped by structural disparities in training, time, resources, and support, and by sociotechnical imaginaries that frame adoption as urgent and inevitable. As AI competence becomes a symbolic marker of merit, non-adoption risks being read solely as individual failure, obscuring the unequal conditions that also shape it. Understanding AI FOMO as a distinct emotional and sociotechnical condition suggests how technological change compounds inequality without requiring widespread adoption, and how FOMO, unaccompanied by the capacity to act, deepens divisions rather than bridges them.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
-      <dc:creator>S Mo Jones-Jang</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Fair synthetic data is not about fairness</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473353</link>
-      <description><![CDATA[<p>Fair synthetic data (FSD) techniques aim to reduce algorithmic bias in AI prediction by generating artificial training datasets with idealised fairness properties. I argue that current FSD approaches fail to substantively improve fairness but increase the social autonomy of model owners, shielding them from accountability. I establish that implementing algorithmic fairness requires following normative commitments and accepting real-world sacrifices beyond technical trade-offs. I reframe synthetic training data sui generis as a domain-agnostic technique for improving model performance and demonstrate that synthetic data researchers treat fairness as a problem with data rather than the normative problem it is. I reconstruct three justifications for the substantive fairness potential of FSD, present in the literature: early bias correction, fair societal representation, and normative artefact construction. The first and the third are conceptually fragile. The second has potential, but only if the techniques it fits are reconceptualised through possible worlds semantics and the selection of protected attributes is grounded in a defensible social ontology. Benchmarking analysis reveals that FSD has no significant statistical fairness advantages over traditional methods while being less trustworthy. At the same time, FSD can reduce implementation costs and limit the exposure of predictors to normative scrutiny. This creates a paradox: techniques proposed as fairness solutions increase organisational autonomy from the obligations that the field of algorithmic fairness puts forward. FSD thus follows broader techno-solutionist trends where innovation helps organisations avoid reciprocal relationships with society. The paper concludes with broad recommendations for the responsible deployment of FSD.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473353</guid>
-      <dc:creator>Mykhaylo Bogachov</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
