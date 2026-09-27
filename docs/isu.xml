@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:25:04 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -41,6 +41,18 @@
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261452185</guid>
       <dc:creator>Supriya Krishnan</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Charting the way upward: Collaborative research on navigating Generative AI in higher education</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261435734</link>
+      <description><![CDATA[<p>This paper provides an overview of the findings from the Ithaka S+R-led collaborative research project “Making AI Generative for Higher Education,” and the findings specific to Stony Brook University, one of the collaborators in this project. Collaborators interviewed instructors and researchers at universities across the United States and Canada, asking them how they were using AI in teaching and research, as well as the associated challenges they were facing. Usage levels and perceptions of AI varied widely across interviewees, with most usage limited and experimental as instructors and researchers continue to identify the most productive long-term ways to integrate AI into their work. Our study also shed light on instructor and research support needs in relation to AI, with training opportunities, chances to learn from peers, secure access, and computational infrastructure among the common demands. This paper summarizes the presentation given by the authors at the NISO Plus conference in February 2025.</p>]]></description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261435734</guid>
+      <dc:creator>Claire Baytas, John Fitzgerald, Mona Ramonetti</dc:creator>
       <category domain="source">Information Services and Use</category>
       <category domain="source_id">isu</category>
       <category>information-science</category>
