@@ -5,11 +5,63 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:22:38 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/bds.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
+      <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
+      <dc:creator>Shangwei Wu</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>An archive of contestation: Digital surveillance and human–machine recompositions of resistance</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467353</link>
+      <description><![CDATA[<p>This article proposes to make sense of the ‘atmosphere of failure’ diagnosed by key players in the mobilisation against mass surveillance in the United Kingdom. Firstly, by entangling oral history interviews and computational analyses of NGO websites, we recompose an archive of contestation that is not temporally limited to the Snowden ‘moment’. We advance the notion of a ‘discordant machine’ to render the generativity of discordances and surprises in entangling qualitative and digital methods. Secondly, we argue that the campaigns against surveillance did not lead to a shared vocabulary of critique and a collective practice of contestation. We show that contesting digital state surveillance was mostly expressed through the conduits of privacy and transparency, while more collective democratic claims were connected instead to ‘elsewheres’, such as democratisation in Global South states. Although the Snowden disclosures were a key moment for academic scholarship, our analysis shows that they played little role in mobilisations against mass surveillance. References to oversight were limited to the immediate post-Snowden moment. Finally, corporate surveillance remained a feature of NGO advocacy but was represented mainly at a distance from state surveillance. Our analysis suggests that the challenge for mobilisations against digital surveillance is not only to hold together its complexities but also to articulate its antidemocratic effects.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467353</guid>
+      <dc:creator>Emma Mc Cluskey, Claudia Aradau, Tobias Blanke</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
+      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
+      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
