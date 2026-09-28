@@ -5,11 +5,115 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:25:40 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
+      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
+      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261481718</link>
+      <description><![CDATA[<p>Fear of missing out (FOMO) is known to drive engagement. But does this apply to AI FOMO, the fear of falling behind with artificial intelligence (AI)? This commentary argues that it does not. Many people feel this fear intensely yet still do not act. Unlike social media FOMO, where fear is quickly discharged through participation, AI FOMO produces desire without action, a paralysis rooted in the asymmetry between perceiving AI as indispensable (high response efficacy) and feeling incapable of mastering it (low self-efficacy). When this tension goes unresolved, it may be redirected toward human–human relations, appearing as envy of AI-proficient peers and as biased attribution that discounts others’ accomplishments as merely “AI-driven.” These dynamics are not only individual. The asymmetry is also shaped by structural disparities in training, time, resources, and support, and by sociotechnical imaginaries that frame adoption as urgent and inevitable. As AI competence becomes a symbolic marker of merit, non-adoption risks being read solely as individual failure, obscuring the unequal conditions that also shape it. Understanding AI FOMO as a distinct emotional and sociotechnical condition suggests how technological change compounds inequality without requiring widespread adoption, and how FOMO, unaccompanied by the capacity to act, deepens divisions rather than bridges them.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
+      <dc:creator>S Mo Jones-Jang</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Fair synthetic data is not about fairness</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473353</link>
+      <description><![CDATA[<p>Fair synthetic data (FSD) techniques aim to reduce algorithmic bias in AI prediction by generating artificial training datasets with idealised fairness properties. I argue that current FSD approaches fail to substantively improve fairness but increase the social autonomy of model owners, shielding them from accountability. I establish that implementing algorithmic fairness requires following normative commitments and accepting real-world sacrifices beyond technical trade-offs. I reframe synthetic training data sui generis as a domain-agnostic technique for improving model performance and demonstrate that synthetic data researchers treat fairness as a problem with data rather than the normative problem it is. I reconstruct three justifications for the substantive fairness potential of FSD, present in the literature: early bias correction, fair societal representation, and normative artefact construction. The first and the third are conceptually fragile. The second has potential, but only if the techniques it fits are reconceptualised through possible worlds semantics and the selection of protected attributes is grounded in a defensible social ontology. Benchmarking analysis reveals that FSD has no significant statistical fairness advantages over traditional methods while being less trustworthy. At the same time, FSD can reduce implementation costs and limit the exposure of predictors to normative scrutiny. This creates a paradox: techniques proposed as fairness solutions increase organisational autonomy from the obligations that the field of algorithmic fairness puts forward. FSD thus follows broader techno-solutionist trends where innovation helps organisations avoid reciprocal relationships with society. The paper concludes with broad recommendations for the responsible deployment of FSD.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473353</guid>
+      <dc:creator>Mykhaylo Bogachov</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
+      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
+      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
+      <description><![CDATA[<p>Based on Norwegian colonial history, complicity in neo-colonialism, discrimination in Norwegian society and the role of the public library, there is a necessity for questioning how the public library – an institution built on colonial history and imported systems – fulfils its social mandate. This study maps staff attitudes towards the implementation of decolonisation initiatives in Norwegian public libraries, contributing to academic discourse on decolonisation in Norway. Qualitative data was collected in an interpretivist paradigm using a multi-stage strategy with a latent approach and analysed thematically. Questionnaire responses collected from 35 public library staff across 9 of Norway’s counties informed semi-structured interviews with four participants via an iterative process. Data analysis revealed three themes: acknowledgement of coloniality, contradictions and subjectivity and responsibility and challenges to decolonisation. A lack of knowledge on how colonialism impacts public libraries amongst staff and a need for decolonisation was identified in terms of the acknowledgement of coloniality and disparities between participant responses. Despite this, positive attitudes were expressed towards fostering education regarding decolonisation and the possibility of implementing initiatives. It is concluded that there is a lack of discussion on decolonising Norwegian public libraries, and a prevalence of whiteness particularly in discussions of solidarity and neutrality, cementing coloniality in the institution. As such, intentionality emerged as a significant consideration in light of existing challenges and the potential identified in participant attitudes. This study therefore recommends further research to confirm findings and greater staff initiative to foster discussion and education for meaningful engagement with decoloniality.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372633</guid>
+      <dc:creator>Dorthe Sofie Dale, Bethany Aylward</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
+      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
+      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Exploring the utilization of generative AI by librarians in higher education across the Gulf Cooperation Council (GCC) countries: Trends in adoption,innovative applications,and emerging challenges</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372630</link>
+      <description><![CDATA[<p>This study explores the adoption, applications, usage, training, challenges, and future perception of generative artificial intelligence tools among university librarians in the GCC region. The research aims to assess and evaluate artificial intelligence integration in various library services and operations, identifying training and institutional gaps and exploring librarians’ future perspectives on impact of GenAI in the libraries and their roles. The research employs a descriptive quantitative approach using an online survey targeting librarians working across higher education in the GCC region. The structured survey included questions related to demography, multiple choice responses for selection of AI tools and the application of these tools, and a Likert scale involving construct on measuring AI adoptions, training requirements, challenges and future perspective on GenAI technologies. A total of 160 participants were included in the study and various statistical analysis such as descriptive analysis, independent sample T-test and one way ANOVA tests were conducted to identify the key trends and group differences. The key finding revealed a widespread adoption of generative AI technologies with ChatGPT, Google, Gemini, and Microsoft Copilot being the most frequently used. The study found that librarians were using GenAI tools for various services including answering research queries, summarizing articles, research writing, information retrieval, and enhancing library services. Regardless of high adoption rates, the study highlights significant gaps in training and institutional support for AI technologies, with many librarians relying on self-based training to upskill themselves due to lack of structure AI training programs and institutional support. A country wise analysis revealed UAE, Saudi Arabia and Qatar have made substantial investments in AI training and infrastructure whereas Oman, Bahrain, and Kuwait are lagging. Key challenges include AI content accuracy, data privacy concerns, ethical risks such as bias and plagiarism. The study also found some gender related significant differences primarily related to their tasks. Despite the concerns related to the changing role of librarians and job loss, librarians in GCC reflected a positive and optimistic attitude despite toward AI applications in library and expected strong support from institutions in terms of investment in training and infrastructure for AI technologies. The study provides deep insights into the current state of GenAI adoption in universities libraries across the GCC region, highlighting the regional disparities in AI training and institutional support. It contributes toward the growing literature on AI literacy in Library &amp; information science and offers practical recommendations for academic institutions, policymakers and library &amp; information science professionals to bridge the gap in artificial intelligence skills and competencies and foster responsible use of AI integration in library services.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372630</guid>
+      <dc:creator>Zafar Imam Khan</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>It must be nice to get paid to read: Librarians on reading at work</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251384357</link>
+      <description><![CDATA[<p>While modern librarians may have knowledge of books, their skillsets and job expectations typically expand into additional areas related to information. Despite this, a common stereotype of librarians and library staff is that they are allowed, or paid, to read at work. This study explores the stereotype through experiences of 280 librarians and library staff in the United States (US) through a mixed-methods survey. Research questions ask if these librarians and library staff are expected to be well read and knowledgeable about trends in the field, and about common practices around reading at their places of work. Findings suggest that librarians and library staff are expected to be well read and current with professional trends, and that they are generally allowed to read for professional development while at work. Responses differed based on format, time on and off of public facing desks, and for reading that blurred the lines between personal and professional work, with book club preparation as a notable example. Participants described attention to patrons as a priority, and concerns with public perception. Results from this study provide insight into policies and norms across the US, with additional questions developed for further exploration.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
+      <dc:creator>Amelia Anderson</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
@@ -161,110 +265,6 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
-    </item>
-    <item>
-      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
-      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
-      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261481718</link>
-      <description><![CDATA[<p>Fear of missing out (FOMO) is known to drive engagement. But does this apply to AI FOMO, the fear of falling behind with artificial intelligence (AI)? This commentary argues that it does not. Many people feel this fear intensely yet still do not act. Unlike social media FOMO, where fear is quickly discharged through participation, AI FOMO produces desire without action, a paralysis rooted in the asymmetry between perceiving AI as indispensable (high response efficacy) and feeling incapable of mastering it (low self-efficacy). When this tension goes unresolved, it may be redirected toward human–human relations, appearing as envy of AI-proficient peers and as biased attribution that discounts others’ accomplishments as merely “AI-driven.” These dynamics are not only individual. The asymmetry is also shaped by structural disparities in training, time, resources, and support, and by sociotechnical imaginaries that frame adoption as urgent and inevitable. As AI competence becomes a symbolic marker of merit, non-adoption risks being read solely as individual failure, obscuring the unequal conditions that also shape it. Understanding AI FOMO as a distinct emotional and sociotechnical condition suggests how technological change compounds inequality without requiring widespread adoption, and how FOMO, unaccompanied by the capacity to act, deepens divisions rather than bridges them.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
-      <dc:creator>S Mo Jones-Jang</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Fair synthetic data is not about fairness</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473353</link>
-      <description><![CDATA[<p>Fair synthetic data (FSD) techniques aim to reduce algorithmic bias in AI prediction by generating artificial training datasets with idealised fairness properties. I argue that current FSD approaches fail to substantively improve fairness but increase the social autonomy of model owners, shielding them from accountability. I establish that implementing algorithmic fairness requires following normative commitments and accepting real-world sacrifices beyond technical trade-offs. I reframe synthetic training data sui generis as a domain-agnostic technique for improving model performance and demonstrate that synthetic data researchers treat fairness as a problem with data rather than the normative problem it is. I reconstruct three justifications for the substantive fairness potential of FSD, present in the literature: early bias correction, fair societal representation, and normative artefact construction. The first and the third are conceptually fragile. The second has potential, but only if the techniques it fits are reconceptualised through possible worlds semantics and the selection of protected attributes is grounded in a defensible social ontology. Benchmarking analysis reveals that FSD has no significant statistical fairness advantages over traditional methods while being less trustworthy. At the same time, FSD can reduce implementation costs and limit the exposure of predictors to normative scrutiny. This creates a paradox: techniques proposed as fairness solutions increase organisational autonomy from the obligations that the field of algorithmic fairness puts forward. FSD thus follows broader techno-solutionist trends where innovation helps organisations avoid reciprocal relationships with society. The paper concludes with broad recommendations for the responsible deployment of FSD.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473353</guid>
-      <dc:creator>Mykhaylo Bogachov</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
-      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
-      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
-      <description><![CDATA[<p>Based on Norwegian colonial history, complicity in neo-colonialism, discrimination in Norwegian society and the role of the public library, there is a necessity for questioning how the public library – an institution built on colonial history and imported systems – fulfils its social mandate. This study maps staff attitudes towards the implementation of decolonisation initiatives in Norwegian public libraries, contributing to academic discourse on decolonisation in Norway. Qualitative data was collected in an interpretivist paradigm using a multi-stage strategy with a latent approach and analysed thematically. Questionnaire responses collected from 35 public library staff across 9 of Norway’s counties informed semi-structured interviews with four participants via an iterative process. Data analysis revealed three themes: acknowledgement of coloniality, contradictions and subjectivity and responsibility and challenges to decolonisation. A lack of knowledge on how colonialism impacts public libraries amongst staff and a need for decolonisation was identified in terms of the acknowledgement of coloniality and disparities between participant responses. Despite this, positive attitudes were expressed towards fostering education regarding decolonisation and the possibility of implementing initiatives. It is concluded that there is a lack of discussion on decolonising Norwegian public libraries, and a prevalence of whiteness particularly in discussions of solidarity and neutrality, cementing coloniality in the institution. As such, intentionality emerged as a significant consideration in light of existing challenges and the potential identified in participant attitudes. This study therefore recommends further research to confirm findings and greater staff initiative to foster discussion and education for meaningful engagement with decoloniality.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372633</guid>
-      <dc:creator>Dorthe Sofie Dale, Bethany Aylward</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
-      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
-      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Exploring the utilization of generative AI by librarians in higher education across the Gulf Cooperation Council (GCC) countries: Trends in adoption,innovative applications,and emerging challenges</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372630</link>
-      <description><![CDATA[<p>This study explores the adoption, applications, usage, training, challenges, and future perception of generative artificial intelligence tools among university librarians in the GCC region. The research aims to assess and evaluate artificial intelligence integration in various library services and operations, identifying training and institutional gaps and exploring librarians’ future perspectives on impact of GenAI in the libraries and their roles. The research employs a descriptive quantitative approach using an online survey targeting librarians working across higher education in the GCC region. The structured survey included questions related to demography, multiple choice responses for selection of AI tools and the application of these tools, and a Likert scale involving construct on measuring AI adoptions, training requirements, challenges and future perspective on GenAI technologies. A total of 160 participants were included in the study and various statistical analysis such as descriptive analysis, independent sample T-test and one way ANOVA tests were conducted to identify the key trends and group differences. The key finding revealed a widespread adoption of generative AI technologies with ChatGPT, Google, Gemini, and Microsoft Copilot being the most frequently used. The study found that librarians were using GenAI tools for various services including answering research queries, summarizing articles, research writing, information retrieval, and enhancing library services. Regardless of high adoption rates, the study highlights significant gaps in training and institutional support for AI technologies, with many librarians relying on self-based training to upskill themselves due to lack of structure AI training programs and institutional support. A country wise analysis revealed UAE, Saudi Arabia and Qatar have made substantial investments in AI training and infrastructure whereas Oman, Bahrain, and Kuwait are lagging. Key challenges include AI content accuracy, data privacy concerns, ethical risks such as bias and plagiarism. The study also found some gender related significant differences primarily related to their tasks. Despite the concerns related to the changing role of librarians and job loss, librarians in GCC reflected a positive and optimistic attitude despite toward AI applications in library and expected strong support from institutions in terms of investment in training and infrastructure for AI technologies. The study provides deep insights into the current state of GenAI adoption in universities libraries across the GCC region, highlighting the regional disparities in AI training and institutional support. It contributes toward the growing literature on AI literacy in Library &amp; information science and offers practical recommendations for academic institutions, policymakers and library &amp; information science professionals to bridge the gap in artificial intelligence skills and competencies and foster responsible use of AI integration in library services.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372630</guid>
-      <dc:creator>Zafar Imam Khan</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>It must be nice to get paid to read: Librarians on reading at work</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251384357</link>
-      <description><![CDATA[<p>While modern librarians may have knowledge of books, their skillsets and job expectations typically expand into additional areas related to information. Despite this, a common stereotype of librarians and library staff is that they are allowed, or paid, to read at work. This study explores the stereotype through experiences of 280 librarians and library staff in the United States (US) through a mixed-methods survey. Research questions ask if these librarians and library staff are expected to be well read and knowledgeable about trends in the field, and about common practices around reading at their places of work. Findings suggest that librarians and library staff are expected to be well read and current with professional trends, and that they are generally allowed to read for professional development while at work. Responses differed based on format, time on and off of public facing desks, and for reading that blurred the lines between personal and professional work, with book club preparation as a notable example. Participants described attention to patrons as a priority, and concerns with public perception. Results from this study provide insight into policies and norms across the US, with additional questions developed for further exploration.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
-      <dc:creator>Amelia Anderson</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
     </item>
     <item>
       <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
