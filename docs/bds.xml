@@ -5,18 +5,18 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 00:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:23:10 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/bds.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
-      <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
-      <dc:creator>Shangwei Wu</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -37,12 +37,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
+      <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
+      <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
+      <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -50,12 +50,25 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
-      <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
-      <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
+      <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
+      <dc:creator>Shangwei Wu</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -121,19 +134,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467353</guid>
       <dc:creator>Emma Mc Cluskey, Claudia Aradau, Tobias Blanke</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
