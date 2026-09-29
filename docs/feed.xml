@@ -5,24 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:22:04 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
-      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
-      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
     <item>
       <title>Economizing attention: Markets and barter in video advertising platforms</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
@@ -37,12 +24,38 @@
       <category>open-access</category>
     </item>
     <item>
+      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
+      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
+      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
       <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
       <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
       <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -113,19 +126,6 @@
       <category>librarianship</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
