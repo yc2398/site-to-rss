@@ -5,24 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:23:33 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/bds.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
-      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
-      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
     <item>
       <title>Economizing attention: Markets and barter in video advertising platforms</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
@@ -30,6 +17,19 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
       <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
+      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
+      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -50,12 +50,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
-      <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
+      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
+      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
-      <dc:creator>Shangwei Wu</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
+      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -63,12 +63,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
-      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
+      <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
+      <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
-      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
+      <dc:creator>Shangwei Wu</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
