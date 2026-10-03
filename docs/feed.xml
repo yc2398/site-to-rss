@@ -5,11 +5,63 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:22:13 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
+      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
+      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
+      <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
+      <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
+      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
+      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
@@ -47,6 +99,70 @@
       <category>journal</category>
     </item>
     <item>
+      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
+      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
+      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
+      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
+      <dc:creator>Pei-Chun Lee</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
+      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
+      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
+      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
+      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
       <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
       <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
@@ -57,45 +173,6 @@
       <category domain="source_id">jin</category>
       <category>information-technology</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
-      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
-      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
-      <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
-      <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
@@ -176,89 +253,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
-      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
-      <dc:creator>Pei-Chun Lee</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
-      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
-      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
-      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
-      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
-      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
-      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>YSocial: An artificial intelligence powered social media virtual twin</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
       <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
       <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
-      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
-      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
