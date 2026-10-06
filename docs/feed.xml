@@ -5,18 +5,70 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:23:19 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
-      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
-      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
+      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
+      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
+      <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
+      <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
+      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
+      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
+      <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
+      <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
@@ -35,15 +87,79 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
-      <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
+      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
+      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
-      <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
+      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
+      <description><![CDATA[<p>Based on Norwegian colonial history, complicity in neo-colonialism, discrimination in Norwegian society and the role of the public library, there is a necessity for questioning how the public library – an institution built on colonial history and imported systems – fulfils its social mandate. This study maps staff attitudes towards the implementation of decolonisation initiatives in Norwegian public libraries, contributing to academic discourse on decolonisation in Norway. Qualitative data was collected in an interpretivist paradigm using a multi-stage strategy with a latent approach and analysed thematically. Questionnaire responses collected from 35 public library staff across 9 of Norway’s counties informed semi-structured interviews with four participants via an iterative process. Data analysis revealed three themes: acknowledgement of coloniality, contradictions and subjectivity and responsibility and challenges to decolonisation. A lack of knowledge on how colonialism impacts public libraries amongst staff and a need for decolonisation was identified in terms of the acknowledgement of coloniality and disparities between participant responses. Despite this, positive attitudes were expressed towards fostering education regarding decolonisation and the possibility of implementing initiatives. It is concluded that there is a lack of discussion on decolonising Norwegian public libraries, and a prevalence of whiteness particularly in discussions of solidarity and neutrality, cementing coloniality in the institution. As such, intentionality emerged as a significant consideration in light of existing challenges and the potential identified in participant attitudes. This study therefore recommends further research to confirm findings and greater staff initiative to foster discussion and education for meaningful engagement with decoloniality.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372633</guid>
+      <dc:creator>Dorthe Sofie Dale, Bethany Aylward</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>It must be nice to get paid to read: Librarians on reading at work</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251384357</link>
+      <description><![CDATA[<p>While modern librarians may have knowledge of books, their skillsets and job expectations typically expand into additional areas related to information. Despite this, a common stereotype of librarians and library staff is that they are allowed, or paid, to read at work. This study explores the stereotype through experiences of 280 librarians and library staff in the United States (US) through a mixed-methods survey. Research questions ask if these librarians and library staff are expected to be well read and knowledgeable about trends in the field, and about common practices around reading at their places of work. Findings suggest that librarians and library staff are expected to be well read and current with professional trends, and that they are generally allowed to read for professional development while at work. Responses differed based on format, time on and off of public facing desks, and for reading that blurred the lines between personal and professional work, with book club preparation as a notable example. Participants described attention to patrons as a priority, and concerns with public perception. Results from this study provide insight into policies and norms across the US, with additional questions developed for further exploration.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
+      <dc:creator>Amelia Anderson</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
+      <description><![CDATA[<p>This study examines researchers’ perceptions of the impact of digital repositories on scientific efficiency and productivity in Serbia, a developing research environment with a national Open Science policy that is still in the development phase. Based on a survey conducted among 326 researchers from universities and research institutes across various disciplines, the analysis explores how professional characteristics, including institution type, academic degree, discipline, and years of experience, affect perceived benefits from repository use. Logistic regression analysis shows that researchers affiliated with institutes, those in the humanities, and mid-career researchers are significantly more likely to perceive that repositories enhance efficiency and productivity. Academic degree alone does not significantly influence perception, suggesting that repository use depends more on institutional environment, disciplinary norms, and practical experience than on formal titles. The findings highlight the importance of institutional support, early integration of repositories into research workflows, and tailored training to maximize usage and benefits. These results provide a foundation for aligning national Open Science policies with everyday research practices, supporting targeted interventions to increase repository adoption and enhance research efficiency and productivity across disciplines.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410237</guid>
+      <dc:creator>Jelena Banović, Aleksandra Bradić-Martinović, Aleksandar Zdravković</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Academic reference librarians’ perception of information overload: An exploratory study</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251369125</link>
+      <description><![CDATA[<p>As digital information expands at an unprecedented pace, reference librarians in academic libraries face growing cognitive strain, commonly known as information overload (IO). This study investigates whether personality traits (extraversion, conscientiousness, and openness to experience), professional variables (self-efficacy, empowerment, and cognitive appraisals), and environmental factors (library disciplinary field and institutional type) are associated with academic librarians’ perceptions of IO. The study used a quantitative method, included 146 academic reference librarians and took place in Israel. Findings suggest that academic reference librarians’ perception of IO is mainly shaped by threat appraisal, self-efficacy, and the disciplinary field of their library. These insights improve the understanding academic reference librarians’ perception of IO and support the development of training and education programs that address discipline-specific information needs, helping academic reference librarians manage information overload more effectively.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
+      <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
       <category>journal</category>
     </item>
     <item>
@@ -111,128 +227,12 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
-      <description><![CDATA[<p>Based on Norwegian colonial history, complicity in neo-colonialism, discrimination in Norwegian society and the role of the public library, there is a necessity for questioning how the public library – an institution built on colonial history and imported systems – fulfils its social mandate. This study maps staff attitudes towards the implementation of decolonisation initiatives in Norwegian public libraries, contributing to academic discourse on decolonisation in Norway. Qualitative data was collected in an interpretivist paradigm using a multi-stage strategy with a latent approach and analysed thematically. Questionnaire responses collected from 35 public library staff across 9 of Norway’s counties informed semi-structured interviews with four participants via an iterative process. Data analysis revealed three themes: acknowledgement of coloniality, contradictions and subjectivity and responsibility and challenges to decolonisation. A lack of knowledge on how colonialism impacts public libraries amongst staff and a need for decolonisation was identified in terms of the acknowledgement of coloniality and disparities between participant responses. Despite this, positive attitudes were expressed towards fostering education regarding decolonisation and the possibility of implementing initiatives. It is concluded that there is a lack of discussion on decolonising Norwegian public libraries, and a prevalence of whiteness particularly in discussions of solidarity and neutrality, cementing coloniality in the institution. As such, intentionality emerged as a significant consideration in light of existing challenges and the potential identified in participant attitudes. This study therefore recommends further research to confirm findings and greater staff initiative to foster discussion and education for meaningful engagement with decoloniality.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372633</guid>
-      <dc:creator>Dorthe Sofie Dale, Bethany Aylward</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>It must be nice to get paid to read: Librarians on reading at work</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251384357</link>
-      <description><![CDATA[<p>While modern librarians may have knowledge of books, their skillsets and job expectations typically expand into additional areas related to information. Despite this, a common stereotype of librarians and library staff is that they are allowed, or paid, to read at work. This study explores the stereotype through experiences of 280 librarians and library staff in the United States (US) through a mixed-methods survey. Research questions ask if these librarians and library staff are expected to be well read and knowledgeable about trends in the field, and about common practices around reading at their places of work. Findings suggest that librarians and library staff are expected to be well read and current with professional trends, and that they are generally allowed to read for professional development while at work. Responses differed based on format, time on and off of public facing desks, and for reading that blurred the lines between personal and professional work, with book club preparation as a notable example. Participants described attention to patrons as a priority, and concerns with public perception. Results from this study provide insight into policies and norms across the US, with additional questions developed for further exploration.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
-      <dc:creator>Amelia Anderson</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
-      <description><![CDATA[<p>This study examines researchers’ perceptions of the impact of digital repositories on scientific efficiency and productivity in Serbia, a developing research environment with a national Open Science policy that is still in the development phase. Based on a survey conducted among 326 researchers from universities and research institutes across various disciplines, the analysis explores how professional characteristics, including institution type, academic degree, discipline, and years of experience, affect perceived benefits from repository use. Logistic regression analysis shows that researchers affiliated with institutes, those in the humanities, and mid-career researchers are significantly more likely to perceive that repositories enhance efficiency and productivity. Academic degree alone does not significantly influence perception, suggesting that repository use depends more on institutional environment, disciplinary norms, and practical experience than on formal titles. The findings highlight the importance of institutional support, early integration of repositories into research workflows, and tailored training to maximize usage and benefits. These results provide a foundation for aligning national Open Science policies with everyday research practices, supporting targeted interventions to increase repository adoption and enhance research efficiency and productivity across disciplines.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410237</guid>
-      <dc:creator>Jelena Banović, Aleksandra Bradić-Martinović, Aleksandar Zdravković</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Academic reference librarians’ perception of information overload: An exploratory study</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251369125</link>
-      <description><![CDATA[<p>As digital information expands at an unprecedented pace, reference librarians in academic libraries face growing cognitive strain, commonly known as information overload (IO). This study investigates whether personality traits (extraversion, conscientiousness, and openness to experience), professional variables (self-efficacy, empowerment, and cognitive appraisals), and environmental factors (library disciplinary field and institutional type) are associated with academic librarians’ perceptions of IO. The study used a quantitative method, included 146 academic reference librarians and took place in Israel. Findings suggest that academic reference librarians’ perception of IO is mainly shaped by threat appraisal, self-efficacy, and the disciplinary field of their library. These insights improve the understanding academic reference librarians’ perception of IO and support the development of training and education programs that address discipline-specific information needs, helping academic reference librarians manage information overload more effectively.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
-      <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The future of information systems in the enterprise</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
-      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
-      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Bold claims about health data: Exploring economic estimates in policy and consultancy reports</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473362</link>
-      <description><![CDATA[<p>What is health data worth? How much money could we save, or generate, by sharing health data across borders? Such questions are now routinely posed in policy and consultancy reports. If raised 50 years ago, such questions probably would have been perceived as peculiar. The value of health data was clinical and administrative, not economic. Today, however, economic estimates on the value of health data are ever more present in policymaking. In this article, we explore this phenomenon by asking: Who produces these reports? How is the credibility of estimates established? And how are these estimates taken up in other texts? We focus on EU policy and consultancy reports because of the EU&#x27;s current attempts to take on global leadership in the field through new regulations, such as the European Health Data Space, aimed at boosting health data reuse. Estimates are presented as evidence-based; yet closer examination reveals inconsistencies, omissions of assumptions and models, and uses of what we call “look-alike mathematics” and fanciful ways of quantifying value. These are all features that undermine accountability. Drawing on STS literature, we see the estimates as emerging within an assemblage of consulting firms and policymakers working together to establish claims and shield them from scrutiny. Despite the lack of supporting evidence, estimates travel into other reports and scientific texts where they operate as facts. Moving forward, we propose a more reflective approach to quantification in line with what has been called “post-normal science” which communicates uncertainty and fosters transparency, inclusivity, and accountability.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473362</guid>
-      <dc:creator>Miriam El-Mahdi, Klaus Hoeyer</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Scams all the way up: The scam as vernacular analytic of digital capitalism</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261478113</link>
-      <description><![CDATA[<p>Scams have proliferated under digital capitalism; so too have stories of scams and allegations of scamming. In this commentary, we focus on the latter to situate the scam as a “vernacular analytic:” an everyday mode of critique invoked to question the normative systems and institutions that rule our lives, but are experienced as exploitative or rigged. While this vernacular analytic is a powerful and pervasive means to highlight inequality, we argue that it obscures what is unique about scams amid capitalism&#x27;s digitalization. In response, we develop a systematic approach to study this vernacular analytic as it circulates under digital capitalism. We propose three features of the scam as a vernacular analytic: critique at scale, the fallout of digital mimicry, and the exploitation of affect. This threefold framework provides a common foundation for empowering us to counter inequitable and exploitative systems by reimagining and rebuilding institutions and our trust in them. We argue that recognizing the power and pervasiveness of the scam as a vernacular analytic, and interrogating how scams operate under digital capitalism, are essential steps toward a future less vulnerable to digitally mediated exploitation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261478113</guid>
-      <dc:creator>Courtney T. Wittekind, Elizabeth Resor, Jovanna Rosen</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
       <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
       <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
       <dc:creator>Shangwei Wu</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Empowering citizens in digital health data governance: Insights from an overview of reviews</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261467358</link>
-      <description><![CDATA[<p>As digital technologies in healthcare expand, critical discussions on protecting privacy, securing personal health data, and governing its use have gained prominence. Despite regulations such as the General Data Protection Regulation and the European Health Data Space, many citizens remain unaware of their data rights or how their data are used. This highlights the need to understand how citizens wish to participate and what meaningful participation entails. This overview of reviews synthesizes insights from 35 systematic reviews (2011–2023) on citizen participation in health data governance, including reviews in which citizens’ broader views on health data use, which influence willingness and ability to participate, are discussed. Findings are interpreted through the lens of feasibility, appropriateness, meaningfulness, and effectiveness. Findings highlight the complexity of fostering citizen participation in health data governance. While citizens often express favorable attitudes, the way they are currently involved remains largely tokenistic, limited to informing, consultation, or placation. Strengthening participation requires attention to feasibility, appropriateness, and meaningfulness of citizen-driven data governance. Findings suggest that building trust and accountability, ensuring digital and health literacy, involving trusted intermediaries, and recognizing the sensitivity of data are beneficial. Participation is most meaningful when it delivers both personal benefits (e.g. improved care) and public benefits (e.g. advancing research). Effectiveness arises when these conditions work together, enabling participation to move beyond tokenism and deliver tangible improvements for citizens and society.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467358</guid>
-      <dc:creator>Cato van Schyndel, Charlotte De Clerck, Erik Laes</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
