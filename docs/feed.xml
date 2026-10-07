@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:08:53 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -48,6 +48,71 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
+    </item>
+    <item>
+      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
+      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
+      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
+      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
+      <dc:creator>Pei-Chun Lee</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
+      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
+      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
+      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
+      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
     </item>
     <item>
       <title>YSocial: An artificial intelligence powered social media virtual twin</title>
@@ -188,77 +253,12 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
-      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
-      <dc:creator>Pei-Chun Lee</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
-      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
-      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
-      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
-      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Social media as search engines? Manufactured usefulness and the rise of RedNote in mobile search</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261473356</link>
       <description><![CDATA[<p>Seeking information via social media instead of search engines has become increasingly common. This study examines RedNote, a popular Chinese platform that has emerged as a mobile search tool. Arguing that RedNote’s abundance of useful content plays a key role, I propose the concept of “manufactured usefulness” to capture the constructedness of such content. Individual users, the platform, and, increasingly, advertisers have co-constructed a culture of usefulness, embodied in two prominent content genres: instructional and recommendation posts. Instructional posts teach users the skills they want to learn and help them solve immediate problems, while recommendation posts draw attention to things that people may want to use, experience, or own. Useful posts are expected to possess qualities such as authenticity and communicative efficiency, which further break down into factors (e.g., argumentation, discursive style, formatting, etc.) that can be consciously assembled and employed. Thus, usefulness can be manufactured. RedNote monetizes manufactured usefulness by selling “useful” posts to advertisers, but ubiquitous sponsorships raise users’ doubts about authenticity. Paradoxically, RedNote upholds the banner of authenticity to retain users and further monetize this value, with its underlying commercial logic being both restrictive and productive in shaping the culture of usefulness.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
       <dc:creator>Shangwei Wu</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
-      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
-      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
