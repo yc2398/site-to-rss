@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 05:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:03:25 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -50,17 +50,41 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
-      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
-      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
+    </item>
+    <item>
+      <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
+      <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
+      <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
+      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
+      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
     </item>
     <item>
       <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
@@ -87,24 +111,173 @@
       <category>journal</category>
     </item>
     <item>
+      <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
+      <description><![CDATA[<p>Metaverse technology integration in public libraries offers revolutionary possibilities to improve information availability, user engagement, and interactive learning. This study carefully evaluates current literature to examine the hurdles, potential, and future directions of metaverse adoption in public libraries. The study used seven database sources – ProQuest Dissertations and Theses Global, IEEE Xplore, ACM Digital Library, Google Scholar, Web of Science, Scopus, and Library, Information Science &amp; Technology Abstracts (LISTA). The study was conducted between 2015 and 2025 and publication type included are book chapters, conference proceedings, and peer-reviewed journal papers were given preference. The inclusion criteria include studies that examined the best practices, policies, opportunities, and obstacles associated with the implementation of the metaverse in libraries; comprehensive literature reviews, empirical research published in respectable peer-reviewed journals, conference proceedings, or edited volumes, as well as studies using quantitative, qualitative, or mixed approaches, were all taken into consideration. However, the study excluded studies that had no bearing on public libraries and only addressed academic or special libraries. The report lists the advantages of metaverse technology, such as improved digital collections, cutting-edge service delivery methods, and immersive virtual learning environments. It also examines programs, rules, and best practices that have been put in place worldwide to facilitate the integration of the metaverse into public library environments. Despite these developments, a number of obstacles prevent broad acceptance, including high implementation costs, technological constraints, a lack of digital literacy, and moral dilemmas related to security and privacy. The report also discusses ways to make the most of metaverse technology, highlighting the necessity of cooperative policy frameworks, training in digital skills, and infrastructure development. According to research, metaverse technologies have the potential to completely transform library services, but to ensure fair access, a systematic and inclusive strategy is necessary. The study adds to the expanding conversation on digital transformation in public libraries by providing useful information for scholars, policymakers, and library workers. It highlights the need for more empirical research to evaluate the practical uses of metaverse technologies across diverse socioeconomic and cultural contexts. Cost–benefit analysis, ethical issues, and the potential of AI to improve metaverse-based library services should be the main topics of future studies. Public libraries can fully utilise metaverse technologies to remain influential, relevant, and accessible in the digital age by addressing three key issues.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463099</guid>
+      <dc:creator>Tella Adeyinka, Adebola Aderemi Olatoye</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
+      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
+      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
+      <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
+      <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
+      <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261465192</guid>
+      <dc:creator>Yusuf Ayodeji Ajani, Farouq Olakunle Malik, Sadiya Abubakar</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
+      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
+      <dc:creator>Pei-Chun Lee</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
+      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
+      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Understanding the factors influencing health information avoidance: A perspective from the risk information seeking and processing (RISP) model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251387703</link>
+      <description><![CDATA[<p>Information avoidance is a complex phenomenon that is influenced by several factors, including individual, social, psychological, and environmental factors. Individuals deliberately avoid information that they perceive as threatening or overwhelming which can pose a serious health risk. Understanding the factors that influence information avoidance is essential for designing effective health communication strategies and interventions. Thus, the study is conducted with an aim to measure and validate “the risk information seeking and processing (RISP)” framework and determining the factors influencing the health information avoidance (HIA) among general health consumers. Drawing on the information seeking and processing (RISP) framework, a six-factor measurement model was proposed to understand the factors causing the HIA. The model was tested using the structural equation modeling (SEM) with data collected from 1600 general health consumers through a cross-sectional survey. The findings showed that both negative affective risk responses (β = 0.382) and information overload (β = 0.118) positively influenced channel beliefs. Subsequently, channel beliefs (β = 0.079) positively influenced HIA. However, information overload (β = 0. 029) and information norms (β = 0.039) showed a positive but statistically non-significant influence on HIA. The study concludes that negative affective risk responses, information overload and channel beliefs are the key factors that influence HIA among health consumers. However, factors like risk perception, informational norms, and information insufficiency did not significantly influence HIA. Our study contributes to the validation and applicability of the RISP framework to the information behavior domain, especially in the context of HIA.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251387703</guid>
+      <dc:creator>Zijun Shen, Anas Ali Alhur, Muhammad Ramzan</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
+      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
+      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
+      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
+      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
+      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
+      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
+      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
+      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
+      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
+      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
       <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
       <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
       <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
-      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
-      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
@@ -163,42 +336,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
-      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
-      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
-      <description><![CDATA[<p>Metaverse technology integration in public libraries offers revolutionary possibilities to improve information availability, user engagement, and interactive learning. This study carefully evaluates current literature to examine the hurdles, potential, and future directions of metaverse adoption in public libraries. The study used seven database sources – ProQuest Dissertations and Theses Global, IEEE Xplore, ACM Digital Library, Google Scholar, Web of Science, Scopus, and Library, Information Science &amp; Technology Abstracts (LISTA). The study was conducted between 2015 and 2025 and publication type included are book chapters, conference proceedings, and peer-reviewed journal papers were given preference. The inclusion criteria include studies that examined the best practices, policies, opportunities, and obstacles associated with the implementation of the metaverse in libraries; comprehensive literature reviews, empirical research published in respectable peer-reviewed journals, conference proceedings, or edited volumes, as well as studies using quantitative, qualitative, or mixed approaches, were all taken into consideration. However, the study excluded studies that had no bearing on public libraries and only addressed academic or special libraries. The report lists the advantages of metaverse technology, such as improved digital collections, cutting-edge service delivery methods, and immersive virtual learning environments. It also examines programs, rules, and best practices that have been put in place worldwide to facilitate the integration of the metaverse into public library environments. Despite these developments, a number of obstacles prevent broad acceptance, including high implementation costs, technological constraints, a lack of digital literacy, and moral dilemmas related to security and privacy. The report also discusses ways to make the most of metaverse technology, highlighting the necessity of cooperative policy frameworks, training in digital skills, and infrastructure development. According to research, metaverse technologies have the potential to completely transform library services, but to ensure fair access, a systematic and inclusive strategy is necessary. The study adds to the expanding conversation on digital transformation in public libraries by providing useful information for scholars, policymakers, and library workers. It highlights the need for more empirical research to evaluate the practical uses of metaverse technologies across diverse socioeconomic and cultural contexts. Cost–benefit analysis, ethical issues, and the potential of AI to improve metaverse-based library services should be the main topics of future studies. Public libraries can fully utilise metaverse technologies to remain influential, relevant, and accessible in the digital age by addressing three key issues.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463099</guid>
-      <dc:creator>Tella Adeyinka, Adebola Aderemi Olatoye</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
-      <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
-      <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Hallucination in Generative AI: Challenges to data integrity,ethical concerns and implications for knowledge management</title>
       <link>https://sage.cnpereading.com/doi/10.1177/18758789261463098</link>
       <description><![CDATA[<p>This study examines the phenomenon of hallucination in generative artificial intelligence (AI) and analyzes its implications for data integrity, ethical responsibility, and knowledge management systems. A qualitative research design was adopted using a systematic review of literature published between 2017 and 2025. Relevant studies were retrieved from academic databases including DOAJ and Google Scholar using targeted keywords related to AI hallucination, data reliability, ethics, and knowledge management. A total of 34 eligible studies were analyzed using thematic analysis to identify recurring patterns, divergences and emergent themes across the literature. The findings reveal that generative AI hallucinations significantly undermine data reliability by producing plausible but inaccurate information, thereby increasing the risk of misinformation and flawed decision-making. Ethical challenges including bias, transparency deficits, accountability gaps, and intellectual property concerns are consistently reported in the literature. While generative AI enhances efficiency, creativity, and information retrieval within knowledge management systems, the persistence of hallucinations reflects deeper structural limitations in large language models which weaken user trust and compromise knowledge accuracy and institutional credibility. This study is among the first to provide a comprehensive and integrated examination of generative AI hallucination in relation to data integrity, ethical concerns, and knowledge management systems.</p>]]></description>
@@ -208,31 +345,6 @@
       <category domain="source">Information Services and Use</category>
       <category domain="source_id">isu</category>
       <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
-      <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
-      <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
       <category>journal</category>
     </item>
     <item>
@@ -299,45 +411,6 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
-    </item>
-    <item>
-      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
-      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
-      <dc:creator>Pei-Chun Lee</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
-      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
-      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
     </item>
     <item>
       <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
@@ -498,30 +571,6 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
       <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
-      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
-      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
-      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
-      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>

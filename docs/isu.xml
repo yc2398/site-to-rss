@@ -5,23 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 05:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:03:25 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/isu.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
-      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
-      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
       <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
@@ -35,12 +23,36 @@
       <category>journal</category>
     </item>
     <item>
+      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
+      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
+      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
       <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
       <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
       <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
       <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
+      <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261465192</guid>
+      <dc:creator>Yusuf Ayodeji Ajani, Farouq Olakunle Malik, Sadiya Abubakar</dc:creator>
       <category domain="source">Information Services and Use</category>
       <category domain="source_id">isu</category>
       <category>information-science</category>
