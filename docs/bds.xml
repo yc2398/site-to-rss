@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:32:50 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -50,12 +50,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
+      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
+      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -63,12 +63,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
-      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
-      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>

@@ -5,11 +5,23 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:32:50 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/idv.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
+      <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
+      <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
@@ -29,6 +41,18 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
       <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Are faculty members capable of finding the needed information? A study of selected universities of Jammu and Kashmir</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286056</link>
+      <description><![CDATA[<p>We all need information and there is so much of it available in both physical and digital media. However, to find the needed information, capability of searching; knowledge of retrieval tools like catalogue; knowledge of Boolean operators, wildcards and truncations; and knowledge to different sources of information like bibliography, encyclopaedia, journals, etc. are equally important. The current study set out to investigate the faculty members’ searching capabilities in four of Jammu &amp; Kashmir&#x27;s top institutions. The study used questionnaire as a tool to gather data from randomly identified population. After applying appropriate statistical techniques, the study revealed that the faculty members are not able to cross the half mark of correct answering for some basic questions posed to them. Eventually, the study suggests to conduct user awareness programmes since these programmes are significantly associated with the correct responses given by the faculty members in the universities studied.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286056</guid>
+      <dc:creator>Abdul Wahid, K. Vijayakumar, Mohammad Ishaq Lone</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>

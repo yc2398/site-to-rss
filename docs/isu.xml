@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:32:50 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -47,24 +47,24 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
-      <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261465192</guid>
-      <dc:creator>Yusuf Ayodeji Ajani, Farouq Olakunle Malik, Sadiya Abubakar</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Hallucination in Generative AI: Challenges to data integrity,ethical concerns and implications for knowledge management</title>
       <link>https://sage.cnpereading.com/doi/10.1177/18758789261463098</link>
       <description><![CDATA[<p>This study examines the phenomenon of hallucination in generative artificial intelligence (AI) and analyzes its implications for data integrity, ethical responsibility, and knowledge management systems. A qualitative research design was adopted using a systematic review of literature published between 2017 and 2025. Relevant studies were retrieved from academic databases including DOAJ and Google Scholar using targeted keywords related to AI hallucination, data reliability, ethics, and knowledge management. A total of 34 eligible studies were analyzed using thematic analysis to identify recurring patterns, divergences and emergent themes across the literature. The findings reveal that generative AI hallucinations significantly undermine data reliability by producing plausible but inaccurate information, thereby increasing the risk of misinformation and flawed decision-making. Ethical challenges including bias, transparency deficits, accountability gaps, and intellectual property concerns are consistently reported in the literature. While generative AI enhances efficiency, creativity, and information retrieval within knowledge management systems, the persistence of hallucinations reflects deeper structural limitations in large language models which weaken user trust and compromise knowledge accuracy and institutional credibility. This study is among the first to provide a comprehensive and integrated examination of generative AI hallucination in relation to data integrity, ethical concerns, and knowledge management systems.</p>]]></description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463098</guid>
       <dc:creator>Wole Michael Olatokun, Bolaji David Oladokun</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
+      <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261465192</guid>
+      <dc:creator>Yusuf Ayodeji Ajani, Farouq Olakunle Malik, Sadiya Abubakar</dc:creator>
       <category domain="source">Information Services and Use</category>
       <category domain="source_id">isu</category>
       <category>information-science</category>

@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:32:50 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -48,6 +48,115 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
+    </item>
+    <item>
+      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
+      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
+      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
+      <description><![CDATA[<p>Metaverse technology integration in public libraries offers revolutionary possibilities to improve information availability, user engagement, and interactive learning. This study carefully evaluates current literature to examine the hurdles, potential, and future directions of metaverse adoption in public libraries. The study used seven database sources – ProQuest Dissertations and Theses Global, IEEE Xplore, ACM Digital Library, Google Scholar, Web of Science, Scopus, and Library, Information Science &amp; Technology Abstracts (LISTA). The study was conducted between 2015 and 2025 and publication type included are book chapters, conference proceedings, and peer-reviewed journal papers were given preference. The inclusion criteria include studies that examined the best practices, policies, opportunities, and obstacles associated with the implementation of the metaverse in libraries; comprehensive literature reviews, empirical research published in respectable peer-reviewed journals, conference proceedings, or edited volumes, as well as studies using quantitative, qualitative, or mixed approaches, were all taken into consideration. However, the study excluded studies that had no bearing on public libraries and only addressed academic or special libraries. The report lists the advantages of metaverse technology, such as improved digital collections, cutting-edge service delivery methods, and immersive virtual learning environments. It also examines programs, rules, and best practices that have been put in place worldwide to facilitate the integration of the metaverse into public library environments. Despite these developments, a number of obstacles prevent broad acceptance, including high implementation costs, technological constraints, a lack of digital literacy, and moral dilemmas related to security and privacy. The report also discusses ways to make the most of metaverse technology, highlighting the necessity of cooperative policy frameworks, training in digital skills, and infrastructure development. According to research, metaverse technologies have the potential to completely transform library services, but to ensure fair access, a systematic and inclusive strategy is necessary. The study adds to the expanding conversation on digital transformation in public libraries by providing useful information for scholars, policymakers, and library workers. It highlights the need for more empirical research to evaluate the practical uses of metaverse technologies across diverse socioeconomic and cultural contexts. Cost–benefit analysis, ethical issues, and the potential of AI to improve metaverse-based library services should be the main topics of future studies. Public libraries can fully utilise metaverse technologies to remain influential, relevant, and accessible in the digital age by addressing three key issues.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463099</guid>
+      <dc:creator>Tella Adeyinka, Adebola Aderemi Olatoye</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
+      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
+      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
+      <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
+      <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Hallucination in Generative AI: Challenges to data integrity,ethical concerns and implications for knowledge management</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463098</link>
+      <description><![CDATA[<p>This study examines the phenomenon of hallucination in generative artificial intelligence (AI) and analyzes its implications for data integrity, ethical responsibility, and knowledge management systems. A qualitative research design was adopted using a systematic review of literature published between 2017 and 2025. Relevant studies were retrieved from academic databases including DOAJ and Google Scholar using targeted keywords related to AI hallucination, data reliability, ethics, and knowledge management. A total of 34 eligible studies were analyzed using thematic analysis to identify recurring patterns, divergences and emergent themes across the literature. The findings reveal that generative AI hallucinations significantly undermine data reliability by producing plausible but inaccurate information, thereby increasing the risk of misinformation and flawed decision-making. Ethical challenges including bias, transparency deficits, accountability gaps, and intellectual property concerns are consistently reported in the literature. While generative AI enhances efficiency, creativity, and information retrieval within knowledge management systems, the persistence of hallucinations reflects deeper structural limitations in large language models which weaken user trust and compromise knowledge accuracy and institutional credibility. This study is among the first to provide a comprehensive and integrated examination of generative AI hallucination in relation to data integrity, ethical concerns, and knowledge management systems.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463098</guid>
+      <dc:creator>Wole Michael Olatokun, Bolaji David Oladokun</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
+      <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
+      <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
+      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
+      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
+      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
+      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Are faculty members capable of finding the needed information? A study of selected universities of Jammu and Kashmir</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286056</link>
+      <description><![CDATA[<p>We all need information and there is so much of it available in both physical and digital media. However, to find the needed information, capability of searching; knowledge of retrieval tools like catalogue; knowledge of Boolean operators, wildcards and truncations; and knowledge to different sources of information like bibliography, encyclopaedia, journals, etc. are equally important. The current study set out to investigate the faculty members’ searching capabilities in four of Jammu &amp; Kashmir&#x27;s top institutions. The study used questionnaire as a tool to gather data from randomly identified population. After applying appropriate statistical techniques, the study revealed that the faculty members are not able to cross the half mark of correct answering for some basic questions posed to them. Eventually, the study suggests to conduct user awareness programmes since these programmes are significantly associated with the correct responses given by the faculty members in the universities studied.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286056</guid>
+      <dc:creator>Abdul Wahid, K. Vijayakumar, Mohammad Ishaq Lone</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
     </item>
     <item>
       <title>YSocial: An artificial intelligence powered social media virtual twin</title>
@@ -108,42 +217,6 @@
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
-      <description><![CDATA[<p>Metaverse technology integration in public libraries offers revolutionary possibilities to improve information availability, user engagement, and interactive learning. This study carefully evaluates current literature to examine the hurdles, potential, and future directions of metaverse adoption in public libraries. The study used seven database sources – ProQuest Dissertations and Theses Global, IEEE Xplore, ACM Digital Library, Google Scholar, Web of Science, Scopus, and Library, Information Science &amp; Technology Abstracts (LISTA). The study was conducted between 2015 and 2025 and publication type included are book chapters, conference proceedings, and peer-reviewed journal papers were given preference. The inclusion criteria include studies that examined the best practices, policies, opportunities, and obstacles associated with the implementation of the metaverse in libraries; comprehensive literature reviews, empirical research published in respectable peer-reviewed journals, conference proceedings, or edited volumes, as well as studies using quantitative, qualitative, or mixed approaches, were all taken into consideration. However, the study excluded studies that had no bearing on public libraries and only addressed academic or special libraries. The report lists the advantages of metaverse technology, such as improved digital collections, cutting-edge service delivery methods, and immersive virtual learning environments. It also examines programs, rules, and best practices that have been put in place worldwide to facilitate the integration of the metaverse into public library environments. Despite these developments, a number of obstacles prevent broad acceptance, including high implementation costs, technological constraints, a lack of digital literacy, and moral dilemmas related to security and privacy. The report also discusses ways to make the most of metaverse technology, highlighting the necessity of cooperative policy frameworks, training in digital skills, and infrastructure development. According to research, metaverse technologies have the potential to completely transform library services, but to ensure fair access, a systematic and inclusive strategy is necessary. The study adds to the expanding conversation on digital transformation in public libraries by providing useful information for scholars, policymakers, and library workers. It highlights the need for more empirical research to evaluate the practical uses of metaverse technologies across diverse socioeconomic and cultural contexts. Cost–benefit analysis, ethical issues, and the potential of AI to improve metaverse-based library services should be the main topics of future studies. Public libraries can fully utilise metaverse technologies to remain influential, relevant, and accessible in the digital age by addressing three key issues.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463099</guid>
-      <dc:creator>Tella Adeyinka, Adebola Aderemi Olatoye</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
-      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
-      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
-      <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
-      <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
       <category>journal</category>
     </item>
     <item>
@@ -211,30 +284,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
-      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
-      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
-      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
-      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
       <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
@@ -257,19 +306,6 @@
       <category domain="source_id">idv</category>
       <category>information-development</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
-      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
-      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
@@ -332,18 +368,6 @@
       <category domain="source">Education for Information</category>
       <category domain="source_id">efi</category>
       <category>education</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Hallucination in Generative AI: Challenges to data integrity,ethical concerns and implications for knowledge management</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463098</link>
-      <description><![CDATA[<p>This study examines the phenomenon of hallucination in generative artificial intelligence (AI) and analyzes its implications for data integrity, ethical responsibility, and knowledge management systems. A qualitative research design was adopted using a systematic review of literature published between 2017 and 2025. Relevant studies were retrieved from academic databases including DOAJ and Google Scholar using targeted keywords related to AI hallucination, data reliability, ethics, and knowledge management. A total of 34 eligible studies were analyzed using thematic analysis to identify recurring patterns, divergences and emergent themes across the literature. The findings reveal that generative AI hallucinations significantly undermine data reliability by producing plausible but inaccurate information, thereby increasing the risk of misinformation and flawed decision-making. Ethical challenges including bias, transparency deficits, accountability gaps, and intellectual property concerns are consistently reported in the literature. While generative AI enhances efficiency, creativity, and information retrieval within knowledge management systems, the persistence of hallucinations reflects deeper structural limitations in large language models which weaken user trust and compromise knowledge accuracy and institutional credibility. This study is among the first to provide a comprehensive and integrated examination of generative AI hallucination in relation to data integrity, ethical concerns, and knowledge management systems.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463098</guid>
-      <dc:creator>Wole Michael Olatokun, Bolaji David Oladokun</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
       <category>information-science</category>
       <category>journal</category>
     </item>
