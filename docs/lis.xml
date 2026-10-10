@@ -5,63 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 22:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:34:08 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/lis.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
-      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
-      <dc:creator>Pei-Chun Lee</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
-      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
-      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Understanding the factors influencing health information avoidance: A perspective from the risk information seeking and processing (RISP) model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251387703</link>
-      <description><![CDATA[<p>Information avoidance is a complex phenomenon that is influenced by several factors, including individual, social, psychological, and environmental factors. Individuals deliberately avoid information that they perceive as threatening or overwhelming which can pose a serious health risk. Understanding the factors that influence information avoidance is essential for designing effective health communication strategies and interventions. Thus, the study is conducted with an aim to measure and validate “the risk information seeking and processing (RISP)” framework and determining the factors influencing the health information avoidance (HIA) among general health consumers. Drawing on the information seeking and processing (RISP) framework, a six-factor measurement model was proposed to understand the factors causing the HIA. The model was tested using the structural equation modeling (SEM) with data collected from 1600 general health consumers through a cross-sectional survey. The findings showed that both negative affective risk responses (β = 0.382) and information overload (β = 0.118) positively influenced channel beliefs. Subsequently, channel beliefs (β = 0.079) positively influenced HIA. However, information overload (β = 0. 029) and information norms (β = 0.039) showed a positive but statistically non-significant influence on HIA. The study concludes that negative affective risk responses, information overload and channel beliefs are the key factors that influence HIA among health consumers. However, factors like risk perception, informational norms, and information insufficiency did not significantly influence HIA. Our study contributes to the validation and applicability of the RISP framework to the information behavior domain, especially in the context of HIA.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251387703</guid>
-      <dc:creator>Zijun Shen, Anas Ali Alhur, Muhammad Ramzan</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
@@ -108,6 +56,58 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
       <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
+      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
+      <dc:creator>Pei-Chun Lee</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
+      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
+      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Understanding the factors influencing health information avoidance: A perspective from the risk information seeking and processing (RISP) model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251387703</link>
+      <description><![CDATA[<p>Information avoidance is a complex phenomenon that is influenced by several factors, including individual, social, psychological, and environmental factors. Individuals deliberately avoid information that they perceive as threatening or overwhelming which can pose a serious health risk. Understanding the factors that influence information avoidance is essential for designing effective health communication strategies and interventions. Thus, the study is conducted with an aim to measure and validate “the risk information seeking and processing (RISP)” framework and determining the factors influencing the health information avoidance (HIA) among general health consumers. Drawing on the information seeking and processing (RISP) framework, a six-factor measurement model was proposed to understand the factors causing the HIA. The model was tested using the structural equation modeling (SEM) with data collected from 1600 general health consumers through a cross-sectional survey. The findings showed that both negative affective risk responses (β = 0.382) and information overload (β = 0.118) positively influenced channel beliefs. Subsequently, channel beliefs (β = 0.079) positively influenced HIA. However, information overload (β = 0. 029) and information norms (β = 0.039) showed a positive but statistically non-significant influence on HIA. The study concludes that negative affective risk responses, information overload and channel beliefs are the key factors that influence HIA among health consumers. However, factors like risk perception, informational norms, and information insufficiency did not significantly influence HIA. Our study contributes to the validation and applicability of the RISP framework to the information behavior domain, especially in the context of HIA.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251387703</guid>
+      <dc:creator>Zijun Shen, Anas Ali Alhur, Muhammad Ramzan</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
