@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:45:54 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -17,19 +17,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
       <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -56,6 +43,32 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261467360</guid>
       <dc:creator>Tessa I van Rijssel, Marianne Boenink</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261481718</link>
+      <description><![CDATA[<p>Fear of missing out (FOMO) is known to drive engagement. But does this apply to AI FOMO, the fear of falling behind with artificial intelligence (AI)? This commentary argues that it does not. Many people feel this fear intensely yet still do not act. Unlike social media FOMO, where fear is quickly discharged through participation, AI FOMO produces desire without action, a paralysis rooted in the asymmetry between perceiving AI as indispensable (high response efficacy) and feeling incapable of mastering it (low self-efficacy). When this tension goes unresolved, it may be redirected toward human–human relations, appearing as envy of AI-proficient peers and as biased attribution that discounts others’ accomplishments as merely “AI-driven.” These dynamics are not only individual. The asymmetry is also shaped by structural disparities in training, time, resources, and support, and by sociotechnical imaginaries that frame adoption as urgent and inevitable. As AI competence becomes a symbolic marker of merit, non-adoption risks being read solely as individual failure, obscuring the unequal conditions that also shape it. Understanding AI FOMO as a distinct emotional and sociotechnical condition suggests how technological change compounds inequality without requiring widespread adoption, and how FOMO, unaccompanied by the capacity to act, deepens divisions rather than bridges them.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
+      <dc:creator>S Mo Jones-Jang</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -121,19 +134,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473356</guid>
       <dc:creator>Shangwei Wu</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261481718</link>
-      <description><![CDATA[<p>Fear of missing out (FOMO) is known to drive engagement. But does this apply to AI FOMO, the fear of falling behind with artificial intelligence (AI)? This commentary argues that it does not. Many people feel this fear intensely yet still do not act. Unlike social media FOMO, where fear is quickly discharged through participation, AI FOMO produces desire without action, a paralysis rooted in the asymmetry between perceiving AI as indispensable (high response efficacy) and feeling incapable of mastering it (low self-efficacy). When this tension goes unresolved, it may be redirected toward human–human relations, appearing as envy of AI-proficient peers and as biased attribution that discounts others’ accomplishments as merely “AI-driven.” These dynamics are not only individual. The asymmetry is also shaped by structural disparities in training, time, resources, and support, and by sociotechnical imaginaries that frame adoption as urgent and inevitable. As AI competence becomes a symbolic marker of merit, non-adoption risks being read solely as individual failure, obscuring the unequal conditions that also shape it. Understanding AI FOMO as a distinct emotional and sociotechnical condition suggests how technological change compounds inequality without requiring widespread adoption, and how FOMO, unaccompanied by the capacity to act, deepens divisions rather than bridges them.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
-      <dc:creator>S Mo Jones-Jang</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
