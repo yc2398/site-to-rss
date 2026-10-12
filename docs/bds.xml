@@ -5,11 +5,24 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 21:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:40:33 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/bds.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Economizing attention: Markets and barter in video advertising platforms</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
@@ -17,6 +30,19 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
       <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -56,19 +82,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261481718</guid>
       <dc:creator>S Mo Jones-Jang</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
