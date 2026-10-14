@@ -5,11 +5,99 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 04:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:38:58 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
+      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
+      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
+      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
+      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
+      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
+      <dc:creator>Mariusz Stanowski</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The role of institutional policies in the sustainability of institutional repositories in Africa: A reflection from Ghana</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231220167</link>
+      <description><![CDATA[<p>Institutional repositories (IRs) are increasingly gaining prominence among African academic institutions, and Ghana is no exception. This can largely be attributed to the enduring value of hosting research outputs from institutional and individual depositors. Despite its increasing adoption, there is a growing concern about the sustainability of open access IRs, particularly in Africa. However, most of these factors that threaten the sustainability of IRs on the continent can be mitigated by enacting comprehensive institutional policies. Thus, this study sought to examine the role of institutional policies in the sustainability of IRs in Ghana. A total of 830 respondents comprised of IR managers, library staff, postgraduate students, lecturers and university librarians (management) from five public universities in Ghana took part in this study. Questionnaires, semi-structured interviews and document analysis were the main instruments used for data collection. The study yielded an overall response rate of 92.8%. The study findings revealed that public universities in Ghana have institutional IR policies that guide the operation, usage and management of their IRs. However, these policies were persuasive in nature and mainly focused on content submission and generation issues. The study underscored the IR policy’s importance in addressing content generation, awareness, advocacy and copyright restriction challenges. The study recommends the necessity of IR policies to focus on other factors such as technical requirements, expertise and others to ensure the sustainability of these repositories.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231220167</guid>
+      <dc:creator>Osman Imoro, Nampombe Saurombe</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
@@ -20,6 +108,54 @@
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
+      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
+      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
+      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
+      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
+      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
+      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
+      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
+      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
@@ -47,48 +183,12 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
-      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
-      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
       <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
       <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
-      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
-      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
-      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
-      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
@@ -159,45 +259,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
-      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
-      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
       <title>Embedding ethics in infrastructures for data-intensive health research</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261467360</link>
       <description><![CDATA[<p>Data-intensive health research requires robust infrastructure, encompassing the material, social, and institutional structures that facilitate large-scale data storage, sharing, and linkage. Such infrastructures are a central element of the research process, offering opportunities to integrate ethical considerations and promote responsible research practices. We analyze different ways of embedding ethics in infrastructures for data-intensive health research and their consequences for the allocation of responsibilities: guidelines and policies aimed at (i) individual actors like researchers; (ii) social arrangements, including committee review and data stewardship; and (iii) material elements and technological measures such as encryption. We argue that different approaches to embedding ethical considerations influence the behavior and latitude of involved actors, which moral competences are required, and how responsibilities are distributed among actors. Infrastructures play a crucial role in allocating responsibilities for addressing ethical concerns and preventing or mitigating undesirable outcomes, and thus in fostering responsible research practices. However, the benefits of specific ways of embedding ethics in infrastructures must be weighed against potential downsides, such as increased regulatory burdens and bureaucracy, and potential impacts on researchers’ moral competences.</p>]]></description>
@@ -256,30 +317,6 @@
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
-      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
-      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
-      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
-      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
@@ -345,43 +382,6 @@
       <category>librarianship</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
-      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
-      <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The role of institutional policies in the sustainability of institutional repositories in Africa: A reflection from Ghana</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231220167</link>
-      <description><![CDATA[<p>Institutional repositories (IRs) are increasingly gaining prominence among African academic institutions, and Ghana is no exception. This can largely be attributed to the enduring value of hosting research outputs from institutional and individual depositors. Despite its increasing adoption, there is a growing concern about the sustainability of open access IRs, particularly in Africa. However, most of these factors that threaten the sustainability of IRs on the continent can be mitigated by enacting comprehensive institutional policies. Thus, this study sought to examine the role of institutional policies in the sustainability of IRs in Ghana. A total of 830 respondents comprised of IR managers, library staff, postgraduate students, lecturers and university librarians (management) from five public universities in Ghana took part in this study. Questionnaires, semi-structured interviews and document analysis were the main instruments used for data collection. The study yielded an overall response rate of 92.8%. The study findings revealed that public universities in Ghana have institutional IR policies that guide the operation, usage and management of their IRs. However, these policies were persuasive in nature and mainly focused on content submission and generation issues. The study underscored the IR policy’s importance in addressing content generation, awareness, advocacy and copyright restriction challenges. The study recommends the necessity of IR policies to focus on other factors such as technical requirements, expertise and others to ensure the sustainability of these repositories.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231220167</guid>
-      <dc:creator>Osman Imoro, Nampombe Saurombe</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>AI fear of missing out (AI FOMO): Desire without action under social pressure</title>
