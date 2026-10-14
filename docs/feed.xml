@@ -5,11 +5,107 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:32:50 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
+      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
+      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
+      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
+      <dc:creator>Munazza Jabeen</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
+      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
+      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
+      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
+      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
+      <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
+      <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
+      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
+      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
+      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
+      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Are faculty members capable of finding the needed information? A study of selected universities of Jammu and Kashmir</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286056</link>
+      <description><![CDATA[<p>We all need information and there is so much of it available in both physical and digital media. However, to find the needed information, capability of searching; knowledge of retrieval tools like catalogue; knowledge of Boolean operators, wildcards and truncations; and knowledge to different sources of information like bibliography, encyclopaedia, journals, etc. are equally important. The current study set out to investigate the faculty members’ searching capabilities in four of Jammu &amp; Kashmir&#x27;s top institutions. The study used questionnaire as a tool to gather data from randomly identified population. After applying appropriate statistical techniques, the study revealed that the faculty members are not able to cross the half mark of correct answering for some basic questions posed to them. Eventually, the study suggests to conduct user awareness programmes since these programmes are significantly associated with the correct responses given by the faculty members in the universities studied.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286056</guid>
+      <dc:creator>Abdul Wahid, K. Vijayakumar, Mohammad Ishaq Lone</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
@@ -63,18 +159,6 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
-      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
-      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
       <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
@@ -99,42 +183,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
-      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
-      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
-      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
-      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279176</link>
-      <description><![CDATA[<p>This study examined the impact of social media-supported small-group communication on the marketing skills of art entrepreneurs. The design that was used in this study was quasi-experimental. A total of 271 art entrepreneurs were sampled for the study and grouped into three social media ( n = 90), face-to-face ( n = 90) and control group ( n = 91). A structured questionnaire was used for the collection of data for the study, while data were analysed using multiple analyses of variance. The study showed that small group communication was effective in improving the marketing skills of art entrepreneurs in the areas of social media marketing, content management, data analysis, mobile advertising, design, video marketing, project management, creativity, interpersonal skills, leadership, time management, problem-solving, critical thinking and communication skills. The study also found that small-group communication on social media can be as effective as face-to-face small-group communication. Improving marketing skills also improves business performance in areas such as sales, return on investment, and net profit. Finally, art entrepreneurs in the social media-supported group had higher scores in satisfaction, convenience and quality of communication than their counterparts in face-to-face communication. This study has shown that social media-supported small-group communication is cost-effective in promoting the acquisition of marketing skills among art entrepreneurs.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
-      <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
       <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
@@ -153,54 +201,6 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
       <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
-      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
-      <dc:creator>Munazza Jabeen</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
-      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
-      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
-      <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
-      <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Are faculty members capable of finding the needed information? A study of selected universities of Jammu and Kashmir</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286056</link>
-      <description><![CDATA[<p>We all need information and there is so much of it available in both physical and digital media. However, to find the needed information, capability of searching; knowledge of retrieval tools like catalogue; knowledge of Boolean operators, wildcards and truncations; and knowledge to different sources of information like bibliography, encyclopaedia, journals, etc. are equally important. The current study set out to investigate the faculty members’ searching capabilities in four of Jammu &amp; Kashmir&#x27;s top institutions. The study used questionnaire as a tool to gather data from randomly identified population. After applying appropriate statistical techniques, the study revealed that the faculty members are not able to cross the half mark of correct answering for some basic questions posed to them. Eventually, the study suggests to conduct user awareness programmes since these programmes are significantly associated with the correct responses given by the faculty members in the universities studied.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286056</guid>
-      <dc:creator>Abdul Wahid, K. Vijayakumar, Mohammad Ishaq Lone</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
