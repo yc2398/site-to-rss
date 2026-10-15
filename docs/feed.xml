@@ -5,11 +5,63 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:48:27 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
+      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
+      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
+      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
+      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
@@ -159,45 +211,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>The curation of beauty ideals through Instagram&#x27;s recommender system: An interdisciplinary approach</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261476310</link>
-      <description><![CDATA[<p>This paper investigates how Instagram&#x27;s recommender system participates in reproducing beauty ideals through an interdisciplinary approach that combines ethnographic methods with supervised machine learning. We conceptualise beauty ideals as socioculturally constructed and intersubjective perceptions and adopt the theoretical framework of ‘curatorial assemblages’ in examining how recommender systems shape feeds. Our novel methodological approach involves training a statistical classifier using an ethnographically informed and manually annotated dataset. The classifier determines whether a post reproduces beauty ideals (RBI) or does not reproduce beauty ideals (NRBI). On this basis, we analyse how the curatorial practices (liking, saving and following) affect the Explore feed composition regarding beauty ideals. Our findings show that Instagram&#x27;s recommender system strongly amplifies beauty ideals when users routinely engage with such content through likes and saves. Conversely, for content not reproducing beauty ideals, we find that the Explore feed is less adaptive, resulting in feeds that feature fewer posts depicting persons. Experiments to counter-curate showed minimal impact on feed composition. We discuss our findings against the theoretical backdrop of curatorial assemblages and elaborate how both collaborative and content-based recommendation may contribute to the reproduction of beauty ideals. We conclude that Instagram&#x27;s recommender system structurally entrenches beauty ideals within the platform&#x27;s global curatorial assemblage. These findings highlight the need for greater algorithmic transparency to enable informed user decisions and critical media literacy regarding automated feed curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261476310</guid>
-      <dc:creator>Ann-Marie Wohlfarth, Christoph Bareither, Tim Gollub</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
       <title>Embedding ethics in infrastructures for data-intensive health research</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261467360</link>
       <description><![CDATA[<p>Data-intensive health research requires robust infrastructure, encompassing the material, social, and institutional structures that facilitate large-scale data storage, sharing, and linkage. Such infrastructures are a central element of the research process, offering opportunities to integrate ethical considerations and promote responsible research practices. We analyze different ways of embedding ethics in infrastructures for data-intensive health research and their consequences for the allocation of responsibilities: guidelines and policies aimed at (i) individual actors like researchers; (ii) social arrangements, including committee review and data stewardship; and (iii) material elements and technological measures such as encryption. We argue that different approaches to embedding ethical considerations influence the behavior and latitude of involved actors, which moral competences are required, and how responsibilities are distributed among actors. Infrastructures play a crucial role in allocating responsibilities for addressing ethical concerns and preventing or mitigating undesirable outcomes, and thus in fostering responsible research practices. However, the benefits of specific ways of embedding ethics in infrastructures must be weighed against potential downsides, such as increased regulatory burdens and bureaucracy, and potential impacts on researchers’ moral competences.</p>]]></description>
@@ -257,19 +270,6 @@
       <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>YSocial: An artificial intelligence powered social media virtual twin</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261431576</link>
-      <description><![CDATA[<p>This paper introduces YSocial, a new-generation virtual twin designed to replicate an online social media platform. Digital and virtual twins are virtual replicas of physical systems that allow for advanced analyses, control, experimentation, and scenario simulations. In the case of social media, a virtual twin such as YSocial provides a powerful tool for researchers to simulate and understand complex online interactions. YSocial leverages state-of-the-art large language models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, YSocial offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, integrating LLMs allows YSocial to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize YSocial, we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it generates, and discuss its relevance for multidisciplinary research.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261431576</guid>
-      <dc:creator>Giulio Rossetti, Massimo Stella, Rémy Cazabet</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
