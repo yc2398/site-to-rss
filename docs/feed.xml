@@ -5,23 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:53:51 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The future of information systems in the enterprise</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
-      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
-      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
@@ -29,6 +17,18 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
       <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
@@ -44,6 +44,66 @@
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
+      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
+      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
+      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
+      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
+      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
+      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
+      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
+      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
+      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
+      <dc:creator>Munazza Jabeen</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
       <category>journal</category>
     </item>
     <item>
@@ -156,54 +216,6 @@
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
-      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
-      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
-      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
-      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
-      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
-      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
-      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
-      <dc:creator>Munazza Jabeen</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
       <category>journal</category>
     </item>
     <item>
@@ -403,18 +415,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
       <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
-      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
-      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
