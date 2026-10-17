@@ -5,11 +5,124 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:27:44 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
+      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
+      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Counting absence,accounting care: Digital thresholds and the classification of absence in schools</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498676</link>
+      <description><![CDATA[<p>Data-driven classifications and categorisations have long-shaped public sector practices in welfare states. Yet in the context of digital platforms and algorithmic systems, it is crucial to examine how socio-technical judgements are not only made through data but also how data themselves are made, structured by platform values and institutional logics. Drawing on ethnographic research in Swedish compulsory schooling, we argue that data in welfare institutions participate in governing through both care and control, a dynamic particularly evident in education where mundane indicators like school attendance are used to classify students as at-risk categories such as ‘persistent absentees’. The article unpacks the social ordering involved in such classifications, highlighting the complexities of what appears to be straightforward, data-driven decisions. Building on Fourcade&#x27;s work on classificatory judgements, we examine how persistent absenteeism is produced as a socio-technical category through which institutions act. We show how care can function as control, and control may be exercised in caring ways, raising questions about whose needs are rendered visible, who is made vulnerable, and who is left out. By examining everyday data practices, we foreground the importance of critically engaging with how categories are made actionable, and how such practices carry consequences for justice, inclusion and the meaning of welfare in datafied educational contexts.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498676</guid>
+      <dc:creator>Svea Kiesewetter, Annika Bergviken Rensfeldt, Thomas Hillman</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
+      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
+      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
+      <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
+      <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
+      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
+      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
+      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
+      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
+      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
+      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Facing Norwegian exceptionalism: Attitudes towards decolonisation initiatives in Norwegian public libraries</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251372633</link>
@@ -47,6 +160,102 @@
       <category domain="source_id">lis</category>
       <category>librarianship</category>
       <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
+      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
+      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The imitation game: Detecting human and AI-generated texts in the era of ChatGPT and BARD</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227531</link>
+      <description><![CDATA[<p>The potential of artificial intelligence (AI)-based large language models (LLMs) holds considerable promise in revolutionising education, research and practice. However, distinguishing between human-written and AI-generated text has become a significant task. This article presents a comparative study, introducing a novel dataset of human-written and LLM-generated texts in different genres: essays, stories, poetry and Python code. We employ several machine learning models to classify the texts. Results demonstrate the efficacy of these models in discerning between human and AI-generated text, despite the dataset’s limited sample size. However, the task becomes more challenging when classifying GPT-generated text, particularly in story writing. The results indicate that the models exhibit superior performance in binary classification tasks, such as distinguishing human-generated text from a specific LLM, compared with the more complex multiclass tasks that involve discerning among human-generated and multiple LLMs. Our findings provide insightful implications for AI text detection, while our dataset paves the way for future research in this evolving area.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227531</guid>
+      <dc:creator>Kadhim Hayawi, Sakib Shahriar, Sujith Samuel Mathew</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
+      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
+      <dc:creator>Mariusz Stanowski</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
+      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
+      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
+      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
+      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
+      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
+      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Closing the divide: Exploring higher education teachers’ perspectives on educational technology</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279181</link>
+      <description><![CDATA[<p>Incorporating technology into education has become a crucial component of contemporary teaching practices. Technological advancements have led to the development of innovative teaching tools and methodologies that promote active learning and engagement among students. This study used a modified version of the Technology Acceptance Model (TAM) to analyze the key factors that impact the integration of technology in the teaching practice of higher education instructors. Among the factors to be included in the modified model are technostress and teaching tradition. These factors have been rarely examined within the mandatory technology integration in higher education settings. Partial Least Squares Structural Equation Modelling (PLS-SEM) is used to analyse the empirical data collected from 657 higher education teachers in Jordan. Findings reveal that teachers’ technological, pedagogical and content knowledge (TPACK) played a crucial role in facilitating the effective integration of technology into teaching practices. This boosted self-efficacy, personal innovativeness and perceptions of ease of use and usefulness. Additionally, teachers’ TPACK negatively influenced their technostress and teaching tradition. Indeed, technostress and teaching tradition were identified as significant obstacles to the effective integration of technology into teaching practices. Significant implications for theory and practice can be derived from the findings of this study to effectively incorporate technology in higher education.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279181</guid>
+      <dc:creator>Ahmad Samed Al-Adwan, Rakesh Kumar Meet, Devkant Kala</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>A comprehensive review of climate information systems in the arid and semi-arid lands (ASALs) of Kenya for enhanced decision-making process</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287498</link>
+      <description><![CDATA[<p>The reality of climate change has had far-reaching effects on climate and weather patterns globally. High carbon emissions have resulted in wildfires causing migration and death from natural disasters such as droughts, floods, and strong winds. Climate change has also led to reduced crop and livestock farming yields, and worsening incidences of hunger and famine. The use of climate information systems (CIS) in the Arid and Semi-Arid regions of Kenya has not been extensively reviewed. This study reviews the use of CIS in Kenya&#x27;s Arid and Semi-Arid Lands (ASALs) to improve decision-making and adapt to climate change. We reviewed past and present research on Kenya&#x27;s ASAL counties’ smallholder farmers’ CIS use. National and international attempts to develop early warning systems through CIS to help stakeholders and end users make farm-level decisions were reviewed. Kenya leads Eastern African countries in emphasizing CIS to reduce climate change&#x27;s effects on sustainable agriculture. In ASAL countries, the gap between CIS information and its applicability for smallholder farmers’ farm-level decisions, low finance, weak infrastructure, and limited capability are major issues. Limited indigenous knowledge integration and the absence of regular updates and end-user co-development were also noted. Despite these obstacles, CIS can improve decision-making, catastrophe risk management, and socioeconomic growth in these places. Tailored CIS solutions are essential to address the specific needs of smallholder farmers in ASAL regions. Improved coordination and leveraging newer technologies are crucial for effective CIS implementation.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287498</guid>
+      <dc:creator>Steve Otieno, Elisha Abade, Christopher Oludhe</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
@@ -114,78 +323,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
-      <description><![CDATA[<p>One of the most salient problems currently confronting Software as a Service (SaaS) realization and scientific research is understanding how to efficiently connect software platforms using SaaS distribution models integrating the business functions. The extant empirical SaaS literature holds research gaps regarding the commercial and technical aspects of SaaS business models. To address these gaps, this article systematically reviews current empirical studies to understand how SaaS integration projects could be more efficiently managed in organizations by integrating technical and business aspects. Among other findings, we discover significant knowledge gaps in the field, mainly regarding the empirical validation of a coherent business strategy regarding the SaaS model and an integrated view of customer-perceived performance concerning SaaS architecture. Based on the analysis and synthesis of the findings, this study provides a framework for SaaS realization, including the principal dimensions to be considered in SaaS provision. Futhermore, a novel conceptual model proposed complements the framework by organizing 14 principal variables affecting SaaS integration on three decision-making levels, i.e., strategic, tactical, and operational. This study theoretically contributes to solidifying the SaaS integration literature by covering the three levels of decision-making and offering actionable insights into business practice and SaaS implementation. Regarding the practical contributions, this research guides managers in managing SaaS projects by emphasizing a holistic approach that incorporates all decision-making levels and perspectives, as well as interconnected technological and business aspects. Lastly, promising future research opportunities have been identified to move SaaS research forward.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287499</guid>
-      <dc:creator>Andrei Time, Diego A. de J. Pacheco, Sorin Cristian Ionescu</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
-      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
-      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Closing the divide: Exploring higher education teachers’ perspectives on educational technology</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279181</link>
-      <description><![CDATA[<p>Incorporating technology into education has become a crucial component of contemporary teaching practices. Technological advancements have led to the development of innovative teaching tools and methodologies that promote active learning and engagement among students. This study used a modified version of the Technology Acceptance Model (TAM) to analyze the key factors that impact the integration of technology in the teaching practice of higher education instructors. Among the factors to be included in the modified model are technostress and teaching tradition. These factors have been rarely examined within the mandatory technology integration in higher education settings. Partial Least Squares Structural Equation Modelling (PLS-SEM) is used to analyse the empirical data collected from 657 higher education teachers in Jordan. Findings reveal that teachers’ technological, pedagogical and content knowledge (TPACK) played a crucial role in facilitating the effective integration of technology into teaching practices. This boosted self-efficacy, personal innovativeness and perceptions of ease of use and usefulness. Additionally, teachers’ TPACK negatively influenced their technostress and teaching tradition. Indeed, technostress and teaching tradition were identified as significant obstacles to the effective integration of technology into teaching practices. Significant implications for theory and practice can be derived from the findings of this study to effectively incorporate technology in higher education.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279181</guid>
-      <dc:creator>Ahmad Samed Al-Adwan, Rakesh Kumar Meet, Devkant Kala</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Developing context-transcendent information systems for the future enterprise: Theory and insights from adaptive digital transformation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261458376</link>
-      <description><![CDATA[<p>Enterprise information systems (IS) research has long emphasized the value of deep alignment between IS and the business contexts they serve. Yet this premise becomes increasingly problematic as enterprises operate across heterogeneous contexts whose structures, demands, and operating logics differ not only in degree but in kind. Under such conditions, deeper embedding in one context may weaken transferability, reconfigurability, and coherence across others. To address this tension and theorize the future of IS in the enterprise, we develop a process model of adaptive digital transformation (DT) and, from the insights it generates, introduce context-transcendent IS as a new paradigm for enterprise IS under conditions of contextual heterogeneity. Empirically, the paper draws on an in-depth case study of Geely, a multinational automotive enterprise confronting growing heterogeneity across brands, markets, and operations. We show how Geely responded through three recursively linked IT governance practices enacted across three stages of adaptive DT: synchronizing in value anchoring, recombining in capability orchestration, and diversifying in asset platformization. Together, these practices enabled the emergence of context-transcending IS and, ultimately, a more durable context-transcendent IS form. The study makes two contributions. First, it problematizes the conventional embedding premise in enterprise IS research by identifying contextual heterogeneity as a distinct source of enterprise-level tension. Second, it develops context-transcendent IS as a theoretically distinct and increasingly necessary form of enterprise IS for the future enterprise under sustained conditions of contextual heterogeneity in the operating landscapes.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
-      <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The future of information systems in the enterprise</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
-      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
-      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
-      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
-      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
       <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
@@ -195,30 +332,6 @@
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
-      <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
-      <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
-      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
-      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
       <category>journal</category>
     </item>
     <item>
@@ -246,30 +359,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
-      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
-      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>A comprehensive review of climate information systems in the arid and semi-arid lands (ASALs) of Kenya for enhanced decision-making process</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287498</link>
-      <description><![CDATA[<p>The reality of climate change has had far-reaching effects on climate and weather patterns globally. High carbon emissions have resulted in wildfires causing migration and death from natural disasters such as droughts, floods, and strong winds. Climate change has also led to reduced crop and livestock farming yields, and worsening incidences of hunger and famine. The use of climate information systems (CIS) in the Arid and Semi-Arid regions of Kenya has not been extensively reviewed. This study reviews the use of CIS in Kenya&#x27;s Arid and Semi-Arid Lands (ASALs) to improve decision-making and adapt to climate change. We reviewed past and present research on Kenya&#x27;s ASAL counties’ smallholder farmers’ CIS use. National and international attempts to develop early warning systems through CIS to help stakeholders and end users make farm-level decisions were reviewed. Kenya leads Eastern African countries in emphasizing CIS to reduce climate change&#x27;s effects on sustainable agriculture. In ASAL countries, the gap between CIS information and its applicability for smallholder farmers’ farm-level decisions, low finance, weak infrastructure, and limited capability are major issues. Limited indigenous knowledge integration and the absence of regular updates and end-user co-development were also noted. Despite these obstacles, CIS can improve decision-making, catastrophe risk management, and socioeconomic growth in these places. Tailored CIS solutions are essential to address the specific needs of smallholder farmers in ASAL regions. Improved coordination and leveraging newer technologies are crucial for effective CIS implementation.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287498</guid>
-      <dc:creator>Steve Otieno, Elisha Abade, Christopher Oludhe</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>The role of institutional policies in the sustainability of institutional repositories in Africa: A reflection from Ghana</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515231220167</link>
       <description><![CDATA[<p>Institutional repositories (IRs) are increasingly gaining prominence among African academic institutions, and Ghana is no exception. This can largely be attributed to the enduring value of hosting research outputs from institutional and individual depositors. Despite its increasing adoption, there is a growing concern about the sustainability of open access IRs, particularly in Africa. However, most of these factors that threaten the sustainability of IRs on the continent can be mitigated by enacting comprehensive institutional policies. Thus, this study sought to examine the role of institutional policies in the sustainability of IRs in Ghana. A total of 830 respondents comprised of IR managers, library staff, postgraduate students, lecturers and university librarians (management) from five public universities in Ghana took part in this study. Questionnaires, semi-structured interviews and document analysis were the main instruments used for data collection. The study yielded an overall response rate of 92.8%. The study findings revealed that public universities in Ghana have institutional IR policies that guide the operation, usage and management of their IRs. However, these policies were persuasive in nature and mainly focused on content submission and generation issues. The study underscored the IR policy’s importance in addressing content generation, awareness, advocacy and copyright restriction challenges. The study recommends the necessity of IR policies to focus on other factors such as technical requirements, expertise and others to ensure the sustainability of these repositories.</p>]]></description>
@@ -280,45 +369,6 @@
       <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
-      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
-      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Counting absence,accounting care: Digital thresholds and the classification of absence in schools</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498676</link>
-      <description><![CDATA[<p>Data-driven classifications and categorisations have long-shaped public sector practices in welfare states. Yet in the context of digital platforms and algorithmic systems, it is crucial to examine how socio-technical judgements are not only made through data but also how data themselves are made, structured by platform values and institutional logics. Drawing on ethnographic research in Swedish compulsory schooling, we argue that data in welfare institutions participate in governing through both care and control, a dynamic particularly evident in education where mundane indicators like school attendance are used to classify students as at-risk categories such as ‘persistent absentees’. The article unpacks the social ordering involved in such classifications, highlighting the complexities of what appears to be straightforward, data-driven decisions. Building on Fourcade&#x27;s work on classificatory judgements, we examine how persistent absenteeism is produced as a socio-technical category through which institutions act. We show how care can function as control, and control may be exercised in caring ways, raising questions about whose needs are rendered visible, who is made vulnerable, and who is left out. By examining everyday data practices, we foreground the importance of critically engaging with how categories are made actionable, and how such practices carry consequences for justice, inclusion and the meaning of welfare in datafied educational contexts.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498676</guid>
-      <dc:creator>Svea Kiesewetter, Annika Bergviken Rensfeldt, Thomas Hillman</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Economizing attention: Markets and barter in video advertising platforms</title>
@@ -407,18 +457,6 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
-    </item>
-    <item>
-      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
-      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
-      <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
     </item>
     <item>
       <title>Understanding the factors influencing health information avoidance: A perspective from the risk information seeking and processing (RISP) model</title>
@@ -581,32 +619,6 @@
       <category domain="source">Education for Information</category>
       <category domain="source_id">efi</category>
       <category>education</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261473358</link>
-      <description><![CDATA[<p>This article examines an emergent research program aimed at the complete automation of science, analyzing how various automation projects funded by DARPA and others are working to replicate traditionally human scientific competencies. Rather than directly attempting to create fully autonomous robot scientists, these projects break down complex scientific work into discrete, automatable “tasks.” While individual projects often preserve some role for human scientists, collectively they reveal a comprehensive blueprint for scientific automation. Through interviews with 26 DARPA contractors, program managers, and others involved in scientific automation, the authors demonstrate how automation efforts target three key domains of human scientific expertise: insight (hypothesis generation and pattern recognition), embodied knowledge (experimental procedures and techniques), and judgment (evaluation of scientific claims). Instead of simply trying to replicate human capabilities, these initiatives are actively reshaping scientific practice to be more amenable to machine intervention through initiatives like standardized ontologies and machine-readable data formats. Although full automation faces significant technical and institutional challenges, this emergent program portends major changes in scientific practice and careers while raising important questions about the future role of human knowledge in scientific discovery. The article contributes to ongoing debates about artificial intelligence in science while challenging existing sociological accounts about purportedly uniquely human scientific abilities.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261473358</guid>
-      <dc:creator>David Peterson, Bernard Koch, Ramya Natarajan</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
-      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
-      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
       <category>information-science</category>
       <category>journal</category>
     </item>

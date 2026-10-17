@@ -5,23 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:27:44 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/idv.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
-      <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
-      <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Integrating technical and business aspects in Software as a Service: Systematic literature review,trends,and research directions</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241287499</link>
@@ -65,6 +53,18 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287498</guid>
       <dc:creator>Steve Otieno, Elisha Abade, Christopher Oludhe</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Determinants of business intelligence systems adoption in Nigerian banks: The role of perceived usefulness and ease of use</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241307024</link>
+      <description><![CDATA[<p>Purpose This research explores factors influencing the adoption and sustainability of Business Intelligence Systems (BIS) in commercial banks. It aims to understand how organizational readiness, compatibility, complexity, top management support, and competitive pressure influence perceived ease of use, usefulness, and behavioral intention to adopt BIS. Design/methodology/approach The study utilizes a mixed-method approach. Study 1 employs Partial Least Squares Structural Equation Modeling (PLS-SEM) for quantitative analysis to examine the relationships between factors and adoption outcomes. Study 2 complements this with qualitative interviews to provide deeper insights and interpretations of the quantitative findings. Findings Most hypotheses regarding the factors influencing BIS adoption were supported, highlighting their significance. However, three hypotheses were found to be statistically insignificant, prompting further investigation in Study 2 to elucidate the reasons behind these findings. Originality/value This study contributes a holistic perspective on BIS adoption in commercial banks, considering organizational, technological, and environmental dimensions. It addresses a gap in the literature by offering comprehensive insights that contrast with previous research focused narrowly on specific user groups. The findings enhance understanding of technology-organization-environment dynamics and provide valuable insights for fostering long-term sustainability in BIS adoption strategies.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241307024</guid>
+      <dc:creator>Labaran Isiaku, Ahmet Adalier</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
