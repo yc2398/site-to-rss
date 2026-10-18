@@ -5,11 +5,63 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:46:13 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
+      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
+      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Counting absence,accounting care: Digital thresholds and the classification of absence in schools</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498676</link>
+      <description><![CDATA[<p>Data-driven classifications and categorisations have long-shaped public sector practices in welfare states. Yet in the context of digital platforms and algorithmic systems, it is crucial to examine how socio-technical judgements are not only made through data but also how data themselves are made, structured by platform values and institutional logics. Drawing on ethnographic research in Swedish compulsory schooling, we argue that data in welfare institutions participate in governing through both care and control, a dynamic particularly evident in education where mundane indicators like school attendance are used to classify students as at-risk categories such as ‘persistent absentees’. The article unpacks the social ordering involved in such classifications, highlighting the complexities of what appears to be straightforward, data-driven decisions. Building on Fourcade&#x27;s work on classificatory judgements, we examine how persistent absenteeism is produced as a socio-technical category through which institutions act. We show how care can function as control, and control may be exercised in caring ways, raising questions about whose needs are rendered visible, who is made vulnerable, and who is left out. By examining everyday data practices, we foreground the importance of critically engaging with how categories are made actionable, and how such practices carry consequences for justice, inclusion and the meaning of welfare in datafied educational contexts.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498676</guid>
+      <dc:creator>Svea Kiesewetter, Annika Bergviken Rensfeldt, Thomas Hillman</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Economizing attention: Markets and barter in video advertising platforms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
+      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
+      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
@@ -41,6 +93,18 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
       <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
+      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
+      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
@@ -207,18 +271,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
-      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
-      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>What financial topics do people search for? An analysis of search queries using text mining</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
       <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
@@ -229,45 +281,6 @@
       <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
-      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
-      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Counting absence,accounting care: Digital thresholds and the classification of absence in schools</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498676</link>
-      <description><![CDATA[<p>Data-driven classifications and categorisations have long-shaped public sector practices in welfare states. Yet in the context of digital platforms and algorithmic systems, it is crucial to examine how socio-technical judgements are not only made through data but also how data themselves are made, structured by platform values and institutional logics. Drawing on ethnographic research in Swedish compulsory schooling, we argue that data in welfare institutions participate in governing through both care and control, a dynamic particularly evident in education where mundane indicators like school attendance are used to classify students as at-risk categories such as ‘persistent absentees’. The article unpacks the social ordering involved in such classifications, highlighting the complexities of what appears to be straightforward, data-driven decisions. Building on Fourcade&#x27;s work on classificatory judgements, we examine how persistent absenteeism is produced as a socio-technical category through which institutions act. We show how care can function as control, and control may be exercised in caring ways, raising questions about whose needs are rendered visible, who is made vulnerable, and who is left out. By examining everyday data practices, we foreground the importance of critically engaging with how categories are made actionable, and how such practices carry consequences for justice, inclusion and the meaning of welfare in datafied educational contexts.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498676</guid>
-      <dc:creator>Svea Kiesewetter, Annika Bergviken Rensfeldt, Thomas Hillman</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Remaking the landscape of scientific expertise: The emergent research program of total automation in science</title>
@@ -369,19 +382,6 @@
       <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Economizing attention: Markets and barter in video advertising platforms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261457419</link>
-      <description><![CDATA[<p>Digital video advertising has become the world&#x27;s largest platform-economized form of visibility, yet it remains strikingly opaque to viewers and underexamined by social scientists. This paper examines how digital video advertising economies are produced and maintained across platforms such as TikTok, YouTube, Meta, and Netflix. Drawing on a multi-method study, it analyzes how impressions are assembled, stabilized, and monetized within the computational supply chains of digital video. The paper argues that video ad platforms are not mere multi-sided markets but stacked economization processes. At their base lies barter, through which viewers exchange attention, behavioral data, and cognitive labor for access and entertainment. To specify the objects exchanged in these asymmetric relations, the paper introduces the concept of the dyad: paired goods that supply the raw materials of digital video advertising markets. Building on this foundation, marketization processes transform fleeting attention into measurable, comparable, and tradable impressions through technical rules, visibility thresholds, and device-level constraints. The paper concludes that digital video advertising is best understood as a set of stacked-economization platforms organizing contemporary visibility, with significant regulatory and environmental consequences.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261457419</guid>
-      <dc:creator>Koray Caliskan, Donald MacKenzie</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Using social media small-group communication to promote the marketing skills of art entrepreneurs</title>
