@@ -5,23 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:46:44 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/jis.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
-      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
-      <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
@@ -29,6 +17,30 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
       <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
+      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
+      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
+      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
+      <dc:creator>Mariusz Stanowski</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
@@ -53,18 +65,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231220167</guid>
       <dc:creator>Osman Imoro, Nampombe Saurombe</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
-      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
-      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
