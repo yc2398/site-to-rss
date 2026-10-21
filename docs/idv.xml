@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:03:15 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -41,6 +41,18 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287498</guid>
       <dc:creator>Steve Otieno, Elisha Abade, Christopher Oludhe</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Design thinking and rare book repository development</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241293080</link>
+      <description><![CDATA[<p>Electronic rare book repository development provides users with convenient and practical accessibility, and may lead to future frontier research. This study aims to design and develop a rare book repository using the concept of Design Thinking and to assess the rare book repository system of the national library in Thailand. Ratchamangkhalaphisek National Library Chiang Mai was chosen as the case study here because of the uniqueness of its rare book characteristics - palm leaf manuscripts - and because of its lack of an online portal for rare books. The Design Thinking concept of Stanford d.school was applied in this research and development study (R and D research) in order to develop a more effective rare book repository. Interview forms and evaluation were used as the research tools to collect data. The results show that the overall satisfaction level of the users was at a high level in terms of content and at a very high level in terms of system. That is because the menu is well-designed, easy to use, and can be easily viewed. Moreover, the information searching system is accurate according to user needs. The concept of Design Thinking, in the way that it focuses on human-centered design, creates a system that answers the users’ requirements, as well as generates new perspectives. Also, the Design Thinking concept might be applied to other processes in the system development cycle since it could enhance the efficiency of a rare book repository system and be appropriate to the needs of users.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241293080</guid>
+      <dc:creator>Piyapat Jarusawat</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
@@ -113,18 +125,6 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
       <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Design thinking and rare book repository development</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241293080</link>
-      <description><![CDATA[<p>Electronic rare book repository development provides users with convenient and practical accessibility, and may lead to future frontier research. This study aims to design and develop a rare book repository using the concept of Design Thinking and to assess the rare book repository system of the national library in Thailand. Ratchamangkhalaphisek National Library Chiang Mai was chosen as the case study here because of the uniqueness of its rare book characteristics - palm leaf manuscripts - and because of its lack of an online portal for rare books. The Design Thinking concept of Stanford d.school was applied in this research and development study (R and D research) in order to develop a more effective rare book repository. Interview forms and evaluation were used as the research tools to collect data. The results show that the overall satisfaction level of the users was at a high level in terms of content and at a very high level in terms of system. That is because the menu is well-designed, easy to use, and can be easily viewed. Moreover, the information searching system is accurate according to user needs. The concept of Design Thinking, in the way that it focuses on human-centered design, creates a system that answers the users’ requirements, as well as generates new perspectives. Also, the Design Thinking concept might be applied to other processes in the system development cycle since it could enhance the efficiency of a rare book repository system and be appropriate to the needs of users.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241293080</guid>
-      <dc:creator>Piyapat Jarusawat</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
