@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:36:48 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -17,18 +17,6 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279176</guid>
       <dc:creator>Chukwuemeka Vincent Okpara, Siti Sarah Maidin, Nabaz Nawzad Abdullah</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
-      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
-      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
@@ -59,24 +47,36 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Design thinking and rare book repository development</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241293080</link>
-      <description><![CDATA[<p>Electronic rare book repository development provides users with convenient and practical accessibility, and may lead to future frontier research. This study aims to design and develop a rare book repository using the concept of Design Thinking and to assess the rare book repository system of the national library in Thailand. Ratchamangkhalaphisek National Library Chiang Mai was chosen as the case study here because of the uniqueness of its rare book characteristics - palm leaf manuscripts - and because of its lack of an online portal for rare books. The Design Thinking concept of Stanford d.school was applied in this research and development study (R and D research) in order to develop a more effective rare book repository. Interview forms and evaluation were used as the research tools to collect data. The results show that the overall satisfaction level of the users was at a high level in terms of content and at a very high level in terms of system. That is because the menu is well-designed, easy to use, and can be easily viewed. Moreover, the information searching system is accurate according to user needs. The concept of Design Thinking, in the way that it focuses on human-centered design, creates a system that answers the users’ requirements, as well as generates new perspectives. Also, the Design Thinking concept might be applied to other processes in the system development cycle since it could enhance the efficiency of a rare book repository system and be appropriate to the needs of users.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241293080</guid>
-      <dc:creator>Piyapat Jarusawat</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
       <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
       <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
+      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
+      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Design thinking and rare book repository development</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241293080</link>
+      <description><![CDATA[<p>Electronic rare book repository development provides users with convenient and practical accessibility, and may lead to future frontier research. This study aims to design and develop a rare book repository using the concept of Design Thinking and to assess the rare book repository system of the national library in Thailand. Ratchamangkhalaphisek National Library Chiang Mai was chosen as the case study here because of the uniqueness of its rare book characteristics - palm leaf manuscripts - and because of its lack of an online portal for rare books. The Design Thinking concept of Stanford d.school was applied in this research and development study (R and D research) in order to develop a more effective rare book repository. Interview forms and evaluation were used as the research tools to collect data. The results show that the overall satisfaction level of the users was at a high level in terms of content and at a very high level in terms of system. That is because the menu is well-designed, easy to use, and can be easily viewed. Moreover, the information searching system is accurate according to user needs. The concept of Design Thinking, in the way that it focuses on human-centered design, creates a system that answers the users’ requirements, as well as generates new perspectives. Also, the Design Thinking concept might be applied to other processes in the system development cycle since it could enhance the efficiency of a rare book repository system and be appropriate to the needs of users.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241293080</guid>
+      <dc:creator>Piyapat Jarusawat</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
