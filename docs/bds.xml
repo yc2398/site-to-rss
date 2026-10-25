@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:59:00 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -43,6 +43,19 @@
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498676</guid>
       <dc:creator>Svea Kiesewetter, Annika Bergviken Rensfeldt, Thomas Hillman</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>A question of style? Regulating artificial intelligence in the European Union and the USA</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261461461</link>
+      <description><![CDATA[<p>The regulation of artificial intelligence (AI) is a prominent issue in both the European Union (EU) and the United States of America, but with distinct approaches to the governance of this rapidly evolving field. The EU has developed a comprehensive regulatory framework, notably through its 2024 AI Act. Meanwhile, the United States has gradually developed a piecemeal and voluntary federal approach, often driven by principles of self-regulation and sector-specific non-binding guidelines. But, state-by-state, the United States has shown intense regulatory activity of a binding nature. We approach this variation by mobilizing the concepts of policy style and regulatory style. We find that the EU seeks to anticipate the evolution of AI risks and impose a comprehensive architecture of rules in ways that make adaptive regulation hard to develop. However, there are issues with the enforceability of the AI Act and its capacity to protect human rights and public values. The United States intervenes legislatively when specific risks are clearly present, or sector-by-sector. Overall, this approach is more stringent in practice, as it is more enforceable than the EU AI Act, also in relation to the public interest. The state-by-state and sector-by-sector evolution of rules provides more space for learning from experience, imitation, and diffusion, in line with the features of laboratory federalism. By contrast, the EU space for learning in adaptive ways is more limited.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261461461</guid>
+      <dc:creator>Alison Harcourt, Claudio M Radaelli, Philipp Trein</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
