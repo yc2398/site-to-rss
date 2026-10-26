@@ -5,11 +5,24 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:26:20 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
+      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
+      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
@@ -48,6 +61,54 @@
       <category>big-data</category>
       <category>society</category>
       <category>open-access</category>
+    </item>
+    <item>
+      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
+      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
+      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
+      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
+      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>A comprehensive review of climate information systems in the arid and semi-arid lands (ASALs) of Kenya for enhanced decision-making process</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287498</link>
+      <description><![CDATA[<p>The reality of climate change has had far-reaching effects on climate and weather patterns globally. High carbon emissions have resulted in wildfires causing migration and death from natural disasters such as droughts, floods, and strong winds. Climate change has also led to reduced crop and livestock farming yields, and worsening incidences of hunger and famine. The use of climate information systems (CIS) in the Arid and Semi-Arid regions of Kenya has not been extensively reviewed. This study reviews the use of CIS in Kenya&#x27;s Arid and Semi-Arid Lands (ASALs) to improve decision-making and adapt to climate change. We reviewed past and present research on Kenya&#x27;s ASAL counties’ smallholder farmers’ CIS use. National and international attempts to develop early warning systems through CIS to help stakeholders and end users make farm-level decisions were reviewed. Kenya leads Eastern African countries in emphasizing CIS to reduce climate change&#x27;s effects on sustainable agriculture. In ASAL countries, the gap between CIS information and its applicability for smallholder farmers’ farm-level decisions, low finance, weak infrastructure, and limited capability are major issues. Limited indigenous knowledge integration and the absence of regular updates and end-user co-development were also noted. Despite these obstacles, CIS can improve decision-making, catastrophe risk management, and socioeconomic growth in these places. Tailored CIS solutions are essential to address the specific needs of smallholder farmers in ASAL regions. Improved coordination and leveraging newer technologies are crucial for effective CIS implementation.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287498</guid>
+      <dc:creator>Steve Otieno, Elisha Abade, Christopher Oludhe</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Are faculty members capable of finding the needed information? A study of selected universities of Jammu and Kashmir</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286056</link>
+      <description><![CDATA[<p>We all need information and there is so much of it available in both physical and digital media. However, to find the needed information, capability of searching; knowledge of retrieval tools like catalogue; knowledge of Boolean operators, wildcards and truncations; and knowledge to different sources of information like bibliography, encyclopaedia, journals, etc. are equally important. The current study set out to investigate the faculty members’ searching capabilities in four of Jammu &amp; Kashmir&#x27;s top institutions. The study used questionnaire as a tool to gather data from randomly identified population. After applying appropriate statistical techniques, the study revealed that the faculty members are not able to cross the half mark of correct answering for some basic questions posed to them. Eventually, the study suggests to conduct user awareness programmes since these programmes are significantly associated with the correct responses given by the faculty members in the universities studied.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286056</guid>
+      <dc:creator>Abdul Wahid, K. Vijayakumar, Mohammad Ishaq Lone</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
     </item>
     <item>
       <title>Economizing attention: Markets and barter in video advertising platforms</title>
@@ -129,18 +190,6 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
       <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>A comprehensive review of climate information systems in the arid and semi-arid lands (ASALs) of Kenya for enhanced decision-making process</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241287498</link>
-      <description><![CDATA[<p>The reality of climate change has had far-reaching effects on climate and weather patterns globally. High carbon emissions have resulted in wildfires causing migration and death from natural disasters such as droughts, floods, and strong winds. Climate change has also led to reduced crop and livestock farming yields, and worsening incidences of hunger and famine. The use of climate information systems (CIS) in the Arid and Semi-Arid regions of Kenya has not been extensively reviewed. This study reviews the use of CIS in Kenya&#x27;s Arid and Semi-Arid Lands (ASALs) to improve decision-making and adapt to climate change. We reviewed past and present research on Kenya&#x27;s ASAL counties’ smallholder farmers’ CIS use. National and international attempts to develop early warning systems through CIS to help stakeholders and end users make farm-level decisions were reviewed. Kenya leads Eastern African countries in emphasizing CIS to reduce climate change&#x27;s effects on sustainable agriculture. In ASAL countries, the gap between CIS information and its applicability for smallholder farmers’ farm-level decisions, low finance, weak infrastructure, and limited capability are major issues. Limited indigenous knowledge integration and the absence of regular updates and end-user co-development were also noted. Despite these obstacles, CIS can improve decision-making, catastrophe risk management, and socioeconomic growth in these places. Tailored CIS solutions are essential to address the specific needs of smallholder farmers in ASAL regions. Improved coordination and leveraging newer technologies are crucial for effective CIS implementation.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241287498</guid>
-      <dc:creator>Steve Otieno, Elisha Abade, Christopher Oludhe</dc:creator>
       <category domain="source">Information Development</category>
       <category domain="source_id">idv</category>
       <category>information-development</category>
@@ -229,42 +278,6 @@
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
-      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
-      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
-      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
-      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Are faculty members capable of finding the needed information? A study of selected universities of Jammu and Kashmir</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286056</link>
-      <description><![CDATA[<p>We all need information and there is so much of it available in both physical and digital media. However, to find the needed information, capability of searching; knowledge of retrieval tools like catalogue; knowledge of Boolean operators, wildcards and truncations; and knowledge to different sources of information like bibliography, encyclopaedia, journals, etc. are equally important. The current study set out to investigate the faculty members’ searching capabilities in four of Jammu &amp; Kashmir&#x27;s top institutions. The study used questionnaire as a tool to gather data from randomly identified population. After applying appropriate statistical techniques, the study revealed that the faculty members are not able to cross the half mark of correct answering for some basic questions posed to them. Eventually, the study suggests to conduct user awareness programmes since these programmes are significantly associated with the correct responses given by the faculty members in the universities studied.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286056</guid>
-      <dc:creator>Abdul Wahid, K. Vijayakumar, Mohammad Ishaq Lone</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
