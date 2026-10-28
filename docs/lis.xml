@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:37:28 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -17,6 +17,19 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
       <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on exploratory search behavior and learning outcomes from a metacognitive perspective</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410241</link>
+      <description><![CDATA[<p>This study investigates exploratory search behaviors and learning outcomes from a metacognitive perspective, aiming to reveal the role of different metacognitive dimensions within the “search as learning” framework. A user experiment was conducted with 36 participants completing three types of exploratory search tasks. Data were collected through scales, screen recording analysis, and concept mapping, and analyzed using Spearman’s rank correlation analysis and multiple regression analysis. The results indicate that the influence of metacognitive abilities on exploratory search behaviors and learning outcomes varies significantly across task types: Decision-Evaluation tasks rely more on monitoring and evaluation, Planning-Oriented tasks highlight planning and regulation, while Knowledge-Acquisition tasks emphasize monitoring and evaluation in the processes of information accumulation and integration. Further regression analyses show that the explanatory power of metacognitive dimensions on learning outcomes differs by task type. These findings enrich the understanding of metacognition within the context of exploratory search as learning and provide practical implications for the design of more effective exploratory search systems.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410241</guid>
+      <dc:creator>Jincheng Guo, Long Han, Yuhong Cui</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
