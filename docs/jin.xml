@@ -5,11 +5,35 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:19:37 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/jin.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
+      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
+      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
+      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
+      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>The future of information systems in the enterprise</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
@@ -41,30 +65,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
       <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>A mechanism-based theory of legacy enterprise information system reconfiguration in incumbent firms</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261461296</link>
-      <description><![CDATA[<p>How can incumbent firms reconfigure their legacy Enterprise Information Systems (EIS) for enterprise renewal? We address this question by developing an empirically grounded, mechanism-based theory of legacy EIS reconfiguration in incumbent firms that reconciles two opposing perspectives in IS research: legacy EIS as sources of technical debt that constrain agility, and legacy EIS as installed bases that can be leveraged for digital reinvention. Specifically, we draw on findings from a multiple-case study of five German incumbent manufacturing firms to identify four generative mechanisms through which incumbent firms leverage operational stability of their legacy EIS for digital pilots, activate historically accumulated data through analytics, augment legacy EIS with middleware interfaces, and retrofit legacy EIS for recurring revenue models. When enacted, these mechanisms reconfigure legacy EIS into ambidextrous EIS landscapes that preserve operational stability through contained and selectively reduced technical debt, while expanding potential options for future digital initiatives. We conclude by outlining actionable guidance for practitioners and a research agenda on how legacy EIS reconfiguration, rather than replacement, can serve as a foundation for enterprise renewal.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261461296</guid>
-      <dc:creator>Daniel Heinz, Christoph F. Breidbach</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
-      <description><![CDATA[<p>Enterprise platforms have historically relied on a logic of determinacy to ensure predictable, reproducible, and auditable system behavior through mutually reinforcing architecture and governance mechanisms. However, generative AI (GenAI) introduces a conflicting logic of probabilistic inference that destabilizes these mechanisms by generating variable, context-dependent, and non-deterministic outputs. As platform owners increasingly integrate GenAI into enterprise platforms, this study draws on assemblage theory and an in-depth case study of Salesforce to examine how enterprise platform owners reconfigure architecture and governance to manage the coexistence of deterministic and probabilistic logics. We develop a process model of logic hybridization that explains how platform owners restore system-level stability while accommodating and regulating probabilistic components. Specifically, we identify four complementary mediation mechanisms, that is, dependency mediation, service mediation, interaction-centric control, and dynamic certification and monitoring, through which platform owners reconfigure architectural and governance arrangements. We further theorize that logic hybridization gives rise to a hybrid platform logic characterized by three emergent properties: boundary fluidity, trust mediation, and expanded generativity. This study contributes to research on enterprise platforms and enterprise system evolution by identifying incompatible system behavior as a new source of platform destabilization, extending theories of platform evolution beyond structural change, and theorizing how deterministic and probabilistic logics coexist under mediated conditions in enterprise platforms.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261467413</guid>
-      <dc:creator>Dorsa Safaei, Andreas Hein, Kazem Haki</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
