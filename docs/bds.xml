@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:30:21 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -24,12 +24,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
-      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
+      <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
+      <description><![CDATA[<p>In The Dualism of Human Nature and Its Social Conditions , Durkheim differentiates the body and the soul as two substantially different and conflictual parts of the human being. Durkheim argues that the two opposite sides together produce the individual being who needs both body and soul, and their cooperation. Society has a similar existence produced by the antagonism of its body and its soul. Following Durkheim, I understand surveillance as the administration of this complicated duality of society. Surveillance society is a society where its soul is settled at a different level through re-embodiment. Datafied society is a higher form of this re-embodiment and tends to resolve the Durkheimian duality. Through this resolution, it threatens the very existence of society. This paper examines this tendency in datafication processes. The brief analysis also demonstrates the possible ways human flourishing may operate owing to the ambivalence of datafication. I argue that ambivalence is the very condition of (human) flourishing.</p>]]></description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
-      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261453586</guid>
+      <dc:creator>Çağatay Topal</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -43,6 +43,19 @@
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
       <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
+      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
+      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>

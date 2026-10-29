@@ -5,11 +5,63 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:30:21 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
+      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
+      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
+      <description><![CDATA[<p>In The Dualism of Human Nature and Its Social Conditions , Durkheim differentiates the body and the soul as two substantially different and conflictual parts of the human being. Durkheim argues that the two opposite sides together produce the individual being who needs both body and soul, and their cooperation. Society has a similar existence produced by the antagonism of its body and its soul. Following Durkheim, I understand surveillance as the administration of this complicated duality of society. Surveillance society is a society where its soul is settled at a different level through re-embodiment. Datafied society is a higher form of this re-embodiment and tends to resolve the Durkheimian duality. Through this resolution, it threatens the very existence of society. This paper examines this tendency in datafication processes. The brief analysis also demonstrates the possible ways human flourishing may operate owing to the ambivalence of datafication. I argue that ambivalence is the very condition of (human) flourishing.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261453586</guid>
+      <dc:creator>Çağatay Topal</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
+      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
+      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
@@ -35,12 +87,12 @@
       <category>journal</category>
     </item>
     <item>
-      <title>The future of information systems in the enterprise</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
-      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
+      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
-      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
+      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
@@ -53,6 +105,66 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261458376</guid>
       <dc:creator>Dongdi Chen, Belinda Wang, Evelyn Ng</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
+      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
+      <dc:creator>Mariusz Stanowski</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
+      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
+      <dc:creator>Munazza Jabeen</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The imitation game: Detecting human and AI-generated texts in the era of ChatGPT and BARD</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227531</link>
+      <description><![CDATA[<p>The potential of artificial intelligence (AI)-based large language models (LLMs) holds considerable promise in revolutionising education, research and practice. However, distinguishing between human-written and AI-generated text has become a significant task. This article presents a comparative study, introducing a novel dataset of human-written and LLM-generated texts in different genres: essays, stories, poetry and Python code. We employ several machine learning models to classify the texts. Results demonstrate the efficacy of these models in discerning between human and AI-generated text, despite the dataset’s limited sample size. However, the task becomes more challenging when classifying GPT-generated text, particularly in story writing. The results indicate that the models exhibit superior performance in binary classification tasks, such as distinguishing human-generated text from a specific LLM, compared with the more complex multiclass tasks that involve discerning among human-generated and multiple LLMs. Our findings provide insightful implications for AI text detection, while our dataset paves the way for future research in this evolving area.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227531</guid>
+      <dc:creator>Kadhim Hayawi, Sakib Shahriar, Sujith Samuel Mathew</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
+      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
+      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
@@ -111,18 +223,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Lost in decentralization? Governing emerging technologies within enterprise architecture</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261465434</link>
-      <description><![CDATA[<p>Enterprise systems governance is undergoing a shift toward decentralization and federation, as platforms and tools increasingly empower business users to create and deploy applications outside professional IT. Low-Code Development Platforms (LCDPs) represent a prominent instance of this trend, enabling rapid application development while simultaneously introducing challenges for Enterprise Architecture Management (EAM). Through a multiple-case analysis of organizations from financial services, healthcare, and manufacturing, we identify three governance challenges organized around what is governed (architectural drift), who is governed (role ambiguity and shifting accountability), and how governance is enacted (tension between formal and informal control), and show that that organizations address these challenges through deliberately composed governance portfolios pairing formal instruments with informal enabling practices. Reasoning abductively across cases, we identify five mechanisms through which these portfolios produce durable EA outcomes: information symmetry, perceived legitimacy, developer capability, enacted decision-right alignment, and secure-by default conditions. Theoretically, we contribute by distinguishing the locus of control (centralized vs decentralized) from the mode of control (formal vs informal), and by offering a mechanism-based explanation of how governance portfolios produce EA outcomes under decentralized development conditions, moving beyond generic prescriptions for “balance” toward a concrete account of why specific governance compositions work. Practically, our analysis underscores the need to continuously recalibrate governance as decentralized technologies proliferate, requiring increasingly adaptive EAM strategies to balance innovation, flexibility, and architectural coherence.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261465434</guid>
-      <dc:creator>Edona Elshan, Bart van den Hooff</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
       <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
@@ -162,48 +262,12 @@
       <category>journal</category>
     </item>
     <item>
-      <title>The imitation game: Detecting human and AI-generated texts in the era of ChatGPT and BARD</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227531</link>
-      <description><![CDATA[<p>The potential of artificial intelligence (AI)-based large language models (LLMs) holds considerable promise in revolutionising education, research and practice. However, distinguishing between human-written and AI-generated text has become a significant task. This article presents a comparative study, introducing a novel dataset of human-written and LLM-generated texts in different genres: essays, stories, poetry and Python code. We employ several machine learning models to classify the texts. Results demonstrate the efficacy of these models in discerning between human and AI-generated text, despite the dataset’s limited sample size. However, the task becomes more challenging when classifying GPT-generated text, particularly in story writing. The results indicate that the models exhibit superior performance in binary classification tasks, such as distinguishing human-generated text from a specific LLM, compared with the more complex multiclass tasks that involve discerning among human-generated and multiple LLMs. Our findings provide insightful implications for AI text detection, while our dataset paves the way for future research in this evolving area.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227531</guid>
-      <dc:creator>Kadhim Hayawi, Sakib Shahriar, Sujith Samuel Mathew</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Identifying key factors and actions: Initial steps in the Open Science Policy Design and Implementation Process</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515231205496</link>
       <description><![CDATA[<p>The coronavirus pandemic has illustrated the lack of a holistic approach in implementing Open Science (OS), leading to an inability to fully utilise its potential to inform prompt, evidence-based policy responses. In this view, this study aims to identify and categorise the factors influencing the adoption of OS and proposes possible actions for decision-makers to develop relevant policies. To achieve this, semi-structured interviews were conducted with 36 experts from Australia, France, the Netherlands, South Korea, the United Kingdom, and the United States as well as eminent international entities. During the interviews, they were asked to answer a range of questions that emerged from a systematic literature review. The responses were coded and analysed using a grounded theory approach. This led to the identification of four thematic clusters, containing a total of 24 factors that can either enable or inhibit OS practices, namely, (a) external; (b) institutional and regulatory; (c) resource-related; and (d) individual and motivational. Drawing upon Ostrom’s Institutional Analysis and Development framework, we also propose a conceptual model that integrates these factors, accompanied with corresponding actions, into a tangible process of OS policy design and implementation.</p>]]></description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
       <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
-      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
-      <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
-      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
-      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
@@ -331,18 +395,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
-      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
-      <dc:creator>Munazza Jabeen</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>The role of institutional policies in the sustainability of institutional repositories in Africa: A reflection from Ghana</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515231220167</link>
       <description><![CDATA[<p>Institutional repositories (IRs) are increasingly gaining prominence among African academic institutions, and Ghana is no exception. This can largely be attributed to the enduring value of hosting research outputs from institutional and individual depositors. Despite its increasing adoption, there is a growing concern about the sustainability of open access IRs, particularly in Africa. However, most of these factors that threaten the sustainability of IRs on the continent can be mitigated by enacting comprehensive institutional policies. Thus, this study sought to examine the role of institutional policies in the sustainability of IRs in Ghana. A total of 830 respondents comprised of IR managers, library staff, postgraduate students, lecturers and university librarians (management) from five public universities in Ghana took part in this study. Questionnaires, semi-structured interviews and document analysis were the main instruments used for data collection. The study yielded an overall response rate of 92.8%. The study findings revealed that public universities in Ghana have institutional IR policies that guide the operation, usage and management of their IRs. However, these policies were persuasive in nature and mainly focused on content submission and generation issues. The study underscored the IR policy’s importance in addressing content generation, awareness, advocacy and copyright restriction challenges. The study recommends the necessity of IR policies to focus on other factors such as technical requirements, expertise and others to ensure the sustainability of these repositories.</p>]]></description>
@@ -365,45 +417,6 @@
       <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
-      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
-      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
-      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
-      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Counting absence,accounting care: Digital thresholds and the classification of absence in schools</title>
