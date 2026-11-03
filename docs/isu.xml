@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:00:47 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -41,6 +41,18 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
       <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Librarians’ preparedness for the 5th Industrial Revolution towards information service delivery</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463097</link>
+      <description><![CDATA[<p>This study examined the preparedness of librarians for 5th IR with a focus on their awareness, level of preparedness, required competencies, and the challenges influencing effective information service delivery in Nigeria. The study adopted a descriptive survey research design, with data collected from 402 librarians across Nigeria’s six geopolitical zones using a structured questionnaire. The instrument was validated and yielded a reliability coefficient of 0.87. Data were analysed using descriptive statistics (frequency, percentage, mean, and standard deviation) and multiple regression analysis at a 0.05 level of significance. The findings revealed a high level of awareness of 5th IR technologies among librarians, particularly in areas such as automation, artificial intelligence, and digital transformation. However, the level of preparedness was found to be moderate, indicating a gap between awareness and practical application. Librarians demonstrated strong competencies in foundational areas such as information retrieval systems, electronic resource management, and digital collections, but showed relatively lower proficiency in advanced and emerging technologies. The study further identified key challenges, including inadequate funding, limited training opportunities, poor infrastructure, unstable power supply, and the high cost of technological tools. In addition, the results showed that demographic factors jointly influenced librarians’ preparedness, with age, years of experience, and educational qualification emerging as significant predictors, while gender had no significant effect. The study concludes that although librarians exhibit a positive disposition and foundational readiness for the 5th IR, there is a need to strengthen practical competencies and address systemic constraints. It recommends increased investment in technological infrastructure, continuous professional development, and strategic policy interventions to enhance librarians’ capacity for effective participation in the evolving digital information environment.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463097</guid>
+      <dc:creator>Tope Ayoade Idowu, Sunday Olabisi Olatunji, James O. Enamudu</dc:creator>
       <category domain="source">Information Services and Use</category>
       <category domain="source_id">isu</category>
       <category>information-science</category>
