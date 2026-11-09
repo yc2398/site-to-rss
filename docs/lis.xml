@@ -5,63 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:56:18 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/lis.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
-      <description><![CDATA[<p>This study examines researchers’ perceptions of the impact of digital repositories on scientific efficiency and productivity in Serbia, a developing research environment with a national Open Science policy that is still in the development phase. Based on a survey conducted among 326 researchers from universities and research institutes across various disciplines, the analysis explores how professional characteristics, including institution type, academic degree, discipline, and years of experience, affect perceived benefits from repository use. Logistic regression analysis shows that researchers affiliated with institutes, those in the humanities, and mid-career researchers are significantly more likely to perceive that repositories enhance efficiency and productivity. Academic degree alone does not significantly influence perception, suggesting that repository use depends more on institutional environment, disciplinary norms, and practical experience than on formal titles. The findings highlight the importance of institutional support, early integration of repositories into research workflows, and tailored training to maximize usage and benefits. These results provide a foundation for aligning national Open Science policies with everyday research practices, supporting targeted interventions to increase repository adoption and enhance research efficiency and productivity across disciplines.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410237</guid>
-      <dc:creator>Jelena Banović, Aleksandra Bradić-Martinović, Aleksandar Zdravković</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Undergraduates’ perceptions of information,media and data literacy: Proposing an integrative assessment instrument</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251367458</link>
-      <description><![CDATA[<p>This study addresses the absence of integrated self-assessment tools for information, media and data literacy (MILDAL) competencies among social sciences undergraduates. It aims to develop and validate the Q-MILDAL questionnaire, a novel instrument designed to holistically measure students’ self-perceptions across these interrelated literacies. Q-MILDAL was developed through a mixed-methods framework: Content analysis of international literature to identify core dimensions (Authority, Creation, Value of Information, Research, Dialogue, Search). Qualitative validation via expert panel reviews ( n = 8) and student focus group discussions to refine clarity and relevance. And quantitative validation using exploratory factor analysis (EFA) and reliability testing (Cronbach’s α) with a pilot sample of 80 students from Education, Information and Communication, and Economics programmes. The final 48-item scale demonstrated exceptional reliability (α = 0.953) and a six-factor structure aligning with the proposed dimensions. Qualitative feedback highlighted the need to simplify language and condense items, while quantitative results confirmed the tool’s robustness in capturing students’ self-assessed MILDAL competencies. Q-MILDAL is the first integrated instrument to consolidate information, media and data literacy self-perceptions into a single validated scale. Its mixed-methods design ensures both methodological rigour and practical applicability, offering educators an adaptable tool to identify gaps in literacy training and tailor curricula to interdisciplinary needs. The study advances scholarly discourse by bridging fragmented approaches to literacy assessment in higher education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251367458</guid>
-      <dc:creator>Maria Pinto, David Caballero Mariscal, Rosaura Fernández-Pascual</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Understanding the factors influencing health information avoidance: A perspective from the risk information seeking and processing (RISP) model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251387703</link>
-      <description><![CDATA[<p>Information avoidance is a complex phenomenon that is influenced by several factors, including individual, social, psychological, and environmental factors. Individuals deliberately avoid information that they perceive as threatening or overwhelming which can pose a serious health risk. Understanding the factors that influence information avoidance is essential for designing effective health communication strategies and interventions. Thus, the study is conducted with an aim to measure and validate “the risk information seeking and processing (RISP)” framework and determining the factors influencing the health information avoidance (HIA) among general health consumers. Drawing on the information seeking and processing (RISP) framework, a six-factor measurement model was proposed to understand the factors causing the HIA. The model was tested using the structural equation modeling (SEM) with data collected from 1600 general health consumers through a cross-sectional survey. The findings showed that both negative affective risk responses (β = 0.382) and information overload (β = 0.118) positively influenced channel beliefs. Subsequently, channel beliefs (β = 0.079) positively influenced HIA. However, information overload (β = 0. 029) and information norms (β = 0.039) showed a positive but statistically non-significant influence on HIA. The study concludes that negative affective risk responses, information overload and channel beliefs are the key factors that influence HIA among health consumers. However, factors like risk perception, informational norms, and information insufficiency did not significantly influence HIA. Our study contributes to the validation and applicability of the RISP framework to the information behavior domain, especially in the context of HIA.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251387703</guid>
-      <dc:creator>Zijun Shen, Anas Ali Alhur, Muhammad Ramzan</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
-      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
-      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
@@ -108,6 +56,58 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
       <dc:creator>Amelia Anderson</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
+      <description><![CDATA[<p>This study examines researchers’ perceptions of the impact of digital repositories on scientific efficiency and productivity in Serbia, a developing research environment with a national Open Science policy that is still in the development phase. Based on a survey conducted among 326 researchers from universities and research institutes across various disciplines, the analysis explores how professional characteristics, including institution type, academic degree, discipline, and years of experience, affect perceived benefits from repository use. Logistic regression analysis shows that researchers affiliated with institutes, those in the humanities, and mid-career researchers are significantly more likely to perceive that repositories enhance efficiency and productivity. Academic degree alone does not significantly influence perception, suggesting that repository use depends more on institutional environment, disciplinary norms, and practical experience than on formal titles. The findings highlight the importance of institutional support, early integration of repositories into research workflows, and tailored training to maximize usage and benefits. These results provide a foundation for aligning national Open Science policies with everyday research practices, supporting targeted interventions to increase repository adoption and enhance research efficiency and productivity across disciplines.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410237</guid>
+      <dc:creator>Jelena Banović, Aleksandra Bradić-Martinović, Aleksandar Zdravković</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Undergraduates’ perceptions of information,media and data literacy: Proposing an integrative assessment instrument</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251367458</link>
+      <description><![CDATA[<p>This study addresses the absence of integrated self-assessment tools for information, media and data literacy (MILDAL) competencies among social sciences undergraduates. It aims to develop and validate the Q-MILDAL questionnaire, a novel instrument designed to holistically measure students’ self-perceptions across these interrelated literacies. Q-MILDAL was developed through a mixed-methods framework: Content analysis of international literature to identify core dimensions (Authority, Creation, Value of Information, Research, Dialogue, Search). Qualitative validation via expert panel reviews ( n = 8) and student focus group discussions to refine clarity and relevance. And quantitative validation using exploratory factor analysis (EFA) and reliability testing (Cronbach’s α) with a pilot sample of 80 students from Education, Information and Communication, and Economics programmes. The final 48-item scale demonstrated exceptional reliability (α = 0.953) and a six-factor structure aligning with the proposed dimensions. Qualitative feedback highlighted the need to simplify language and condense items, while quantitative results confirmed the tool’s robustness in capturing students’ self-assessed MILDAL competencies. Q-MILDAL is the first integrated instrument to consolidate information, media and data literacy self-perceptions into a single validated scale. Its mixed-methods design ensures both methodological rigour and practical applicability, offering educators an adaptable tool to identify gaps in literacy training and tailor curricula to interdisciplinary needs. The study advances scholarly discourse by bridging fragmented approaches to literacy assessment in higher education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251367458</guid>
+      <dc:creator>Maria Pinto, David Caballero Mariscal, Rosaura Fernández-Pascual</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Understanding the factors influencing health information avoidance: A perspective from the risk information seeking and processing (RISP) model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251387703</link>
+      <description><![CDATA[<p>Information avoidance is a complex phenomenon that is influenced by several factors, including individual, social, psychological, and environmental factors. Individuals deliberately avoid information that they perceive as threatening or overwhelming which can pose a serious health risk. Understanding the factors that influence information avoidance is essential for designing effective health communication strategies and interventions. Thus, the study is conducted with an aim to measure and validate “the risk information seeking and processing (RISP)” framework and determining the factors influencing the health information avoidance (HIA) among general health consumers. Drawing on the information seeking and processing (RISP) framework, a six-factor measurement model was proposed to understand the factors causing the HIA. The model was tested using the structural equation modeling (SEM) with data collected from 1600 general health consumers through a cross-sectional survey. The findings showed that both negative affective risk responses (β = 0.382) and information overload (β = 0.118) positively influenced channel beliefs. Subsequently, channel beliefs (β = 0.079) positively influenced HIA. However, information overload (β = 0. 029) and information norms (β = 0.039) showed a positive but statistically non-significant influence on HIA. The study concludes that negative affective risk responses, information overload and channel beliefs are the key factors that influence HIA among health consumers. However, factors like risk perception, informational norms, and information insufficiency did not significantly influence HIA. Our study contributes to the validation and applicability of the RISP framework to the information behavior domain, especially in the context of HIA.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251387703</guid>
+      <dc:creator>Zijun Shen, Anas Ali Alhur, Muhammad Ramzan</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Futures thinking in library science scholarship: A scoping and bibliometric review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006261419072</link>
+      <description><![CDATA[<p>This study maps the intellectual and thematic landscape of futures thinking in library science through a scoping and bibliometric review of 26 publications indexed in Scopus. Findings show modest but growing engagement, with scholarship concentrated in the United States, United Kingdom, and Australia, and dominated by academic library contexts. Scenario planning is the most frequently applied method, while other approaches such as Delphi, environmental scanning, and appreciative inquiry appear less often. Thematic analysis identifies three recurring clusters: foresight methods, organizational strategy, and service management. Bibliographic coupling reveals incremental development anchored in a small set of foundational works rather than cumulative programs of research. Overall, futures thinking is emerging as a relevant but unevenly developed strand of research in library science. The study highlights opportunities to diversify methods, broaden regional and sectoral participation, and strengthen evaluation of outcomes, thereby enhancing the scholarly and practical value of futures thinking for libraries worldwide.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006261419072</guid>
+      <dc:creator>Ethel M. Torres, Mary Ann J. Salvador, Efren M. Torres</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
