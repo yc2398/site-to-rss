@@ -5,11 +5,75 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:08:21 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
+      <description><![CDATA[<p>In The Dualism of Human Nature and Its Social Conditions , Durkheim differentiates the body and the soul as two substantially different and conflictual parts of the human being. Durkheim argues that the two opposite sides together produce the individual being who needs both body and soul, and their cooperation. Society has a similar existence produced by the antagonism of its body and its soul. Following Durkheim, I understand surveillance as the administration of this complicated duality of society. Surveillance society is a society where its soul is settled at a different level through re-embodiment. Datafied society is a higher form of this re-embodiment and tends to resolve the Durkheimian duality. Through this resolution, it threatens the very existence of society. This paper examines this tendency in datafication processes. The brief analysis also demonstrates the possible ways human flourishing may operate owing to the ambivalence of datafication. I argue that ambivalence is the very condition of (human) flourishing.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261453586</guid>
+      <dc:creator>Çağatay Topal</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
+      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
+      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Dreams of rebirth: revisiting China&#x27;s AI imaginaries in the post-DeepSeek era</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261500657</link>
+      <description><![CDATA[<p>This study examines how Chinese AI practitioners construct sociotechnical imaginaries around AI development in China amid intensifying the U.S.–China technological competition following DeepSeek&#x27;s emergence in early 2025. Based on expert interviews ( N = 33), podcast analysis ( N = 65), and fieldwork across Beijing, Shanghai, Shenzhen, and Hong Kong, we find that DeepSeek&#x27;s breakthrough catalyzed a reconfiguration of imaginaries across national, organizational, and individual scales: renewed confidence in China&#x27;s capacity for technological advancement despite geopolitical constraints, revived technological idealism centered on young startup teams, and a reclamation of individual agency among entrepreneurs and tech workers. We conceptualize this emergent configuration as rebirthism—a historically situated sociotechnical imaginary emerging from Chinese technological development and cultural narratives through the demystification of the Silicon Valley supremacy and remystification of domestic innovation.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261500657</guid>
+      <dc:creator>Jindong Leo-Liu, Yi Yang, Qiming Gu</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>The future of information systems in the enterprise</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
+      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
+      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
+      <category domain="source">Journal of Information Technology</category>
+      <category domain="source_id">jin</category>
+      <category>information-technology</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI</title>
       <link>https://sage.cnpereading.com/doi/10.1177/02683962261467413</link>
@@ -44,6 +108,54 @@
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
+      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
+      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Closing the divide: Exploring higher education teachers’ perspectives on educational technology</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279181</link>
+      <description><![CDATA[<p>Incorporating technology into education has become a crucial component of contemporary teaching practices. Technological advancements have led to the development of innovative teaching tools and methodologies that promote active learning and engagement among students. This study used a modified version of the Technology Acceptance Model (TAM) to analyze the key factors that impact the integration of technology in the teaching practice of higher education instructors. Among the factors to be included in the modified model are technostress and teaching tradition. These factors have been rarely examined within the mandatory technology integration in higher education settings. Partial Least Squares Structural Equation Modelling (PLS-SEM) is used to analyse the empirical data collected from 657 higher education teachers in Jordan. Findings reveal that teachers’ technological, pedagogical and content knowledge (TPACK) played a crucial role in facilitating the effective integration of technology into teaching practices. This boosted self-efficacy, personal innovativeness and perceptions of ease of use and usefulness. Additionally, teachers’ TPACK negatively influenced their technostress and teaching tradition. Indeed, technostress and teaching tradition were identified as significant obstacles to the effective integration of technology into teaching practices. Significant implications for theory and practice can be derived from the findings of this study to effectively incorporate technology in higher education.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279181</guid>
+      <dc:creator>Ahmad Samed Al-Adwan, Rakesh Kumar Meet, Devkant Kala</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
+      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
+      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
+      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
+      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
@@ -255,18 +367,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>The future of information systems in the enterprise</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02683962261488060</link>
-      <description><![CDATA[<p>“Enterprise information systems” have outgrown the organisation as a unit of analysis. This introduction to the special issue on the future of information systems in the enterprise argues that future work should be situated at the level of the integrated whole through which coordinated action and value creation are sustained, which increasingly grows beyond firm boundaries. We conceptualise enterprise information systems as evolving systems of systems, distinguishing enterprise-level objects, activities, and phenomena, read through three lenses: coherency, tensions, and integration and coordination mechanisms. We propose a research agenda on designing under uncertainty, governing human and synthetic actors, and sustaining autonomy at scale, and position the four special issue papers against these categories.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02683962261488060</guid>
-      <dc:creator>Robert Winter, Leona Chandra Kruse, Rajiv Sabherwal</dc:creator>
-      <category domain="source">Journal of Information Technology</category>
-      <category domain="source_id">jin</category>
-      <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
       <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
       <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
@@ -302,30 +402,6 @@
       <category domain="source_id">lis</category>
       <category>librarianship</category>
       <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
-      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
-      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
-      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
-      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
@@ -417,45 +493,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
-      <description><![CDATA[<p>In The Dualism of Human Nature and Its Social Conditions , Durkheim differentiates the body and the soul as two substantially different and conflictual parts of the human being. Durkheim argues that the two opposite sides together produce the individual being who needs both body and soul, and their cooperation. Society has a similar existence produced by the antagonism of its body and its soul. Following Durkheim, I understand surveillance as the administration of this complicated duality of society. Surveillance society is a society where its soul is settled at a different level through re-embodiment. Datafied society is a higher form of this re-embodiment and tends to resolve the Durkheimian duality. Through this resolution, it threatens the very existence of society. This paper examines this tendency in datafication processes. The brief analysis also demonstrates the possible ways human flourishing may operate owing to the ambivalence of datafication. I argue that ambivalence is the very condition of (human) flourishing.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261453586</guid>
-      <dc:creator>Çağatay Topal</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
-      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
-      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
       <title>Datafication meets democracy: Epistemic distrust and data-driven campaigns in India</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261492575</link>
       <description><![CDATA[<p>While scholarship on data-driven campaigning has grown in recent years, the processes through which data is produced and how it translates to decision-making remain under-theorised. Drawing on ethnographic fieldwork conducted inside the campaign war room of a major political party during the 2022 Punjab Assembly elections in India, I examine the quotidian practices through which campaign data was collected, processed and rendered actionable. The article argues that democratic politics represents an arena where datafication indexes not an absolute faith in the power of numbers, but coexists with a pervasive suspicion about their capacity to reveal the truth. To conceptualise this phenomenon, I introduce the concept of ‘epistemic distrust’: a disposition in which political actors actively invest in data collection while remaining sceptical of the insights that data purportedly reveals. Bringing scholarship on data-driven campaigning into conversation with critical data studies, the article makes three interventions. First, I show how epistemic distrust generated a proliferation of competing data infrastructures, such that an excess of data – rather than scarcity – slowed decision-making and created inefficiencies. Second, I examine why, despite the campaign&#x27;s information-rich environment, data increasingly assumed quantitative forms. Numbers acquired value not just because they facilitated statistical analysis, but because they enabled campaign workers to perform objectivity and credibility before sceptical party leaders. Third, foregrounding the labour of data production, I argue that interpersonal relations and human subjectivity are not distortions that contaminate data but are constitutive of how useful political insights emerge in the first place.</p>]]></description>
@@ -479,30 +516,6 @@
       <category domain="source_id">lis</category>
       <category>librarianship</category>
       <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
-      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
-      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Closing the divide: Exploring higher education teachers’ perspectives on educational technology</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279181</link>
-      <description><![CDATA[<p>Incorporating technology into education has become a crucial component of contemporary teaching practices. Technological advancements have led to the development of innovative teaching tools and methodologies that promote active learning and engagement among students. This study used a modified version of the Technology Acceptance Model (TAM) to analyze the key factors that impact the integration of technology in the teaching practice of higher education instructors. Among the factors to be included in the modified model are technostress and teaching tradition. These factors have been rarely examined within the mandatory technology integration in higher education settings. Partial Least Squares Structural Equation Modelling (PLS-SEM) is used to analyse the empirical data collected from 657 higher education teachers in Jordan. Findings reveal that teachers’ technological, pedagogical and content knowledge (TPACK) played a crucial role in facilitating the effective integration of technology into teaching practices. This boosted self-efficacy, personal innovativeness and perceptions of ease of use and usefulness. Additionally, teachers’ TPACK negatively influenced their technostress and teaching tradition. Indeed, technostress and teaching tradition were identified as significant obstacles to the effective integration of technology into teaching practices. Significant implications for theory and practice can be derived from the findings of this study to effectively incorporate technology in higher education.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279181</guid>
-      <dc:creator>Ahmad Samed Al-Adwan, Rakesh Kumar Meet, Devkant Kala</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
