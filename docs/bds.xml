@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:52:35 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -50,12 +50,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Dreams of rebirth: revisiting China&#x27;s AI imaginaries in the post-DeepSeek era</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261500657</link>
-      <description><![CDATA[<p>This study examines how Chinese AI practitioners construct sociotechnical imaginaries around AI development in China amid intensifying the U.S.–China technological competition following DeepSeek&#x27;s emergence in early 2025. Based on expert interviews ( N = 33), podcast analysis ( N = 65), and fieldwork across Beijing, Shanghai, Shenzhen, and Hong Kong, we find that DeepSeek&#x27;s breakthrough catalyzed a reconfiguration of imaginaries across national, organizational, and individual scales: renewed confidence in China&#x27;s capacity for technological advancement despite geopolitical constraints, revived technological idealism centered on young startup teams, and a reclamation of individual agency among entrepreneurs and tech workers. We conceptualize this emergent configuration as rebirthism—a historically situated sociotechnical imaginary emerging from Chinese technological development and cultural narratives through the demystification of the Silicon Valley supremacy and remystification of domestic innovation.</p>]]></description>
+      <title>Datafication meets democracy: Epistemic distrust and data-driven campaigns in India</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492575</link>
+      <description><![CDATA[<p>While scholarship on data-driven campaigning has grown in recent years, the processes through which data is produced and how it translates to decision-making remain under-theorised. Drawing on ethnographic fieldwork conducted inside the campaign war room of a major political party during the 2022 Punjab Assembly elections in India, I examine the quotidian practices through which campaign data was collected, processed and rendered actionable. The article argues that democratic politics represents an arena where datafication indexes not an absolute faith in the power of numbers, but coexists with a pervasive suspicion about their capacity to reveal the truth. To conceptualise this phenomenon, I introduce the concept of ‘epistemic distrust’: a disposition in which political actors actively invest in data collection while remaining sceptical of the insights that data purportedly reveals. Bringing scholarship on data-driven campaigning into conversation with critical data studies, the article makes three interventions. First, I show how epistemic distrust generated a proliferation of competing data infrastructures, such that an excess of data – rather than scarcity – slowed decision-making and created inefficiencies. Second, I examine why, despite the campaign&#x27;s information-rich environment, data increasingly assumed quantitative forms. Numbers acquired value not just because they facilitated statistical analysis, but because they enabled campaign workers to perform objectivity and credibility before sceptical party leaders. Third, foregrounding the labour of data production, I argue that interpersonal relations and human subjectivity are not distortions that contaminate data but are constitutive of how useful political insights emerge in the first place.</p>]]></description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261500657</guid>
-      <dc:creator>Jindong Leo-Liu, Yi Yang, Qiming Gu</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492575</guid>
+      <dc:creator>Amogh Dhar Sharma</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -63,12 +63,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Datafication meets democracy: Epistemic distrust and data-driven campaigns in India</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492575</link>
-      <description><![CDATA[<p>While scholarship on data-driven campaigning has grown in recent years, the processes through which data is produced and how it translates to decision-making remain under-theorised. Drawing on ethnographic fieldwork conducted inside the campaign war room of a major political party during the 2022 Punjab Assembly elections in India, I examine the quotidian practices through which campaign data was collected, processed and rendered actionable. The article argues that democratic politics represents an arena where datafication indexes not an absolute faith in the power of numbers, but coexists with a pervasive suspicion about their capacity to reveal the truth. To conceptualise this phenomenon, I introduce the concept of ‘epistemic distrust’: a disposition in which political actors actively invest in data collection while remaining sceptical of the insights that data purportedly reveals. Bringing scholarship on data-driven campaigning into conversation with critical data studies, the article makes three interventions. First, I show how epistemic distrust generated a proliferation of competing data infrastructures, such that an excess of data – rather than scarcity – slowed decision-making and created inefficiencies. Second, I examine why, despite the campaign&#x27;s information-rich environment, data increasingly assumed quantitative forms. Numbers acquired value not just because they facilitated statistical analysis, but because they enabled campaign workers to perform objectivity and credibility before sceptical party leaders. Third, foregrounding the labour of data production, I argue that interpersonal relations and human subjectivity are not distortions that contaminate data but are constitutive of how useful political insights emerge in the first place.</p>]]></description>
+      <title>Dreams of rebirth: revisiting China&#x27;s AI imaginaries in the post-DeepSeek era</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261500657</link>
+      <description><![CDATA[<p>This study examines how Chinese AI practitioners construct sociotechnical imaginaries around AI development in China amid intensifying the U.S.–China technological competition following DeepSeek&#x27;s emergence in early 2025. Based on expert interviews ( N = 33), podcast analysis ( N = 65), and fieldwork across Beijing, Shanghai, Shenzhen, and Hong Kong, we find that DeepSeek&#x27;s breakthrough catalyzed a reconfiguration of imaginaries across national, organizational, and individual scales: renewed confidence in China&#x27;s capacity for technological advancement despite geopolitical constraints, revived technological idealism centered on young startup teams, and a reclamation of individual agency among entrepreneurs and tech workers. We conceptualize this emergent configuration as rebirthism—a historically situated sociotechnical imaginary emerging from Chinese technological development and cultural narratives through the demystification of the Silicon Valley supremacy and remystification of domestic innovation.</p>]]></description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492575</guid>
-      <dc:creator>Amogh Dhar Sharma</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261500657</guid>
+      <dc:creator>Jindong Leo-Liu, Yi Yang, Qiming Gu</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
