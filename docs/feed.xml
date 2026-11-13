@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:31:10 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -47,26 +47,14 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
-      <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
+      <title>Librarians’ preparedness for the 5th Industrial Revolution towards information service delivery</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463097</link>
+      <description><![CDATA[<p>This study examined the preparedness of librarians for 5th IR with a focus on their awareness, level of preparedness, required competencies, and the challenges influencing effective information service delivery in Nigeria. The study adopted a descriptive survey research design, with data collected from 402 librarians across Nigeria’s six geopolitical zones using a structured questionnaire. The instrument was validated and yielded a reliability coefficient of 0.87. Data were analysed using descriptive statistics (frequency, percentage, mean, and standard deviation) and multiple regression analysis at a 0.05 level of significance. The findings revealed a high level of awareness of 5th IR technologies among librarians, particularly in areas such as automation, artificial intelligence, and digital transformation. However, the level of preparedness was found to be moderate, indicating a gap between awareness and practical application. Librarians demonstrated strong competencies in foundational areas such as information retrieval systems, electronic resource management, and digital collections, but showed relatively lower proficiency in advanced and emerging technologies. The study further identified key challenges, including inadequate funding, limited training opportunities, poor infrastructure, unstable power supply, and the high cost of technological tools. In addition, the results showed that demographic factors jointly influenced librarians’ preparedness, with age, years of experience, and educational qualification emerging as significant predictors, while gender had no significant effect. The study concludes that although librarians exhibit a positive disposition and foundational readiness for the 5th IR, there is a need to strengthen practical competencies and address systemic constraints. It recommends increased investment in technological infrastructure, continuous professional development, and strategic policy interventions to enhance librarians’ capacity for effective participation in the evolving digital information environment.</p>]]></description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261465192</guid>
-      <dc:creator>Yusuf Ayodeji Ajani, Farouq Olakunle Malik, Sadiya Abubakar</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463097</guid>
+      <dc:creator>Tope Ayoade Idowu, Sunday Olabisi Olatunji, James O. Enamudu</dc:creator>
       <category domain="source">Information Services and Use</category>
       <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
-      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
-      <dc:creator>Munazza Jabeen</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
     </item>
@@ -101,6 +89,90 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
       <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
+      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
+      <dc:creator>Mariusz Stanowski</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
+      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
+      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Closing the divide: Exploring higher education teachers’ perspectives on educational technology</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279181</link>
+      <description><![CDATA[<p>Incorporating technology into education has become a crucial component of contemporary teaching practices. Technological advancements have led to the development of innovative teaching tools and methodologies that promote active learning and engagement among students. This study used a modified version of the Technology Acceptance Model (TAM) to analyze the key factors that impact the integration of technology in the teaching practice of higher education instructors. Among the factors to be included in the modified model are technostress and teaching tradition. These factors have been rarely examined within the mandatory technology integration in higher education settings. Partial Least Squares Structural Equation Modelling (PLS-SEM) is used to analyse the empirical data collected from 657 higher education teachers in Jordan. Findings reveal that teachers’ technological, pedagogical and content knowledge (TPACK) played a crucial role in facilitating the effective integration of technology into teaching practices. This boosted self-efficacy, personal innovativeness and perceptions of ease of use and usefulness. Additionally, teachers’ TPACK negatively influenced their technostress and teaching tradition. Indeed, technostress and teaching tradition were identified as significant obstacles to the effective integration of technology into teaching practices. Significant implications for theory and practice can be derived from the findings of this study to effectively incorporate technology in higher education.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279181</guid>
+      <dc:creator>Ahmad Samed Al-Adwan, Rakesh Kumar Meet, Devkant Kala</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
+      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
+      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
+      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
+      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
+      <category domain="source">Information Development</category>
+      <category domain="source_id">idv</category>
+      <category>information-development</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Revolutionising information access with quantum computing in the Fifth Industrial Revolution: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261465192</link>
+      <description><![CDATA[<p>This study examines the transformative potential of quantum computing for information access, retrieval, and security in library systems within the Fifth Industrial Revolution (5IR). A PRISMA-compliant systematic literature review was conducted using peer-reviewed studies retrieved from Web of Science, Scopus, Google Scholar, and ResearchGate. A Boolean search combining quantum computing, information retrieval, and library systems yielded 214 records. After deduplication, screening, eligibility assessment, and predefined inclusion/exclusion criteria, 47 studies were retained for thematic synthesis. Data were analysed using a structured framework, with a subset independently coded by two reviewers to ensure reliability. Findings identify four application domains: accelerated search and retrieval via Grover-type quantum algorithms; improved cataloguing, indexing, and metadata generation using quantum-enabled pattern recognition; enhanced data security through Quantum Key Distribution and post-quantum cryptography; and personalised discovery services using quantum-accelerated machine learning. Case studies from the EU Quantum Flagship Initiative, USC, the British Library, the National Library of China, and Singapore’s National Library Board show both progress and constraints, including high costs and technical complexity, amongst others. The study concludes that quantum computing has significant potential to transform library services, while adoption requires strategic investment, capacity building, and robust policy frameworks to ensure equitable and sustainable implementation across institutions globally.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261465192</guid>
+      <dc:creator>Yusuf Ayodeji Ajani, Farouq Olakunle Malik, Sadiya Abubakar</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The adoption footprints of Koha as a library management system in university libraries of Pakistan</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231214980</link>
+      <description><![CDATA[<p>The study investigated the adoption footprints of Koha in university libraries in Pakistan by using the Unified Theory of Acceptance and Use of Technology (UTAUT) model. The UTAUT model suggests that the decision to use technology is influenced by performance expectancy, effort expectancy, social influence and facilitating conditions. The study used a survey questionnaire to collect data from 250 librarians working in libraries and analysed the results using a quantitative research approach. The findings of the study revealed that performance expectancy, effort expectancy and facilitating conditions positively influenced the intention to adopt Koha. Interestingly, social influence had no significant effect on the adoption of Koha, indicating that the opinions of others did not play a significant role in the decision to adopt Koha. Personal innovativeness had a negative impact on the behavioural intention of librarians to use Koha. Personal innovativeness refers to the willingness of individuals to adopt new technology, and this finding suggests that librarians who are less willing to adopt new technology may be less probably to adopt Koha. The study also found that the significance of information and communication technology (ICT) background among librarians in Pakistan was low. This can be attributed to inadequate perceived social influence and facilitating conditions towards adopting new information technology (IT) solutions. To increase the use of Koha among librarians, the study recommends that libraries improve social influence and provide better conditions for adoption. This study has important implications for library managers and policymakers who are seeking to enhance the use of open-source library management system (LMS) in university libraries.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231214980</guid>
+      <dc:creator>Munazza Jabeen</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
@@ -155,18 +227,6 @@
       <category>journal</category>
     </item>
     <item>
-      <title>Librarians’ preparedness for the 5th Industrial Revolution towards information service delivery</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463097</link>
-      <description><![CDATA[<p>This study examined the preparedness of librarians for 5th IR with a focus on their awareness, level of preparedness, required competencies, and the challenges influencing effective information service delivery in Nigeria. The study adopted a descriptive survey research design, with data collected from 402 librarians across Nigeria’s six geopolitical zones using a structured questionnaire. The instrument was validated and yielded a reliability coefficient of 0.87. Data were analysed using descriptive statistics (frequency, percentage, mean, and standard deviation) and multiple regression analysis at a 0.05 level of significance. The findings revealed a high level of awareness of 5th IR technologies among librarians, particularly in areas such as automation, artificial intelligence, and digital transformation. However, the level of preparedness was found to be moderate, indicating a gap between awareness and practical application. Librarians demonstrated strong competencies in foundational areas such as information retrieval systems, electronic resource management, and digital collections, but showed relatively lower proficiency in advanced and emerging technologies. The study further identified key challenges, including inadequate funding, limited training opportunities, poor infrastructure, unstable power supply, and the high cost of technological tools. In addition, the results showed that demographic factors jointly influenced librarians’ preparedness, with age, years of experience, and educational qualification emerging as significant predictors, while gender had no significant effect. The study concludes that although librarians exhibit a positive disposition and foundational readiness for the 5th IR, there is a need to strengthen practical competencies and address systemic constraints. It recommends increased investment in technological infrastructure, continuous professional development, and strategic policy interventions to enhance librarians’ capacity for effective participation in the evolving digital information environment.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463097</guid>
-      <dc:creator>Tope Ayoade Idowu, Sunday Olabisi Olatunji, James O. Enamudu</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
       <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
       <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
@@ -215,18 +275,6 @@
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
-      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
-      <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
     </item>
@@ -393,54 +441,6 @@
       <category domain="source">Journal of Information Technology</category>
       <category domain="source_id">jin</category>
       <category>information-technology</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Factors affecting social technologies driven knowledge sharing among Pakistani university librarians and its impact on library service innovation</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241286824</link>
-      <description><![CDATA[<p>This study explores the factors influencing knowledge sharing (KS) via social technologies (STs) among Pakistani university librarians and its effect on library service innovation. The research employed an expanded version of the theory of planned behavior as its theoretical framework. Data were gathered through a self-administered questionnaire to 281 university librarians of Pakistan using the convenience sampling technique. Descriptive statistics and a multiple linear regression test were used to analyze the collected data. The study found prevalent use of platforms like WhatsApp and Facebook. All nine hypotheses suggesting positive correlations among factors were supported. Key factors found to be shaping librarians’ KS behavior include trust, attitude, enjoyment in helping others, perceived behavioral control, and subjective norms. Additionally, individual behavior intention, perceived reciprocal benefits, and management support were also found to be crucial in fostering KS. On the whole, the study showed a positive impact in knowledge sharing through social platforms on library service innovation. This study will be useful for librarians around the world by providing evidence-based strategies and insights into fostering effective knowledge sharing through social technologies, which can lead to enhanced library services and innovation in diverse library settings globally.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241286824</guid>
-      <dc:creator>Masroor Ahmed Soomro, Muhammad Arif, Muhammad Asim</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Closing the divide: Exploring higher education teachers’ perspectives on educational technology</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241279181</link>
-      <description><![CDATA[<p>Incorporating technology into education has become a crucial component of contemporary teaching practices. Technological advancements have led to the development of innovative teaching tools and methodologies that promote active learning and engagement among students. This study used a modified version of the Technology Acceptance Model (TAM) to analyze the key factors that impact the integration of technology in the teaching practice of higher education instructors. Among the factors to be included in the modified model are technostress and teaching tradition. These factors have been rarely examined within the mandatory technology integration in higher education settings. Partial Least Squares Structural Equation Modelling (PLS-SEM) is used to analyse the empirical data collected from 657 higher education teachers in Jordan. Findings reveal that teachers’ technological, pedagogical and content knowledge (TPACK) played a crucial role in facilitating the effective integration of technology into teaching practices. This boosted self-efficacy, personal innovativeness and perceptions of ease of use and usefulness. Additionally, teachers’ TPACK negatively influenced their technostress and teaching tradition. Indeed, technostress and teaching tradition were identified as significant obstacles to the effective integration of technology into teaching practices. Significant implications for theory and practice can be derived from the findings of this study to effectively incorporate technology in higher education.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241279181</guid>
-      <dc:creator>Ahmad Samed Al-Adwan, Rakesh Kumar Meet, Devkant Kala</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Information seeking behaviour of informal caregivers at the premier tertiary teaching hospital in Nigeria</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241264745</link>
-      <description><![CDATA[<p>This study was conducted to examine the information behaviour of informal caregivers in a university college hospital in Ibadan, Nigeria. Informal caregivers in the teaching hospitals constitute critical pubic health care players whose information behaviours have not been studied. Data was collected from 208 caregivers using a questionnaire that consisted of structured and open-ended questions. The study found that healthcare providers were the primary source of health for caregivers, with 34.1% actively seeking information from them. The caregivers seldom utilised sources like the internet, community organizations, books, family, and friends. The preference for healthcare providers as sources is due to their accessibility and ability to provide prompt and accurate answers. Caregivers have diverse information needs, including medication-related information, first aid techniques, nutrition, exercise, mental health, and lifestyle choices. They seek this knowledge to make informed decisions that improve their loved ones’ well-being. The study also revealed that caregivers heavily rely on information technology for health information due to its accessibility and reliability. The study highlights the need for ongoing training and proactive information sharing by healthcare providers to better support informal caregivers in Nigeria, emphasizing the importance of integrated support systems within healthcare facilities. To meet diverse information needs, healthcare institutions should diversify dissemination strategies, including culturally sensitive materials and digital literacy programs, while developing tailored mobile applications and online support communities for caregivers. Policymakers must focus on creating supportive healthcare policies, funding caregiver programs, and expanding insurance coverage to alleviate financial burdens, ensuring that caregivers have access to necessary resources and information.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241264745</guid>
-      <dc:creator>Williams Ezinwa Nwagwu, Helen Adedolapo Akanji</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The mining of China&#x27;s policies against COVID-19 based on a policy target and tool co-evolution framework</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/02666669241289931</link>
-      <description><![CDATA[<p>Mining all COVID-19 policies issued by China can provide valuable lessons for both China and other countries in future pandemic control efforts. In this paper, we introduce a novel framework for mining the co-evolution of policy targets and policy tools. We employ bibliometric methods, text mining, and network analysis to explore the entire evolution of China&#x27;s COVID-19 policies. Examining 1154 central government policies, (a) we extract policy targets from each policy, uncovering their evolution across different stages of the pandemic; (b) propose to identify the policy tool used in each policy unit by integrating an automatic identification model and active learning. We also reveal the categorical structure of these tools; (c) characterize the co-evolution pattern between policy targets and policy tools, shedding light on their dynamic relationship. Our findings indicate that policy targets have shifted across various stages, revealing unique characteristics in China&#x27;s COVID-19 prevention and control efforts. Notably, there is a self-paradox between prevention measures and economic development. We identify the inadequateness in the distribution and utilization of policy tools. Ensuring the alignment of policy targets with appropriate tools is crucial. This synchronization and co-evolution between policy targets and tools are essential for enhancing the functional approach to policy implementation. This paper is the first systematic mining and review about the COVID-19 policies issued by the Chinese government, and our policy target and tool co-evolution mining framework provides a new quantitative framework for policy mining, especially an improved large language model and active learning theory are integrated to identify the policy tools automatically.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/02666669241289931</guid>
-      <dc:creator>Chaoguang Huo, Xinru Li, Chenwei Zhang</dc:creator>
-      <category domain="source">Information Development</category>
-      <category domain="source_id">idv</category>
-      <category>information-development</category>
       <category>journal</category>
     </item>
     <item>
