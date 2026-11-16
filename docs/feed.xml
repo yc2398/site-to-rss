@@ -5,56 +5,73 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:04:04 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
-      <description><![CDATA[<p>Metaverse technology integration in public libraries offers revolutionary possibilities to improve information availability, user engagement, and interactive learning. This study carefully evaluates current literature to examine the hurdles, potential, and future directions of metaverse adoption in public libraries. The study used seven database sources – ProQuest Dissertations and Theses Global, IEEE Xplore, ACM Digital Library, Google Scholar, Web of Science, Scopus, and Library, Information Science &amp; Technology Abstracts (LISTA). The study was conducted between 2015 and 2025 and publication type included are book chapters, conference proceedings, and peer-reviewed journal papers were given preference. The inclusion criteria include studies that examined the best practices, policies, opportunities, and obstacles associated with the implementation of the metaverse in libraries; comprehensive literature reviews, empirical research published in respectable peer-reviewed journals, conference proceedings, or edited volumes, as well as studies using quantitative, qualitative, or mixed approaches, were all taken into consideration. However, the study excluded studies that had no bearing on public libraries and only addressed academic or special libraries. The report lists the advantages of metaverse technology, such as improved digital collections, cutting-edge service delivery methods, and immersive virtual learning environments. It also examines programs, rules, and best practices that have been put in place worldwide to facilitate the integration of the metaverse into public library environments. Despite these developments, a number of obstacles prevent broad acceptance, including high implementation costs, technological constraints, a lack of digital literacy, and moral dilemmas related to security and privacy. The report also discusses ways to make the most of metaverse technology, highlighting the necessity of cooperative policy frameworks, training in digital skills, and infrastructure development. According to research, metaverse technologies have the potential to completely transform library services, but to ensure fair access, a systematic and inclusive strategy is necessary. The study adds to the expanding conversation on digital transformation in public libraries by providing useful information for scholars, policymakers, and library workers. It highlights the need for more empirical research to evaluate the practical uses of metaverse technologies across diverse socioeconomic and cultural contexts. Cost–benefit analysis, ethical issues, and the potential of AI to improve metaverse-based library services should be the main topics of future studies. Public libraries can fully utilise metaverse technologies to remain influential, relevant, and accessible in the digital age by addressing three key issues.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463099</guid>
-      <dc:creator>Tella Adeyinka, Adebola Aderemi Olatoye</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
+      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
+      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
+      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
     </item>
     <item>
-      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
-      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
-      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
+      <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
+      <description><![CDATA[<p>In The Dualism of Human Nature and Its Social Conditions , Durkheim differentiates the body and the soul as two substantially different and conflictual parts of the human being. Durkheim argues that the two opposite sides together produce the individual being who needs both body and soul, and their cooperation. Society has a similar existence produced by the antagonism of its body and its soul. Following Durkheim, I understand surveillance as the administration of this complicated duality of society. Surveillance society is a society where its soul is settled at a different level through re-embodiment. Datafied society is a higher form of this re-embodiment and tends to resolve the Durkheimian duality. Through this resolution, it threatens the very existence of society. This paper examines this tendency in datafication processes. The brief analysis also demonstrates the possible ways human flourishing may operate owing to the ambivalence of datafication. I argue that ambivalence is the very condition of (human) flourishing.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261453586</guid>
+      <dc:creator>Çağatay Topal</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
     </item>
     <item>
-      <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
-      <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
-      <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
-      <category>information-science</category>
-      <category>journal</category>
+      <title>The social and cultural life of artificial intelligence (AI) slop: A research framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261506941</link>
+      <description><![CDATA[<p>The proliferation of artificial intelligence (AI)-generated content across digital platforms has sparked urgent institutional responses, most focused on detection tools that treat synthetic content as a form of pollution—or more colloquially “slop”—requiring technical mitigation. We argue that such approaches are insufficient. Instead, we propose the analytical category SLOP, distinct from its vernacular dismissal, to name a condition rather than a class of objects: information ecosystems in which AI-generated content has reached sufficient scale and surface competence that the signals once used to evaluate quality no longer reliably do so. What has become scarce is not content but the means of judging it. Under this condition, the value and potential harm of any given artifact emerge not from properties innate to the content but from social context—who produces it, who engages with it, and with what motivations. Existing frameworks are useful but inadequate. Spam scholarship identifies the infrastructures of attention through which AI-generated content flows; misinformation research illuminates the participatory aspects of this content creation; and detection work can isolate the technical signals that mark AI use. Yet none accounts for the relational properties emerging around synthetic content, which is actively sought out by some users, unlike spam, and neither reliably false nor intended to deceive, as with misinformation. We characterize SLOP along three dimensions (production, reception, and effects), drawing on platform studies and cultural sociology to propose a research agenda spanning ethnographies of production, studies of reception, and analysis of institutional effects and governance.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261506941</guid>
+      <dc:creator>Richard Jean So, Hoyt Long</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
     </item>
     <item>
-      <title>Librarians’ preparedness for the 5th Industrial Revolution towards information service delivery</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463097</link>
-      <description><![CDATA[<p>This study examined the preparedness of librarians for 5th IR with a focus on their awareness, level of preparedness, required competencies, and the challenges influencing effective information service delivery in Nigeria. The study adopted a descriptive survey research design, with data collected from 402 librarians across Nigeria’s six geopolitical zones using a structured questionnaire. The instrument was validated and yielded a reliability coefficient of 0.87. Data were analysed using descriptive statistics (frequency, percentage, mean, and standard deviation) and multiple regression analysis at a 0.05 level of significance. The findings revealed a high level of awareness of 5th IR technologies among librarians, particularly in areas such as automation, artificial intelligence, and digital transformation. However, the level of preparedness was found to be moderate, indicating a gap between awareness and practical application. Librarians demonstrated strong competencies in foundational areas such as information retrieval systems, electronic resource management, and digital collections, but showed relatively lower proficiency in advanced and emerging technologies. The study further identified key challenges, including inadequate funding, limited training opportunities, poor infrastructure, unstable power supply, and the high cost of technological tools. In addition, the results showed that demographic factors jointly influenced librarians’ preparedness, with age, years of experience, and educational qualification emerging as significant predictors, while gender had no significant effect. The study concludes that although librarians exhibit a positive disposition and foundational readiness for the 5th IR, there is a need to strengthen practical competencies and address systemic constraints. It recommends increased investment in technological infrastructure, continuous professional development, and strategic policy interventions to enhance librarians’ capacity for effective participation in the evolving digital information environment.</p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463097</guid>
-      <dc:creator>Tope Ayoade Idowu, Sunday Olabisi Olatunji, James O. Enamudu</dc:creator>
-      <category domain="source">Information Services and Use</category>
-      <category domain="source_id">isu</category>
+      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
+      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
+      <dc:creator>Gabriel Alcaras</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
+      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
+      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
       <category>information-science</category>
       <category>journal</category>
     </item>
@@ -65,106 +82,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372630</guid>
       <dc:creator>Zafar Imam Khan</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Research on exploratory search behavior and learning outcomes from a metacognitive perspective</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410241</link>
-      <description><![CDATA[<p>This study investigates exploratory search behaviors and learning outcomes from a metacognitive perspective, aiming to reveal the role of different metacognitive dimensions within the “search as learning” framework. A user experiment was conducted with 36 participants completing three types of exploratory search tasks. Data were collected through scales, screen recording analysis, and concept mapping, and analyzed using Spearman’s rank correlation analysis and multiple regression analysis. The results indicate that the influence of metacognitive abilities on exploratory search behaviors and learning outcomes varies significantly across task types: Decision-Evaluation tasks rely more on monitoring and evaluation, Planning-Oriented tasks highlight planning and regulation, while Knowledge-Acquisition tasks emphasize monitoring and evaluation in the processes of information accumulation and integration. Further regression analyses show that the explanatory power of metacognitive dimensions on learning outcomes differs by task type. These findings enrich the understanding of metacognition within the context of exploratory search as learning and provide practical implications for the design of more effective exploratory search systems.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410241</guid>
-      <dc:creator>Jincheng Guo, Long Han, Yuhong Cui</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
-      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
-      <dc:creator>Pei-Chun Lee</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
-      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
-      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>The role of institutional policies in the sustainability of institutional repositories in Africa: A reflection from Ghana</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231220167</link>
-      <description><![CDATA[<p>Institutional repositories (IRs) are increasingly gaining prominence among African academic institutions, and Ghana is no exception. This can largely be attributed to the enduring value of hosting research outputs from institutional and individual depositors. Despite its increasing adoption, there is a growing concern about the sustainability of open access IRs, particularly in Africa. However, most of these factors that threaten the sustainability of IRs on the continent can be mitigated by enacting comprehensive institutional policies. Thus, this study sought to examine the role of institutional policies in the sustainability of IRs in Ghana. A total of 830 respondents comprised of IR managers, library staff, postgraduate students, lecturers and university librarians (management) from five public universities in Ghana took part in this study. Questionnaires, semi-structured interviews and document analysis were the main instruments used for data collection. The study yielded an overall response rate of 92.8%. The study findings revealed that public universities in Ghana have institutional IR policies that guide the operation, usage and management of their IRs. However, these policies were persuasive in nature and mainly focused on content submission and generation issues. The study underscored the IR policy’s importance in addressing content generation, awareness, advocacy and copyright restriction challenges. The study recommends the necessity of IR policies to focus on other factors such as technical requirements, expertise and others to ensure the sustainability of these repositories.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231220167</guid>
-      <dc:creator>Osman Imoro, Nampombe Saurombe</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
-      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
-      <dc:creator>Mariusz Stanowski</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
-      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
-      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
-      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
-      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
@@ -216,6 +133,141 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231205496</guid>
       <dc:creator>Hanna Shmagun, Jangsup Shim, Jaesoo Kim</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on the strategy for improving the utility of government social media information based on a multi-agent game model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231216019</link>
+      <description><![CDATA[<p>Government social media (GSM) has become an important tool for government departments to open information, guide public opinion and interact with the government and the people. However, the operation and maintenance of some GSM are not standardised, and the content published is inconsistent with identity positioning, resulting in the realistic dilemma of low utility of GSM information. The purpose of this study is to explore the effective strategies to improve the effectiveness of GSM information. The research is from the perspective of information economics, this article uses evolutionary game theory to build a tripartite evolutionary game model comprising GSM operations departments, government regulators and users in order to explore the evolution process of tripartite game behaviours and the influence of subject behaviour selection on information utility. It subsequently conducts a solution and numerical simulation to demonstrate the influence of different factors on the game results. The experimental results show that there are four situations in which the utility of GSM information affects the evolution and stability strategy of the subject and that changes in different parameter values have significant effects on the results of the three-party game. The evolution trend of the subject behaviour can be changed by increasing the regulatory means of rewards and punishments and establishing an efficient operation mechanism for GSM, thus promoting system convergence to the ideal state. The results of this study can provide references and suggestions for government departments to effectively enhance the effectiveness of GSM information and promote the healthy development of GSM.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231216019</guid>
+      <dc:creator>Ying Feng, Shanshan Zhang, Xiaoyang Sun</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>The role of institutional policies in the sustainability of institutional repositories in Africa: A reflection from Ghana</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231220167</link>
+      <description><![CDATA[<p>Institutional repositories (IRs) are increasingly gaining prominence among African academic institutions, and Ghana is no exception. This can largely be attributed to the enduring value of hosting research outputs from institutional and individual depositors. Despite its increasing adoption, there is a growing concern about the sustainability of open access IRs, particularly in Africa. However, most of these factors that threaten the sustainability of IRs on the continent can be mitigated by enacting comprehensive institutional policies. Thus, this study sought to examine the role of institutional policies in the sustainability of IRs in Ghana. A total of 830 respondents comprised of IR managers, library staff, postgraduate students, lecturers and university librarians (management) from five public universities in Ghana took part in this study. Questionnaires, semi-structured interviews and document analysis were the main instruments used for data collection. The study yielded an overall response rate of 92.8%. The study findings revealed that public universities in Ghana have institutional IR policies that guide the operation, usage and management of their IRs. However, these policies were persuasive in nature and mainly focused on content submission and generation issues. The study underscored the IR policy’s importance in addressing content generation, awareness, advocacy and copyright restriction challenges. The study recommends the necessity of IR policies to focus on other factors such as technical requirements, expertise and others to ensure the sustainability of these repositories.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231220167</guid>
+      <dc:creator>Osman Imoro, Nampombe Saurombe</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Metaverse technologies in public libraries: A PRISMA-guided systematic review of barriers,opportunities,and future directions</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463099</link>
+      <description><![CDATA[<p>Metaverse technology integration in public libraries offers revolutionary possibilities to improve information availability, user engagement, and interactive learning. This study carefully evaluates current literature to examine the hurdles, potential, and future directions of metaverse adoption in public libraries. The study used seven database sources – ProQuest Dissertations and Theses Global, IEEE Xplore, ACM Digital Library, Google Scholar, Web of Science, Scopus, and Library, Information Science &amp; Technology Abstracts (LISTA). The study was conducted between 2015 and 2025 and publication type included are book chapters, conference proceedings, and peer-reviewed journal papers were given preference. The inclusion criteria include studies that examined the best practices, policies, opportunities, and obstacles associated with the implementation of the metaverse in libraries; comprehensive literature reviews, empirical research published in respectable peer-reviewed journals, conference proceedings, or edited volumes, as well as studies using quantitative, qualitative, or mixed approaches, were all taken into consideration. However, the study excluded studies that had no bearing on public libraries and only addressed academic or special libraries. The report lists the advantages of metaverse technology, such as improved digital collections, cutting-edge service delivery methods, and immersive virtual learning environments. It also examines programs, rules, and best practices that have been put in place worldwide to facilitate the integration of the metaverse into public library environments. Despite these developments, a number of obstacles prevent broad acceptance, including high implementation costs, technological constraints, a lack of digital literacy, and moral dilemmas related to security and privacy. The report also discusses ways to make the most of metaverse technology, highlighting the necessity of cooperative policy frameworks, training in digital skills, and infrastructure development. According to research, metaverse technologies have the potential to completely transform library services, but to ensure fair access, a systematic and inclusive strategy is necessary. The study adds to the expanding conversation on digital transformation in public libraries by providing useful information for scholars, policymakers, and library workers. It highlights the need for more empirical research to evaluate the practical uses of metaverse technologies across diverse socioeconomic and cultural contexts. Cost–benefit analysis, ethical issues, and the potential of AI to improve metaverse-based library services should be the main topics of future studies. Public libraries can fully utilise metaverse technologies to remain influential, relevant, and accessible in the digital age by addressing three key issues.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463099</guid>
+      <dc:creator>Tella Adeyinka, Adebola Aderemi Olatoye</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Psychological effects of social media misinformation on cancer patients’ families: A systematic literature review</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463096</link>
+      <description><![CDATA[<p>Fake health information on social media has become a major public health issue, especially in cancer-related communication. Misleading cancer information online can negatively affect the emotions, psychological well-being, and treatment-related decisions of cancer patients’ families. Therefore, the present study aimed to identify the psychological effects of fake cancer information on social media on cancer patients’ families and to explore the challenges associated with controlling cancer misinformation in digital environments. A systematic literature review (SLR) methodology was employed to address the study objectives. Relevant peer-reviewed studies were retrieved from seven major digital databases and Google Scholar through a comprehensive search strategy. The selected studies were systematically analyzed to identify the major psychological consequences and misinformation-related challenges experienced by families of cancer patients. The findings revealed that fake cancer information on social media causes anxiety, uncertainty, emotional distress, distrust in healthcare professionals, financial losses, mental health problems, and poor treatment-related decision-making among patients’ families. The review further identified several barriers to combating cancer misinformation, including low digital health literacy, rapid dissemination of sensational content, financial motives of misinformation creators, and inadequate collaborative efforts among stakeholders. Based on the evidence-based findings, the study developed a conceptual framework to combat fake cancer information on social media platforms. The study contributes significantly to the existing literature by providing theoretical, managerial, and social implications for healthcare professionals, policymakers, digital platform regulators, and relevant stakeholders seeking to reduce the harmful psychological effects of cancer misinformation in digital environments.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463096</guid>
+      <dc:creator>Khurram Shahzad, Samreen Lateef, Mukhtar Ahmmad</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Metaverse revolution shaping the future of African library and information science research and scholarly publishing</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261461632</link>
+      <description><![CDATA[<p>This study examines how the emerging metaverse is shaping and can further transform the future of Library and Information Science (LIS) research and scholarly publishing in Africa. Using a mixed-methods research design, data were collected from LIS researchers, librarians, scholarly publishers, and research administrators to assess awareness levels, perceived opportunities, infrastructural readiness, and socio-technical challenges associated with metaverse adoption. Findings reveal growing awareness of core immersive technologies such as virtual and augmented reality, while knowledge of advanced applications including blockchain-enabled publishing, AI-driven immersive environments, and digital twins remains limited. Despite uneven awareness, respondents recognize the metaverse’s strong potential to expand access to research outputs, enhance scholarly collaboration, and improve the global visibility of African LIS scholarship. However, adoption is constrained by infrastructural deficits, capacity gaps, policy and governance limitations, and ethical concerns related to data privacy, intellectual property, and inclusivity. The study emphasizes that metaverse integration is fundamentally a socio-technical process rather than a purely technological endeavor. It proposes incremental and hybrid adoption models, capacity-building initiatives, and collaborative governance frameworks to support equitable and sustainable implementation. By foregrounding African epistemic contexts and digital inclusion, the study provides practical insights for LIS stakeholders and policy makers seeking to responsibly harness the metaverse to strengthen research and scholarly publishing ecosystems across Africa.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261461632</guid>
+      <dc:creator>Adeyinka Tella, Shola Temitope Famuyiwa</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Librarians’ preparedness for the 5th Industrial Revolution towards information service delivery</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/18758789261463097</link>
+      <description><![CDATA[<p>This study examined the preparedness of librarians for 5th IR with a focus on their awareness, level of preparedness, required competencies, and the challenges influencing effective information service delivery in Nigeria. The study adopted a descriptive survey research design, with data collected from 402 librarians across Nigeria’s six geopolitical zones using a structured questionnaire. The instrument was validated and yielded a reliability coefficient of 0.87. Data were analysed using descriptive statistics (frequency, percentage, mean, and standard deviation) and multiple regression analysis at a 0.05 level of significance. The findings revealed a high level of awareness of 5th IR technologies among librarians, particularly in areas such as automation, artificial intelligence, and digital transformation. However, the level of preparedness was found to be moderate, indicating a gap between awareness and practical application. Librarians demonstrated strong competencies in foundational areas such as information retrieval systems, electronic resource management, and digital collections, but showed relatively lower proficiency in advanced and emerging technologies. The study further identified key challenges, including inadequate funding, limited training opportunities, poor infrastructure, unstable power supply, and the high cost of technological tools. In addition, the results showed that demographic factors jointly influenced librarians’ preparedness, with age, years of experience, and educational qualification emerging as significant predictors, while gender had no significant effect. The study concludes that although librarians exhibit a positive disposition and foundational readiness for the 5th IR, there is a need to strengthen practical competencies and address systemic constraints. It recommends increased investment in technological infrastructure, continuous professional development, and strategic policy interventions to enhance librarians’ capacity for effective participation in the evolving digital information environment.</p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/18758789261463097</guid>
+      <dc:creator>Tope Ayoade Idowu, Sunday Olabisi Olatunji, James O. Enamudu</dc:creator>
+      <category domain="source">Information Services and Use</category>
+      <category domain="source_id">isu</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Research on exploratory search behavior and learning outcomes from a metacognitive perspective</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410241</link>
+      <description><![CDATA[<p>This study investigates exploratory search behaviors and learning outcomes from a metacognitive perspective, aiming to reveal the role of different metacognitive dimensions within the “search as learning” framework. A user experiment was conducted with 36 participants completing three types of exploratory search tasks. Data were collected through scales, screen recording analysis, and concept mapping, and analyzed using Spearman’s rank correlation analysis and multiple regression analysis. The results indicate that the influence of metacognitive abilities on exploratory search behaviors and learning outcomes varies significantly across task types: Decision-Evaluation tasks rely more on monitoring and evaluation, Planning-Oriented tasks highlight planning and regulation, while Knowledge-Acquisition tasks emphasize monitoring and evaluation in the processes of information accumulation and integration. Further regression analyses show that the explanatory power of metacognitive dimensions on learning outcomes differs by task type. These findings enrich the understanding of metacognition within the context of exploratory search as learning and provide practical implications for the design of more effective exploratory search systems.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410241</guid>
+      <dc:creator>Jincheng Guo, Long Han, Yuhong Cui</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Transforming library practices: Strategic pathways from general curation to special collections management</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251412861</link>
+      <description><![CDATA[<p>This study investigates strategic pathways for transitioning from general library curation to special collections management in national libraries, with a focus on Taiwan’s National Central Library. As the preservation of rare and culturally significant materials gains institutional priority, libraries must adopt structured change processes to address technological, organizational, and policy challenges. Grounded in Lewin’s three-stage model and Kotter’s eight-step framework, this research employs a qualitative case study approach combining document analysis, policy review, and semi-structured expert interviews. Findings reveal that institutional readiness, cross-sector collaboration, and strategic resource allocation are critical enablers of successful transformation. Key implementation strategies include the digitization of fragile materials, the integration of metadata standards, staff training, and the restructuring of workflows. Furthermore, sustained policy support and long-term funding are essential to maintaining operational continuity and cultural stewardship. This study contributes a practical framework for managing change in national libraries and offers insights into the broader discourse on cultural heritage preservation and digital curation.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251412861</guid>
+      <dc:creator>Pei-Chun Lee</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Erroneous concepts of prominent scientists: C. F. Weizsäcker,J. A. Wheeler,S. Wolfram,S. Lloyd,J. Schmidhuber,and M. Vopson,resulting from misunderstanding of information and complexity</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515231203644</link>
+      <description><![CDATA[<p>The common use of Shannon’s information, specified for the needs of telecommunications, gives rise to many misunderstandings outside of this context. (e.g. in conceptions of such well-known theorists as C.F. Weizsäcker and J. A. Wheeler). This article shows that the terms of the general definition of information meet the structural information, and Shannon’s information is a special case of it. Similarly, complexity is misunderstood today as exemplified by the concepts of reputable computer scientists, such as S. Lloyd, S. Wolfram and J. Schmidhuber. These theorists use an algorithmic definition of complexity and the so-called logical depth, neither of which meets the intuitive criterion of complexity. Hence, their misconceptions of beauty, art and the universe. It will be shown that the intuitive criterion is met by Abstract Complexity Definition. This definition also fulfils the criterion for a general complexity definition, as it defines complexity of the most general/abstract structure of our reality, that is, binary structure. It also explains such fundamental issues of information theory as the information–energy relationship and the value of information, which are still discussed and need to be clarified.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515231203644</guid>
+      <dc:creator>Mariusz Stanowski</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>What financial topics do people search for? An analysis of search queries using text mining</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241227533</link>
+      <description><![CDATA[<p>Billions of web searches are recorded every day; however, little is known about the types of financial information that users search for. While many studies have investigated information exchanges in financial forums, this is the first study to identify the financial information needs of Internet users in Malaysia through an analysis of search queries. We identified financial topics and discovered subtopics of interest using text mining. We found that topics with high search volume were related to financial products and services, and very little was related to concepts and information that would increase financial knowledge. The results of this study can be used to develop more strategic online financial education content that not only meets users’ financial information needs but also increases their financial knowledge, especially when the financial knowledge of the global population has remained low over the years.</p>]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241227533</guid>
+      <dc:creator>Nursabrina Abdul Jalil, Suraya Hamid</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
@@ -366,45 +418,6 @@
       <category domain="source_id">jis</category>
       <category>information-science</category>
       <category>journal</category>
-    </item>
-    <item>
-      <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
-      <description><![CDATA[<p>In The Dualism of Human Nature and Its Social Conditions , Durkheim differentiates the body and the soul as two substantially different and conflictual parts of the human being. Durkheim argues that the two opposite sides together produce the individual being who needs both body and soul, and their cooperation. Society has a similar existence produced by the antagonism of its body and its soul. Following Durkheim, I understand surveillance as the administration of this complicated duality of society. Surveillance society is a society where its soul is settled at a different level through re-embodiment. Datafied society is a higher form of this re-embodiment and tends to resolve the Durkheimian duality. Through this resolution, it threatens the very existence of society. This paper examines this tendency in datafication processes. The brief analysis also demonstrates the possible ways human flourishing may operate owing to the ambivalence of datafication. I argue that ambivalence is the very condition of (human) flourishing.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261453586</guid>
-      <dc:creator>Çağatay Topal</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
-      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
-      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>Beyond severance: The entangled economies of free software,open source and the high-tech industry</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261494679</link>
-      <description><![CDATA[<p>This article examines the enduring consequences of what I call “severance” in analyses of Free and Open Source Software (FOSS): the assumption that positions it as a separate world, antithetic to corporate production. Even after a decade of corporate investment and strategic integration, severance still underlies much research and influences how we observe and theorize FOSS. To move forward, I propose the perspective of entangled economies , which studies FOSS as an industrial public good, tied to the software industry and sustained through heterogeneous forms of labor. I substantiate this framework through a case study of Git, a central infrastructure of contemporary software production through which nearly every line of code circulates. Drawing on three years of ethnography and computational analysis, I present evidence of entanglement at multiple levels, showing that ties to industry are not confined to salaried contributors but also run through volunteer work. Each form of entanglement is woven from heterogeneous logics, including value capture and corporate control, but also care for infrastructures and engagement in what contributors call real work. This study develops an analytical lens for tracing how contemporary digital production takes shape through entangled relations of labor, valuation, and infrastructures.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261494679</guid>
-      <dc:creator>Gabriel Alcaras</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
     </item>
     <item>
       <title>Datafication meets democracy: Epistemic distrust and data-driven campaigns in India</title>

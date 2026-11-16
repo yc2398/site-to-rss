@@ -5,11 +5,24 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:04:04 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/bds.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
+      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
+      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
     <item>
       <title>Ambivalence of surveillance,dualism of datafied society,and possibilities of flourishing</title>
       <link>https://sage.cnpereading.com/doi/10.1177/20539517261453586</link>
@@ -24,12 +37,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>Decision-making by proxy: A contextual study of data intermediaries</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261492577</link>
-      <description><![CDATA[<p>Ensuring privacy in digital ecosystems presents significant challenges. Individual privacy-related decision-making has been widely criticised as insufficient. The mobility context, where computing is typically ubiquitous, makes this type of decision-making also operationally infeasible. This study examines whether innovative data governance strategies offer a promising approach. Drawing on contextual integrity theory, this paper examines the perceived appropriateness of delegating privacy-related decision-making to different types of data intermediaries (data cooperatives, AI agents, and experts) in mobility contexts. Specifically, a stratified, full-factorial vignette study ( N = 600) is conducted. The vignettes systematically varied across four contextual factors: sender, information type, purpose, and duration of data access approval. This design allows for the examination of how contextual factors influence preferences for data intermediary-based decision-making in mobility settings. Findings show that scenarios in which data cooperatives acted as the decision-makers were consistently rated as more appropriate than those involving AI agents or experts, particularly in high-stakes contexts such as traffic management and ambulance coordination. Nevertheless, scenarios involving individual control received the highest overall appropriateness ratings. Respondents’ preferences were context-dependent: they showed greater acceptance when the purpose of sharing aligned with public benefit, and when the access duration was either short (e.g., one day) or revocable (e.g., ‘until revoked’). The results underscore the relevance of hybrid governance models that combine individual control with the ability to delegate decision-making to trusted intermediaries, particularly in mobility contexts. Together, these contributions could aid in developing context-sensitive privacy frameworks that align with societal values in ubiquitous computing environments.</p>]]></description>
+      <title>The social and cultural life of artificial intelligence (AI) slop: A research framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261506941</link>
+      <description><![CDATA[<p>The proliferation of artificial intelligence (AI)-generated content across digital platforms has sparked urgent institutional responses, most focused on detection tools that treat synthetic content as a form of pollution—or more colloquially “slop”—requiring technical mitigation. We argue that such approaches are insufficient. Instead, we propose the analytical category SLOP, distinct from its vernacular dismissal, to name a condition rather than a class of objects: information ecosystems in which AI-generated content has reached sufficient scale and surface competence that the signals once used to evaluate quality no longer reliably do so. What has become scarce is not content but the means of judging it. Under this condition, the value and potential harm of any given artifact emerge not from properties innate to the content but from social context—who produces it, who engages with it, and with what motivations. Existing frameworks are useful but inadequate. Spam scholarship identifies the infrastructures of attention through which AI-generated content flows; misinformation research illuminates the participatory aspects of this content creation; and detection work can isolate the technical signals that mark AI use. Yet none accounts for the relational properties emerging around synthetic content, which is actively sought out by some users, unlike spam, and neither reliably false nor intended to deceive, as with misinformation. We characterize SLOP along three dimensions (production, reception, and effects), drawing on platform studies and cultural sociology to propose a research agenda spanning ethnographies of production, studies of reception, and analysis of institutional effects and governance.</p>]]></description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
-      <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261506941</guid>
+      <dc:creator>Richard Jean So, Hoyt Long</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
