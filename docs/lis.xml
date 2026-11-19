@@ -5,11 +5,37 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:25:23 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/lis.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research on exploratory search behavior and learning outcomes from a metacognitive perspective</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410241</link>
+      <description><![CDATA[<p>This study investigates exploratory search behaviors and learning outcomes from a metacognitive perspective, aiming to reveal the role of different metacognitive dimensions within the “search as learning” framework. A user experiment was conducted with 36 participants completing three types of exploratory search tasks. Data were collected through scales, screen recording analysis, and concept mapping, and analyzed using Spearman’s rank correlation analysis and multiple regression analysis. The results indicate that the influence of metacognitive abilities on exploratory search behaviors and learning outcomes varies significantly across task types: Decision-Evaluation tasks rely more on monitoring and evaluation, Planning-Oriented tasks highlight planning and regulation, while Knowledge-Acquisition tasks emphasize monitoring and evaluation in the processes of information accumulation and integration. Further regression analyses show that the explanatory power of metacognitive dimensions on learning outcomes differs by task type. These findings enrich the understanding of metacognition within the context of exploratory search as learning and provide practical implications for the design of more effective exploratory search systems.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410241</guid>
+      <dc:creator>Jincheng Guo, Long Han, Yuhong Cui</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
+      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
+      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
     <item>
       <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
@@ -69,19 +95,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372630</guid>
       <dc:creator>Zafar Imam Khan</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Research on exploratory search behavior and learning outcomes from a metacognitive perspective</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251410241</link>
-      <description><![CDATA[<p>This study investigates exploratory search behaviors and learning outcomes from a metacognitive perspective, aiming to reveal the role of different metacognitive dimensions within the “search as learning” framework. A user experiment was conducted with 36 participants completing three types of exploratory search tasks. Data were collected through scales, screen recording analysis, and concept mapping, and analyzed using Spearman’s rank correlation analysis and multiple regression analysis. The results indicate that the influence of metacognitive abilities on exploratory search behaviors and learning outcomes varies significantly across task types: Decision-Evaluation tasks rely more on monitoring and evaluation, Planning-Oriented tasks highlight planning and regulation, while Knowledge-Acquisition tasks emphasize monitoring and evaluation in the processes of information accumulation and integration. Further regression analyses show that the explanatory power of metacognitive dimensions on learning outcomes differs by task type. These findings enrich the understanding of metacognition within the context of exploratory search as learning and provide practical implications for the design of more effective exploratory search systems.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251410241</guid>
-      <dc:creator>Jincheng Guo, Long Han, Yuhong Cui</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
@@ -160,19 +173,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
       <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
-      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
-      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
