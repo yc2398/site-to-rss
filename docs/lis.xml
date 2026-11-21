@@ -5,63 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:01:50 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/lis.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Exploring the utilization of generative AI by librarians in higher education across the Gulf Cooperation Council (GCC) countries: Trends in adoption,innovative applications,and emerging challenges</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372630</link>
-      <description><![CDATA[<p>This study explores the adoption, applications, usage, training, challenges, and future perception of generative artificial intelligence tools among university librarians in the GCC region. The research aims to assess and evaluate artificial intelligence integration in various library services and operations, identifying training and institutional gaps and exploring librarians’ future perspectives on impact of GenAI in the libraries and their roles. The research employs a descriptive quantitative approach using an online survey targeting librarians working across higher education in the GCC region. The structured survey included questions related to demography, multiple choice responses for selection of AI tools and the application of these tools, and a Likert scale involving construct on measuring AI adoptions, training requirements, challenges and future perspective on GenAI technologies. A total of 160 participants were included in the study and various statistical analysis such as descriptive analysis, independent sample T-test and one way ANOVA tests were conducted to identify the key trends and group differences. The key finding revealed a widespread adoption of generative AI technologies with ChatGPT, Google, Gemini, and Microsoft Copilot being the most frequently used. The study found that librarians were using GenAI tools for various services including answering research queries, summarizing articles, research writing, information retrieval, and enhancing library services. Regardless of high adoption rates, the study highlights significant gaps in training and institutional support for AI technologies, with many librarians relying on self-based training to upskill themselves due to lack of structure AI training programs and institutional support. A country wise analysis revealed UAE, Saudi Arabia and Qatar have made substantial investments in AI training and infrastructure whereas Oman, Bahrain, and Kuwait are lagging. Key challenges include AI content accuracy, data privacy concerns, ethical risks such as bias and plagiarism. The study also found some gender related significant differences primarily related to their tasks. Despite the concerns related to the changing role of librarians and job loss, librarians in GCC reflected a positive and optimistic attitude despite toward AI applications in library and expected strong support from institutions in terms of investment in training and infrastructure for AI technologies. The study provides deep insights into the current state of GenAI adoption in universities libraries across the GCC region, highlighting the regional disparities in AI training and institutional support. It contributes toward the growing literature on AI literacy in Library &amp; information science and offers practical recommendations for academic institutions, policymakers and library &amp; information science professionals to bridge the gap in artificial intelligence skills and competencies and foster responsible use of AI integration in library services.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372630</guid>
-      <dc:creator>Zafar Imam Khan</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Academic reference librarians’ perception of information overload: An exploratory study</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251369125</link>
-      <description><![CDATA[<p>As digital information expands at an unprecedented pace, reference librarians in academic libraries face growing cognitive strain, commonly known as information overload (IO). This study investigates whether personality traits (extraversion, conscientiousness, and openness to experience), professional variables (self-efficacy, empowerment, and cognitive appraisals), and environmental factors (library disciplinary field and institutional type) are associated with academic librarians’ perceptions of IO. The study used a quantitative method, included 146 academic reference librarians and took place in Israel. Findings suggest that academic reference librarians’ perception of IO is mainly shaped by threat appraisal, self-efficacy, and the disciplinary field of their library. These insights improve the understanding academic reference librarians’ perception of IO and support the development of training and education programs that address discipline-specific information needs, helping academic reference librarians manage information overload more effectively.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
-      <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
-      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
-      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>Digital repositories and researchers’ perceptions of performance: Evidence from Serbia</title>
       <link>https://sage.cnpereading.com/doi/10.1177/09610006251410237</link>
@@ -108,6 +56,58 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251384357</guid>
       <dc:creator>Amelia Anderson</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Exploring the utilization of generative AI by librarians in higher education across the Gulf Cooperation Council (GCC) countries: Trends in adoption,innovative applications,and emerging challenges</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372630</link>
+      <description><![CDATA[<p>This study explores the adoption, applications, usage, training, challenges, and future perception of generative artificial intelligence tools among university librarians in the GCC region. The research aims to assess and evaluate artificial intelligence integration in various library services and operations, identifying training and institutional gaps and exploring librarians’ future perspectives on impact of GenAI in the libraries and their roles. The research employs a descriptive quantitative approach using an online survey targeting librarians working across higher education in the GCC region. The structured survey included questions related to demography, multiple choice responses for selection of AI tools and the application of these tools, and a Likert scale involving construct on measuring AI adoptions, training requirements, challenges and future perspective on GenAI technologies. A total of 160 participants were included in the study and various statistical analysis such as descriptive analysis, independent sample T-test and one way ANOVA tests were conducted to identify the key trends and group differences. The key finding revealed a widespread adoption of generative AI technologies with ChatGPT, Google, Gemini, and Microsoft Copilot being the most frequently used. The study found that librarians were using GenAI tools for various services including answering research queries, summarizing articles, research writing, information retrieval, and enhancing library services. Regardless of high adoption rates, the study highlights significant gaps in training and institutional support for AI technologies, with many librarians relying on self-based training to upskill themselves due to lack of structure AI training programs and institutional support. A country wise analysis revealed UAE, Saudi Arabia and Qatar have made substantial investments in AI training and infrastructure whereas Oman, Bahrain, and Kuwait are lagging. Key challenges include AI content accuracy, data privacy concerns, ethical risks such as bias and plagiarism. The study also found some gender related significant differences primarily related to their tasks. Despite the concerns related to the changing role of librarians and job loss, librarians in GCC reflected a positive and optimistic attitude despite toward AI applications in library and expected strong support from institutions in terms of investment in training and infrastructure for AI technologies. The study provides deep insights into the current state of GenAI adoption in universities libraries across the GCC region, highlighting the regional disparities in AI training and institutional support. It contributes toward the growing literature on AI literacy in Library &amp; information science and offers practical recommendations for academic institutions, policymakers and library &amp; information science professionals to bridge the gap in artificial intelligence skills and competencies and foster responsible use of AI integration in library services.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372630</guid>
+      <dc:creator>Zafar Imam Khan</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Academic reference librarians’ perception of information overload: An exploratory study</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251369125</link>
+      <description><![CDATA[<p>As digital information expands at an unprecedented pace, reference librarians in academic libraries face growing cognitive strain, commonly known as information overload (IO). This study investigates whether personality traits (extraversion, conscientiousness, and openness to experience), professional variables (self-efficacy, empowerment, and cognitive appraisals), and environmental factors (library disciplinary field and institutional type) are associated with academic librarians’ perceptions of IO. The study used a quantitative method, included 146 academic reference librarians and took place in Israel. Findings suggest that academic reference librarians’ perception of IO is mainly shaped by threat appraisal, self-efficacy, and the disciplinary field of their library. These insights improve the understanding academic reference librarians’ perception of IO and support the development of training and education programs that address discipline-specific information needs, helping academic reference librarians manage information overload more effectively.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
+      <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Fit for purpose: Exploring emergent readers’ categorisation of visual information using the repertory grid technique</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251404967</link>
+      <description><![CDATA[<p>This study provides insights into how emergent readers categorise visual content relevant to picture storybooks. While natural categorisation is a well-established area of psychological research, this study focuses on the practical educational challenge of how children’s librarians, early childhood educators, and parents can identify the most “fit for purpose”—that is, meaningful, appropriate, motivating, and relevant—sources of information to support children’s learning. Semi-structured interviews and repertory grid techniques were employed to identify the schematic constructs applied by 5- and 6-year-old children when interpreting visual images. A total of 111 children participated in the study. The majority identified and used schema categories such as live animals, community jobs, dinosaurs, superheroes and robots, buildings, vehicles, Pokémon, and princesses. Additionally, most participants applied a range of commonly recognised action schemes, including connecting, positioning, rotation, trajectories, and transporting. By adopting a radical child-centred approach, this study contributes to the categorisation of children’s library resources, particularly picture storybooks for emergent readers. The findings have the potential to support early childhood education for sustainable citizenship, a global objective aligned with the United Nations Sustainable Development Goals, especially SDG 4: Quality education.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251404967</guid>
+      <dc:creator>Ssu-Han Chen, Fang-Ching Liu, John Siraj-Blatchford</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
