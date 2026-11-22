@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 19:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:24:00 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -17,6 +17,19 @@
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261492577</guid>
       <dc:creator>August Bourgeus, Laurens Vandercruysse, Nanouk Verhulst</dc:creator>
+      <category domain="source">Big Data &amp; Society</category>
+      <category domain="source_id">bds</category>
+      <category>big-data</category>
+      <category>society</category>
+      <category>open-access</category>
+    </item>
+    <item>
+      <title>The social and cultural life of artificial intelligence (AI) slop: A research framework</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261506941</link>
+      <description><![CDATA[<p>The proliferation of artificial intelligence (AI)-generated content across digital platforms has sparked urgent institutional responses, most focused on detection tools that treat synthetic content as a form of pollution—or more colloquially “slop”—requiring technical mitigation. We argue that such approaches are insufficient. Instead, we propose the analytical category SLOP, distinct from its vernacular dismissal, to name a condition rather than a class of objects: information ecosystems in which AI-generated content has reached sufficient scale and surface competence that the signals once used to evaluate quality no longer reliably do so. What has become scarce is not content but the means of judging it. Under this condition, the value and potential harm of any given artifact emerge not from properties innate to the content but from social context—who produces it, who engages with it, and with what motivations. Existing frameworks are useful but inadequate. Spam scholarship identifies the infrastructures of attention through which AI-generated content flows; misinformation research illuminates the participatory aspects of this content creation; and detection work can isolate the technical signals that mark AI use. Yet none accounts for the relational properties emerging around synthetic content, which is actively sought out by some users, unlike spam, and neither reliably false nor intended to deceive, as with misinformation. We characterize SLOP along three dimensions (production, reception, and effects), drawing on platform studies and cultural sociology to propose a research agenda spanning ethnographies of production, studies of reception, and analysis of institutional effects and governance.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261506941</guid>
+      <dc:creator>Richard Jean So, Hoyt Long</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -37,12 +50,12 @@
       <category>open-access</category>
     </item>
     <item>
-      <title>The social and cultural life of artificial intelligence (AI) slop: A research framework</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261506941</link>
-      <description><![CDATA[<p>The proliferation of artificial intelligence (AI)-generated content across digital platforms has sparked urgent institutional responses, most focused on detection tools that treat synthetic content as a form of pollution—or more colloquially “slop”—requiring technical mitigation. We argue that such approaches are insufficient. Instead, we propose the analytical category SLOP, distinct from its vernacular dismissal, to name a condition rather than a class of objects: information ecosystems in which AI-generated content has reached sufficient scale and surface competence that the signals once used to evaluate quality no longer reliably do so. What has become scarce is not content but the means of judging it. Under this condition, the value and potential harm of any given artifact emerge not from properties innate to the content but from social context—who produces it, who engages with it, and with what motivations. Existing frameworks are useful but inadequate. Spam scholarship identifies the infrastructures of attention through which AI-generated content flows; misinformation research illuminates the participatory aspects of this content creation; and detection work can isolate the technical signals that mark AI use. Yet none accounts for the relational properties emerging around synthetic content, which is actively sought out by some users, unlike spam, and neither reliably false nor intended to deceive, as with misinformation. We characterize SLOP along three dimensions (production, reception, and effects), drawing on platform studies and cultural sociology to propose a research agenda spanning ethnographies of production, studies of reception, and analysis of institutional effects and governance.</p>]]></description>
+      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
+      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261506941</guid>
-      <dc:creator>Richard Jean So, Hoyt Long</dc:creator>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
+      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
@@ -95,19 +108,6 @@
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261500657</guid>
       <dc:creator>Jindong Leo-Liu, Yi Yang, Qiming Gu</dc:creator>
-      <category domain="source">Big Data &amp; Society</category>
-      <category domain="source_id">bds</category>
-      <category>big-data</category>
-      <category>society</category>
-      <category>open-access</category>
-    </item>
-    <item>
-      <title>AI is locking out Indigenous voices: Toward more equitable futures</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/20539517261498673</link>
-      <description><![CDATA[<p>Artificial intelligence (AI) increasingly helps communities make decisions related to healthcare, agriculture, education, and climate adaptation, yet most AI systems are built for people in connected, urban settings who speak dominant languages such as English. Indigenous and rural communities are often left out of the data, the model design, and the subsequent decisions that follow: a problem AI has not created, but has intensified. Using the Andes of Ecuador as a case in point, this commentary argues that this is a cyclical problem that is older than AI: where outside actors introduce a technology and decide how it will work without considering diverse cultures of people, often rural or Indigenous, who will use it. Unlike infrastructure projects such as a road or clinic which are commonly built in rural communities without prior consultation, commercial AI systems similarly are currently impacting communities but are controlled by distant companies, leaving community members with no clear local mechanism to contest or correct culturally inappropriate model outputs. Drawing on examples from Kichwa communities, we show how language, timing, and collective decision-making rarely fit the way most AI systems are designed, leading to advice that is misread, mistimed, or simply ignored. We then outline what a negotiated, culturally sensitive approach could look like: outputs checked by local community hierarchy before they reach the broader community, data used only with permission, and voice notes or images accepted as input, not only typed text. This is a concept, offered as a starting point to open a broader discussion in collaboration with developers and policymakers who want AI to serve these communities rather than sideline them. What is at stake is not only access to new tools, but who gets to decide how knowledge is used, and who can refuse that use altogether.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/20539517261498673</guid>
-      <dc:creator>Inti Josue Cachipuendo-Contero, Justin Yeager</dc:creator>
       <category domain="source">Big Data &amp; Society</category>
       <category domain="source_id">bds</category>
       <category>big-data</category>
