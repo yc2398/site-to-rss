@@ -5,35 +5,11 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:58:04 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://yc2398.github.io/site-to-rss/jis.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How could the Library and Information Studies curriculum better prepare graduates to address equity,diversity and inclusion issues in their workplace?</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241245960</link>
-      <description><![CDATA[<p>Equity, diversity and inclusion (EDI) practices in the library and information professions can be linked to the curriculum of the professional qualification, which plays an important role in preparing students for practice. The aim of this small, non-generalisable survey of recent graduates at one UK library school, a collaboration between two academic staff and two current and recent students, was to identify how the curriculum could better prepare graduates to address EDI issues in their workplace. Approaches for cultivating effective pedagogical strategies included the importance of recognising and exploring personal identity; group work and community building and embedding an EDI ethos, approach and method within the curriculum. Important gaps relating to the preparation of students for EDI practices that were noted included management and leadership; fostering learner positionality and addressing the broad scope of EDI work including all protected and other characteristics, alongside tensions between individual and structural approaches to change.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241245960</guid>
-      <dc:creator>Catherine Drewry, Sae Matsuno, Alison Hicks</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Study on the use and perception of Sci-Hub among Korean researchers</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/01655515241253824</link>
-      <description><![CDATA[<p>This study analysed the use and perception of Sci-Hub, a representative Black Open Access website, to understand the behaviours of Korean researchers facing limited access to the information required for research activities. Debates on the role and future of Sci-Hub vary widely, raising questions of illegality and morality. While many studies have examined Sci-Hub, few focused on users and their motivations. This study employed a mixed-methods approach, conducting quantitative and qualitative research on Korean researchers to address this gap. The findings reveal that Sci-Hub’s copyright infringement has not discouraged its use. Researchers who prioritise quick access to information over copyright concerns deemed the unsegmented subscription environment and cumbersome, time-consuming library services inadequate, thus justifying Sci-Hub’s use. Researchers are expected to continue utilising Sci-Hub, notwithstanding concerns about illegality, morality and ethics. This study underscores the challenges researchers encounter in obtaining academic information, and advocates for more efficient access options.</p>]]></description>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241253824</guid>
-      <dc:creator>Jee Young Suh</dc:creator>
-      <category domain="source">Journal of Information Science</category>
-      <category domain="source_id">jis</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
     <item>
       <title>The economics of libraries</title>
       <link>https://sage.cnpereading.com/doi/10.1177/01655515241233741</link>
@@ -65,6 +41,42 @@
       <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241260715</guid>
       <dc:creator>Fateme Farkhari, Mehrdad CheshmehSohrabi, Hossein Karshenas</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Cross-domain corpus selection for cold-start context</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241263283</link>
+      <description><![CDATA[<p>Sentiment analysis is a powerful tool for monitoring attitudes towards companies, products or services and identifying specific features that drive positive or negative sentiment. However, collecting labelled data for training sentiment analysis models in a specific domain can be challenging in practical applications. One promising solution to this ‘cold-start’ problem is domain adaptation, which leverages labelled data from a related source domain to train a model for the target domain. A critical yet often neglected aspect in prior research is the measurement of similarity between the source and target domains, a factor that greatly impacts the success of domain adaptation. To fill this gap, we propose a novel measure that combines semantic, syntactic and lexical features to assess corpus-level similarity between two domains. Our experimental results demonstrate that our method achieves high precision (0.91) and recall (0.75), outperforming traditional methods. Moreover, our proposed measure can assist new domain products in selecting the most suitable training data set for their sentiment analysis tasks.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241263283</guid>
+      <dc:creator>Wei-Ching Hsiao, Hei Chia Wang</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>How could the Library and Information Studies curriculum better prepare graduates to address equity,diversity and inclusion issues in their workplace?</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241245960</link>
+      <description><![CDATA[<p>Equity, diversity and inclusion (EDI) practices in the library and information professions can be linked to the curriculum of the professional qualification, which plays an important role in preparing students for practice. The aim of this small, non-generalisable survey of recent graduates at one UK library school, a collaboration between two academic staff and two current and recent students, was to identify how the curriculum could better prepare graduates to address EDI issues in their workplace. Approaches for cultivating effective pedagogical strategies included the importance of recognising and exploring personal identity; group work and community building and embedding an EDI ethos, approach and method within the curriculum. Important gaps relating to the preparation of students for EDI practices that were noted included management and leadership; fostering learner positionality and addressing the broad scope of EDI work including all protected and other characteristics, alongside tensions between individual and structural approaches to change.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241245960</guid>
+      <dc:creator>Catherine Drewry, Sae Matsuno, Alison Hicks</dc:creator>
+      <category domain="source">Journal of Information Science</category>
+      <category domain="source_id">jis</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Study on the use and perception of Sci-Hub among Korean researchers</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/01655515241253824</link>
+      <description><![CDATA[<p>This study analysed the use and perception of Sci-Hub, a representative Black Open Access website, to understand the behaviours of Korean researchers facing limited access to the information required for research activities. Debates on the role and future of Sci-Hub vary widely, raising questions of illegality and morality. While many studies have examined Sci-Hub, few focused on users and their motivations. This study employed a mixed-methods approach, conducting quantitative and qualitative research on Korean researchers to address this gap. The findings reveal that Sci-Hub’s copyright infringement has not discouraged its use. Researchers who prioritise quick access to information over copyright concerns deemed the unsegmented subscription environment and cumbersome, time-consuming library services inadequate, thus justifying Sci-Hub’s use. Researchers are expected to continue utilising Sci-Hub, notwithstanding concerns about illegality, morality and ethics. This study underscores the challenges researchers encounter in obtaining academic information, and advocates for more efficient access options.</p>]]></description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/01655515241253824</guid>
+      <dc:creator>Jee Young Suh</dc:creator>
       <category domain="source">Journal of Information Science</category>
       <category domain="source_id">jis</category>
       <category>information-science</category>
