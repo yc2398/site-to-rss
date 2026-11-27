@@ -5,7 +5,7 @@
     <link>https://yc2398.github.io/site-to-rss</link>
     <description>Monitor website changes, delivered as RSS · Updated daily</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:01:33 +0000</lastBuildDate>
     <generator>rss-aggregator</generator>
     <ttl>60</ttl>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -17,19 +17,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372633</guid>
       <dc:creator>Dorthe Sofie Dale, Bethany Aylward</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
-      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
-      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
@@ -56,6 +43,32 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251367458</guid>
       <dc:creator>Maria Pinto, David Caballero Mariscal, Rosaura Fernández-Pascual</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
+      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
+      <dc:creator>Andrew K. Shenton</dc:creator>
+      <category domain="source">Journal of Librarianship and Information Science</category>
+      <category domain="source_id">lis</category>
+      <category>librarianship</category>
+      <category>information-science</category>
+      <category>journal</category>
+    </item>
+    <item>
+      <title>Library privacy framework: Comparative review of data protection laws towards maturity model</title>
+      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372634</link>
+      <description><![CDATA[<p>Libraries provide access to resources through varied services. However, they also pose ethical concerns arising from collecting, processing, and storing patrons’ personal data to provide such services. Therefore, to safeguard patrons’ privacy on the web, this study sheds light on patrons’ privacy, privacy gaps in libraries, and theorised a privacy framework for libraries. The qualitative content analysed the Europe’s General Data Protection Regulation/679) and India’s Digital Personal Data Protection Act using Westin’s privacy theory. Review to these two legislations were conducted manually using deductive approach, generating a total of 14 privacy checklists that act as guidelines for the maturity model for libraries. These 14-privacy checklist, viz., enactment, scope, data collection, lawful processing, consent, patrons’ rights, children’s data, data sharing and transfer, data retention and erasure, data security, grievance redress, obligations, policy updates and penalties, were generated from these two legal documents. Thereafter, the strengths and limitations of both pieces of legislation were categorised and discussed which led to the development of a maturity model that guides libraries to improve their privacy practices in stages. The maturity model was conceived in five stages, namely: (1) Initial Stage (No policy and undocumented practices), (2) Growth Stage (Basic compliance and implementation), (3) Defined Stage (Structured and documented processes), (4) Managed Stage (Proactively monitored and audited) and (5) Regulated Stage (Fully automated, AI-based with continuous improvement). The study sheds light on the various gaps in the analysis of legal documents and the maturity model. It also suggests further studies to improve the existing model. The study is helpful for librarians who oversee library policies, vendors associated with libraries, technologists who implement safe privacy practices, institutions that are concerned with students’ online welfare and ultimately, for libraries aiming to raise awareness of privacy literacy.</p>]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372634</guid>
+      <dc:creator>Chanlang Ki Bareh, Tali Temjen</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
@@ -121,19 +134,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251369125</guid>
       <dc:creator>Orna Shachaf, Noa Aharony</dc:creator>
-      <category domain="source">Journal of Librarianship and Information Science</category>
-      <category domain="source_id">lis</category>
-      <category>librarianship</category>
-      <category>information-science</category>
-      <category>journal</category>
-    </item>
-    <item>
-      <title>Reciprocal reading as a basis for a model of sixth form information literacy</title>
-      <link>https://sage.cnpereading.com/doi/10.1177/09610006251372652</link>
-      <description><![CDATA[<p>We live in an era characterised by growing concerns that young people are reluctant to read whole books and prefer more manageable chunks of text, typically accessed on screens. The problem is exacerbated by the fact that many of the standard models for teaching information literacy give scant attention to the skill of reading. Typically, either the process is subsumed within more generic elements of the model or if reading is cited specifically it may be only one of several ways in which it is envisaged information can be accessed. This paper presents a model for information literacy instruction that gives reading a significant priority. It is intended for use by post-sixteen school students involved in major independent learning projects and primarily meant for teaching by professionals who work with them closely. Much of the paper concentrates on how the four elements of reciprocal reading (RR) – predicting, clarifying, questioning and summarising – can be applied to independent learning at this level, before demonstrating that RR can form the core of a wider model for teaching independent learning skills. A diagrammatic version can be employed by students to summarise and reflect on their own experiences in a project. Comparisons are drawn between the new framework being proposed and existing models so as to enable readers to understand the areas it covers in terms of a wider context. In addition, thought is given to how professionals can develop materials to support use of the model in their own libraries and independent learning areas.</p>]]></description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sage.cnpereading.com/doi/10.1177/09610006251372652</guid>
-      <dc:creator>Andrew K. Shenton</dc:creator>
       <category domain="source">Journal of Librarianship and Information Science</category>
       <category domain="source_id">lis</category>
       <category>librarianship</category>
